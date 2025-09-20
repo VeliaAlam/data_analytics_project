@@ -92,6 +92,7 @@ data_analytics_project/
 ---
 
 ## ⚙️ Tools and Technologies
+
 | Tool/Technology    | Purpose |
 |--------------------|---------|
 | **Python (pandas, matplotlib)** | Data analysis and EDA |
@@ -126,6 +127,7 @@ data_analytics_project_wage_gap_enriched.sql
 
 
 ## 📊 Tableau Dashboard
+
 The interactive dashboard provides multiple insights:
 World Map: Visual representation of the wage gap by country and year.
 Top & Bottom 5 Countries: Identify countries with the smallest and largest gaps.
@@ -137,7 +139,9 @@ Tableau Dashboard:
 https://public.tableau.com/app/profile/velia.alaminos/viz/WageGapGlobal/WageGapGlobal
 
 ## 📑 Deliverables
+
 This project includes:
+
 1. GitHub repository with:
     SQL scripts
     Python scripts
@@ -150,6 +154,7 @@ This project includes:
 3. Interactive Tableau dashboard.
 
 ## 🚀 Workflow
+
 1. Data Collection
     Import wage gap, HDI, and population data.
     Standardize country names using mapping tables.
@@ -172,10 +177,13 @@ Gender disparities remain significant in certain countries despite economic grow
 
 ## 👩‍💻 Author
 Velia Alaminos
+
     GitHub: https://github.com/VeliaAlam
+    
     LinkedIn: https://www.linkedin.com/in/velia-alaminos/
 
 ## 📜 License
+
 This project is for educational purposes only and is distributed under the MIT License.
 
 ---
