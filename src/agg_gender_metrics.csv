@@ -1,0 +1,1001 @@
+continent,country_clean,ISO_A,year,sector,indicator,indicator_group,age_group,education_level,HDI_2023,avg_m,avg_f,gap_abs,gap_pct,rows_count
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.786,0.17933333333333334,0.030666666666666665,0.14866666666666667,82.8996282527881,6
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.786,0.3135,0.08449999999999999,0.229,73.04625199362042,4
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.786,2.2883333333333336,1.2876666666666665,1.000666666666667,43.72906045156593,6
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.786,0.5483333333333333,0.581,-0.03266666666666662,-5.95744680851063,12
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.786,0.032,0.042,-0.010000000000000002,-31.250000000000007,4
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.786,0.09413333333333332,0.01516666666666667,0.07896666666666664,83.88810198300281,27
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.786,0.15130000000000002,0.04757142857142858,0.10372857142857145,68.55820980077425,17
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.786,1.1407333333333334,0.6352,0.5055333333333334,44.31652153585413,30
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.786,0.29818518518518533,0.3256666666666667,-0.027481481481481385,-9.216246429014992,54
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.786,0.06366666666666668,0.028666666666666663,0.03500000000000002,54.973821989528815,12
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.786,0.08962500000000001,0.08249999999999999,0.00712500000000002,7.949790794979101,10
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.786,0.6435833333333334,0.4867777777777778,0.1568055555555556,24.364452501186936,21
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.786,0.1999444444444444,0.21316666666666662,-0.013222222222222219,-6.612948041122533,36
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.786,0.032,0.042,-0.010000000000000002,-31.250000000000007,4
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.786,0.009,0.013,-0.004,-44.44444444444445,16
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.786,0.01625,0.008,0.00825,50.76923076923077,14
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.786,0.041666666666666664,0.022000000000000002,0.019666666666666662,47.19999999999999,12
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.786,0.20300000000000004,0.11916666666666664,0.0838333333333334,41.29720853858787,24
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.786,0.05972727272727273,0.05920000000000001,0.0005272727272727235,0.8828006088279996,42
+Oceania,Palau,PLW_A,2020,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.786,0.006999999999999999,0.013,-0.006,-85.71428571428572,12
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.786,0.09666666666666666,0.044,0.05266666666666667,54.48275862068965,4
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.786,0.34099999999999997,0.201,0.13999999999999996,41.055718475073306,3
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.786,1.5443333333333331,0.984,0.5603333333333331,36.28318584070796,6
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.786,0.8896000000000001,0.8638,0.025800000000000045,2.9001798561151126,10
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.786,0.045,0.072,-0.026999999999999996,-60,4
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.786,0.2181428571428571,0.09719999999999998,0.12094285714285713,55.44204322200393,12
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.786,0.7859999999999998,0.5021333333333334,0.2838666666666664,36.11535199321456,30
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.786,0.518590909090909,0.4991818181818182,0.019409090909090765,3.7426593040581726,44
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.786,0.045,0.072,-0.026999999999999996,-60,4
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.786,0.162,0.201,-0.03900000000000001,-24.07407407407408,6
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.786,0.43958333333333327,0.37977777777777777,0.0598055555555555,13.605055292259074,21
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.786,0.44399999999999995,0.3580000000000001,0.08599999999999985,19.369369369369338,25
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.786,0.029,0.04,-0.011,-37.93103448275862,12
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.786,0.09666666666666666,0.044,0.05266666666666667,54.48275862068965,4
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.786,0.05616666666666666,NULL,NULL,NULL,6
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.786,0.079,0.029,0.05,63.29113924050633,4
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.786,0.228,0.09100000000000001,0.137,60.08771929824561,14
+Oceania,Palau,PLW_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.786,0.09316666666666668,0.1,-0.00683333333333333,-7.334525939177097,20
+Oceania,Palau,PLW_A,2020,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.786,73.559,59.212,14.346999999999994,19.504071561603602,2
+Oceania,Palau,PLW_A,2020,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.786,89.5150909090909,80.14590909090909,9.369181818181815,10.466594764112905,22
+Oceania,Palau,PLW_A,2020,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.786,36.4448,28.2348,8.21,22.527219246641497,10
+Oceania,Palau,PLW_A,2020,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.786,51.08914285714286,36.66057142857142,14.428571428571438,28.2419524416706,14
+Oceania,Palau,PLW_A,2014,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.786,73.27,55.56,17.709999999999994,24.170874846458297,2
+Oceania,Palau,PLW_A,2014,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.786,89.58263636363637,75.40254545454546,14.180090909090907,15.829061841326798,22
+Oceania,Palau,PLW_A,2014,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.786,37.0432,29.785199999999996,7.258000000000003,19.593339668279206,10
+Oceania,Palau,PLW_A,2014,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.786,45.53542857142857,29.944,15.591428571428569,34.2402148405637,14
+Oceania,Palau,PLW_A,2020,Other,Employment,Employment,"Child (<15)","Not stated",0.786,5.659,3.807,1.8519999999999999,32.726630146669024,2
+Oceania,Palau,PLW_A,2020,Other,Employment,Employment,"Adults (25-54)","Not stated",0.786,1.666272727272727,1.1180909090909092,0.5481818181818177,32.89868514376123,22
+Oceania,Palau,PLW_A,2020,Other,Employment,Employment,"Youth (15-24)","Not stated",0.786,1.2637999999999998,0.8512000000000001,0.41259999999999974,32.64757081816742,10
+Oceania,Palau,PLW_A,2020,Other,Employment,Employment,"Senior (55+)","Not stated",0.786,0.45042857142857146,0.3077142857142857,0.14271428571428574,31.68411037107517,14
+Oceania,Palau,PLW_A,2014,Other,Employment,Employment,"Child (<15)","Not stated",0.786,5.027,3.795,1.2320000000000002,24.507658643326042,2
+Oceania,Palau,PLW_A,2014,Other,Employment,Employment,"Adults (25-54)","Not stated",0.786,1.524727272727273,1.1488181818181817,0.3759090909090912,24.65418554734082,22
+Oceania,Palau,PLW_A,2014,Other,Employment,Employment,"Youth (15-24)","Not stated",0.786,1.1434,0.8984,0.245,21.427322022039533,10
+Oceania,Palau,PLW_A,2014,Other,Employment,Employment,"Senior (55+)","Not stated",0.786,0.319,0.207,0.11200000000000002,35.109717868338564,14
+Oceania,Palau,PLW_A,2020,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.786,0.033,0.04,-0.006999999999999999,-21.21212121212121,2
+Oceania,Palau,PLW_A,2020,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.786,0.014166666666666668,0.018166666666666664,-0.003999999999999997,-28.23529411764703,12
+Oceania,Palau,PLW_A,2020,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.786,0.013250000000000001,0.014,-0.0007499999999999989,-5.660377358490557,8
+Oceania,Palau,PLW_A,2014,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.786,0.054,0.068,-0.014000000000000005,-25.925925925925934,2
+Oceania,Palau,PLW_A,2014,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.786,0.043,0.06,-0.017,-39.53488372093024,3
+Oceania,Palau,PLW_A,2014,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.786,0.034,0.048,-0.013999999999999999,-41.17647058823529,2
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,288.192,219.59633333333332,68.59566666666669,23.802071766970176,6
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,423.2545,273.7605,149.49400000000003,35.320120636638244,4
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,264.60966666666667,192.04099999999997,72.5686666666667,27.42479803584904,6
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,225.977,203.5715,22.405500000000018,9.914947096385923,8
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.678,16.352,18.472,-2.120000000000001,-12.964774951076327,4
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,111.76433333333333,91.16413333333335,20.600199999999973,18.431819334134598,30
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,182.3207,124.3555,57.96519999999998,31.792988947497452,20
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,122.40793333333336,89.89833333333334,32.50960000000002,26.558409340571075,30
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,110.52744999999997,109.26910526315791,1.2583447368420622,1.1384906978692284,39
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.678,9.781999999999998,9.63725,0.14474999999999838,1.4797587405438397,16
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,84.60933333333332,59.076750000000004,25.53258333333332,30.177029326945792,24
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,150.336125,90.971125,59.36500000000001,39.4881802361209,16
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,99.78433333333332,73.56224999999999,26.22208333333333,26.278757854439405,24
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,87.82238461538462,75.98776923076925,11.834615384615375,13.475625191054311,26
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.678,6.366250000000001,8.7095,-2.3432499999999994,-36.80738268211269,16
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,51.746833333333335,38.44933333333333,13.297500000000007,25.697224628882292,24
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,38.475,23.403000000000002,15.072,39.173489278752434,16
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,10.485333333333335,5.503166666666668,4.982166666666667,47.515577314343844,24
+"North America","El Salvador",SLV_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,16.372285714285713,14.507500000000002,1.864785714285711,11.389892326754252,26
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,291.594,201.40466666666669,90.18933333333331,30.929763072399748,6
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,415.1895,258.976,156.2135,37.62462682702718,4
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,252.46366666666665,178.54833333333332,73.91533333333334,29.27761222406921,6
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,231.481,200.59675000000001,30.88424999999998,13.342023751409396,8
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.678,11.979,12.571,-0.5920000000000005,-4.941981801485938,4
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,115.32119999999999,85.48939999999999,29.8318,25.86844396346899,30
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,175.82210000000003,118.6344,57.187700000000035,32.52588838376975,20
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,114.73719999999999,83.01033333333335,31.726866666666638,27.651770015885557,30
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,125.88177777777781,113.93777777777778,11.944000000000031,9.488267651482541,36
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.678,6.7125,6.166500000000001,0.5459999999999994,8.134078212290493,16
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,85.4215,55.04558333333332,30.375916666666676,35.560036602806875,24
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,153.74337500000001,85.485375,68.25800000000001,44.39736021145627,16
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,99.98241666666667,69.20391666666666,30.778500000000008,30.78391283800736,24
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,92.75838461538461,77.51376923076921,15.2446153846154,16.434757297494997,26
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.678,5.13725,6.38025,-1.2430000000000003,-24.19582461433647,16
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,50.76866666666666,32.918,17.850666666666662,35.16079471590088,24
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,35.806250000000006,21.669,14.137250000000005,39.482632222028286,16
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,8.111833333333331,7.731000000000001,0.3808333333333307,4.6947874504324645,20
+"North America","El Salvador",SLV_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,14.500714285714285,11.515499999999998,2.985214285714287,20.586670607359252,26
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,294.87,205.606,89.26400000000001,30.272323396751116,6
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,412.3295,245.2525,167.077,40.52026352710635,4
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,247.5176666666667,171.65333333333334,75.86433333333338,30.6500680759488,6
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,222.17825,190.896,31.282250000000005,14.079798540136132,8
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.678,11.462,15.602,-4.140000000000001,-36.11935089862154,4
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,118.45153333333334,86.76999999999998,31.681533333333363,26.746410486877075,30
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,173.74999999999997,111.578,62.17199999999997,35.78244604316546,20
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,110.80913333333334,77.92366666666666,32.88546666666667,29.677577720729403,30
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,127.34476470588234,113.12317647058823,14.221588235294107,11.167783982435816,34
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.678,6.85175,7.910500000000001,-1.0587500000000007,-15.452256722735077,16
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,86.75816666666668,56.08316666666665,30.675000000000033,35.35690203996168,24
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,158.022625,82.80287500000001,75.21974999999999,47.600620480769756,16
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,99.61891666666664,68.759,30.859916666666635,30.977968541784627,24
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,90.47676923076924,74.34384615384616,16.132923076923078,17.831011445351887,26
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.678,4.55975,7.591750000000001,-3.032000000000001,-66.49487362245739,16
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,48.390666666666675,34.02433333333333,14.366333333333344,29.68823189044721,24
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,31.75575,19.872750000000003,11.882999999999996,37.419994804090585,16
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,8.319166666666666,5.000166666666666,3.319,39.89582289892818,24
+"North America","El Salvador",SLV_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,15.852333333333336,12.029666666666666,3.82266666666667,24.11422082974117,24
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,288.2953333333333,209.71466666666666,78.58066666666664,27.257002656997564,6
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,413.2355,250.59550000000002,162.64,39.35770281110892,4
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,248.2063333333333,160.44233333333332,87.76399999999998,35.359291127408774,6
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,226.59475,186.172,40.42275000000001,17.83922619566429,8
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.678,14.771,16.075,-1.3039999999999985,-8.828109132760128,4
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,113.69346666666667,90.2108,23.48266666666666,20.654367709197004,30
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,173.18880000000001,110.0306,63.15820000000001,36.4678316380736,20
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,109.3981333333333,71.22893333333333,38.169199999999975,34.890174847590316,30
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,130.34788235294118,110.5595294117647,19.788352941176484,15.181184829375157,34
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.678,8.81625,9.02475,-0.20849999999999902,-2.364951084644821,16
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,84.23058333333334,56.97325000000001,27.257333333333335,32.36037583340176,24
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,158.78074999999998,83.93762500000001,74.84312499999997,47.13614528209495,16
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,102.20299999999999,66.99674999999998,35.20625000000001,34.447374343218904,24
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,93.06184615384616,74.43053846153845,18.631307692307715,20.020350403867095,26
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.678,5.47625,7.050250000000001,-1.5740000000000007,-28.74229627938828,16
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,49.61666666666667,32.239,17.37766666666667,35.023849512932486,24
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,32.132000000000005,25.304250000000003,6.827750000000002,21.249066351300886,16
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,8.042166666666668,5.5915,2.4506666666666685,30.47271672227635,20
+"North America","El Salvador",SLV_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,14.406,9.936,4.470000000000001,31.028738025822577,24
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,317.732,225.187,92.54500000000002,29.126748328780234,6
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,440.94050000000004,275.501,165.43950000000007,37.519688030471244,4
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,269.73066666666665,179.33900000000003,90.39166666666662,33.51182414062421,6
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,226.11999999999998,188.999,37.12099999999998,16.416504510879175,8
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,127.17599999999997,96.97226666666667,30.203733333333304,23.749554423266424,30
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,181.8701,125.23229999999998,56.63780000000003,31.141897431188536,20
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,119.85146666666668,79.33386666666667,40.517600000000016,33.80651161548852,30
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,115.71684210526315,100.24021052631578,15.476631578947377,13.374571322011086,38
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,93.62883333333333,61.29483333333334,32.333999999999996,34.53423357833146,24
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,170.039625,94.70525,75.334375,44.30401149143913,16
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,109.89833333333335,73.62641666666667,36.271916666666684,33.00497429442365,24
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,90.08523076923076,75.005,15.080230769230766,16.739959081485225,26
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,52.33983333333334,34.660666666666664,17.679166666666674,33.77765182031533,24
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,37.67975,21.54825,16.1315,42.812120568740504,16
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,9.081833333333334,6.057500000000001,3.024333333333333,33.30091207722376,24
+"North America","El Salvador",SLV_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,15.492142857142854,11.481833333333332,4.010309523809521,25.886086649146257,26
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,316.91799999999995,220.35,96.56799999999996,30.47097356413961,6
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,434.877,257.6965,177.1805,40.74266976639371,4
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,261.324,167.97099999999998,93.35300000000004,35.72308704902728,6
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,209.5755,185.03100000000003,24.54449999999997,11.711531166572414,8
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,127.78760000000001,95.14946666666667,32.63813333333334,25.54092363682653,30
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,181.34100000000004,115.5207,65.82030000000003,36.29642496732676,20
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,114.88159999999998,74.17100000000002,40.71059999999996,35.43700644837813,30
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,107.62115789473687,110.24211764705883,-2.6209597523219657,-2.435357325262658,36
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,94.95483333333335,60.43750000000001,34.51733333333335,36.351317907285754,24
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,165.81825,89.728125,76.090125,45.88766616461095,16
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,108.84533333333336,69.68541666666665,39.1599166666667,35.9775798074332,24
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,83.61030769230769,73.684,9.926307692307688,11.872109990118991,26
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,50.317333333333345,34.11033333333333,16.207000000000015,32.20957655413644,24
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,35.37675,20.6025,14.774250000000002,41.762598316691054,16
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,7.679833333333332,4.971333333333334,2.708499999999998,35.2676924412422,24
+"North America","El Salvador",SLV_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,13.533285714285716,9.615333333333334,3.917952380952382,28.950488917976493,26
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,333.59999999999997,232.30533333333332,101.29466666666664,30.364108713029577,6
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,442.6305,262.9615,179.66899999999998,40.59119287983995,4
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,244.20166666666668,164.76766666666666,79.43400000000003,32.52803352420473,6
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,189.7865,165.4155,24.37099999999998,12.841271639447474,8
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,135.88253333333336,100.7512,35.13133333333336,25.85419367120034,30
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,187.4245,119.20270000000002,68.22179999999997,36.399616912410046,20
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,105.44686666666666,72.71379999999999,32.73306666666667,31.042237385906212,30
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,98.11194736842106,93.33666666666667,4.775280701754383,4.867175537575137,37
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,100.95366666666668,63.299666666666646,37.65400000000003,37.29829855940517,24
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,169.46062500000002,92.463875,76.99675000000002,45.4363661174978,16
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,104.57241666666668,69.73258333333334,34.839833333333345,33.31646570279448,24
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,76.96692307692308,65.93153846153845,11.03538461538463,14.33782743836015,26
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,50.501666666666665,36.006,14.495666666666665,28.703343123989306,24
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,33.873000000000005,18.349749999999997,15.523250000000008,45.82779795117057,16
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,6.971666666666667,5.4742500000000005,1.4974166666666662,21.478603872818542,20
+"North America","El Salvador",SLV_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,12.771999999999998,8.254,4.517999999999999,35.37425618540557,24
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,329.528,231.46733333333336,98.06066666666666,29.757916373317794,6
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,421.56899999999996,272.4905,149.07849999999996,35.36277572591912,4
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,243.90600000000003,157.66233333333335,86.24366666666668,35.35938708628187,6
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,188.914,168.671,20.242999999999995,10.715457827371184,8
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,131.19653333333332,100.01240000000001,31.184133333333307,23.769022352216606,30
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,178.2663,125.11109999999996,53.155200000000036,29.817862377802218,20
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,106.94033333333336,69.84766666666665,37.0926666666667,34.685385308318374,30
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,104.95976470588238,95.81311111111113,9.146653594771252,8.714437975734748,35
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,101.068,64.21750000000002,36.85049999999998,36.46109550005935,24
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,164.10850000000002,95.39762499999998,68.71087500000004,41.86917496656178,16
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,101.40433333333334,66.12558333333332,35.27875000000002,34.7901799068416,24
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,77.80153846153847,66.85784615384615,10.943692307692316,14.066164402523196,26
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,51.747000000000014,34.80733333333333,16.93966666666668,32.735553107748615,24
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,29.976750000000003,18.362000000000002,11.61475,38.74586137589965,16
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,7.954166666666667,3.9433333333333334,4.010833333333333,50.42430591932949,24
+"North America","El Salvador",SLV_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,16.588000000000005,7.441499999999999,9.146500000000007,55.13925729442973,24
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,325.3673333333333,232.942,92.4253333333333,28.406457521857337,6
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,427.75350000000003,250.8095,176.94400000000002,41.365880115533834,4
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,193.54700000000003,127.14966666666668,66.39733333333335,34.30553474522123,6
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,212.6495,177.7695,34.879999999999995,16.402577951041504,8
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,129.9648,100.30733333333332,29.65746666666668,22.819614746967392,30
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,180.44899999999998,118.11110000000004,62.33789999999995,34.54599360484123,20
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,84.79106666666665,58.28286666666667,26.50819999999998,31.26296323669316,30
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,99.24735,89.19639999999998,10.050950000000014,10.127172161271828,40
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,99.57816666666668,65.24916666666667,34.32900000000001,34.47442461449883,24
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,168.672625,87.52862499999999,81.14400000000002,48.107391463196834,16
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,80.33225000000003,50.81491666666667,29.51733333333336,36.7440639759665,24
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,91.65615384615384,73.79723076923078,17.858923076923062,19.484696146970688,26
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,50.358000000000004,35.019666666666666,15.338333333333338,30.458583210876792,24
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,29.124000000000002,13.26925,15.854750000000003,54.43877901387173,16
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,6.52,4.6602500000000004,1.8597499999999991,28.523773006134956,20
+"North America","El Salvador",SLV_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,12.0565,9.6534,2.4031000000000002,19.931986895035873,26
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,330.95733333333334,235.57266666666666,95.38466666666667,28.820834911247374,6
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,409.202,254.5215,154.6805,37.80052394660828,4
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,188.29266666666663,132.10299999999998,56.18966666666665,29.841664925877797,6
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,205.7335,176.49375,29.239749999999987,14.212439879747338,8
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,132.77293333333333,103.13586666666667,29.637066666666655,22.32161775944293,30
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,172.4234,118.4849,53.93849999999999,31.282586934256017,20
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,83.23706666666666,59.147266666666674,24.08979999999999,28.941192865998786,30
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,98.94225000000003,88.59655000000001,10.345700000000022,10.45630152942754,40
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,103.30233333333335,66.56383333333332,36.73850000000003,35.56405631366832,24
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,162.57025,88.56787500000002,74.00237499999997,45.520244325145576,16
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,77.80833333333332,54.29541666666666,23.512916666666662,30.21902109885402,24
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,89.07115384615385,73.09992307692309,15.971230769230758,17.93086771595741,26
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,49.120666666666665,33.31333333333333,15.807333333333332,32.180616441144934,24
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,27.27425,15.954999999999998,11.31925,41.501599494028255,16
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,5.797833333333333,3.535333333333334,2.2624999999999993,39.023198321211936,24
+"North America","El Salvador",SLV_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,9.807142857142855,6.555428571428571,3.251714285714284,33.15659140568098,28
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.678,334.894,248.02733333333333,86.86666666666667,25.938555682295494,6
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.678,410.544,253.44099999999997,157.103,38.267031061226085,4
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.678,187.104,136.54466666666664,50.55933333333337,27.022048343880073,6
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.678,189.79375,163.09924999999998,26.694500000000005,14.065004774920148,8
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.678,131.95346666666666,110.17213333333335,21.781333333333308,16.50682917513344,30
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.678,169.40179999999998,117.56360000000002,51.83819999999996,30.600737418374518,20
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.678,82.03093333333335,62.21159999999999,19.81933333333336,24.16080437948614,30
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.678,91.53725,81.29095,10.246300000000005,11.193585125181285,40
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.678,106.7411666666667,69.72983333333335,37.011333333333354,34.67390744277045,24
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.678,167.46349999999998,88.713,78.75049999999999,47.0254712220872,16
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.678,79.04933333333331,55.32533333333334,23.72399999999997,30.011638301819932,24
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.678,79.49376923076923,68.87861538461537,10.61515384615386,13.353441343733778,26
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.678,50.65966666666667,34.14633333333334,16.513333333333335,32.59660874199725,24
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.678,27.12825,15.825500000000002,11.30275,41.66413240809857,16
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.678,5.058166666666668,3.185333333333333,1.8728333333333347,37.02593166166927,24
+"North America","El Salvador",SLV_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.678,11.055000000000001,5.9245714285714275,5.130428571428574,46.40821864702463,28
+"North America","El Salvador",SLV_A,2023,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,78.099,48.79,29.309000000000005,37.528009321502196,2
+"North America","El Salvador",SLV_A,2023,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,92.55436363636363,62.26745454545455,30.286909090909084,32.723372406192716,22
+"North America","El Salvador",SLV_A,2023,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,59.25319999999999,34.4528,24.80039999999999,41.8549546691149,10
+"North America","El Salvador",SLV_A,2023,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,65.45585714285714,33.90685714285714,31.549,48.19889522055213,14
+"North America","El Salvador",SLV_A,2022,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,77.708,46.376,31.332,40.320172955165496,2
+"North America","El Salvador",SLV_A,2022,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,92.11072727272727,59.35845454545454,32.75227272727273,35.55750095241103,22
+"North America","El Salvador",SLV_A,2022,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,61.456,33.6372,27.818800000000003,45.266206717000784,10
+"North America","El Salvador",SLV_A,2022,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,63.37171428571429,30.774857142857144,32.59685714285715,51.43754987578956,14
+"North America","El Salvador",SLV_A,2021,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,76.808,45.409,31.399000000000008,40.8798562649724,2
+"North America","El Salvador",SLV_A,2021,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.02918181818181,58.27018181818182,32.75899999999999,35.98736069651989,22
+"North America","El Salvador",SLV_A,2021,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,61.8432,32.995200000000004,28.848,46.647004036013655,10
+"North America","El Salvador",SLV_A,2021,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,61.99685714285714,31.201285714285714,30.795571428571424,49.67279447345257,14
+"North America","El Salvador",SLV_A,2020,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,75.647,45.36,30.287000000000006,40.03727841156953,2
+"North America","El Salvador",SLV_A,2020,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.53690909090909,58.68418181818181,32.85272727272728,35.890142674688605,22
+"North America","El Salvador",SLV_A,2020,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,59.2384,33.6544,25.583999999999996,43.18820224719101,10
+"North America","El Salvador",SLV_A,2020,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,61.85685714285715,30.705857142857138,31.151000000000014,50.35981690446608,14
+"North America","El Salvador",SLV_A,2019,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,78.017,46.31,31.706999999999994,40.641142315136435,2
+"North America","El Salvador",SLV_A,2019,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.94572727272728,59.612181818181824,32.33354545454546,35.16590320574489,22
+"North America","El Salvador",SLV_A,2019,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,63.32320000000001,34.09439999999999,29.228800000000014,46.158122141647944,10
+"North America","El Salvador",SLV_A,2019,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,65.9327142857143,32.335,33.5977142857143,50.9575779636816,14
+"North America","El Salvador",SLV_A,2018,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,76.843,45.493,31.35,40.79747016644327,2
+"North America","El Salvador",SLV_A,2018,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.50045454545453,58.379,33.12145454545453,36.19813115682485,22
+"North America","El Salvador",SLV_A,2018,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,61.053599999999996,33.7062,27.347399999999993,44.792444671567274,10
+"North America","El Salvador",SLV_A,2018,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,64.65828571428573,31.09742857142857,33.56085714285716,51.90495970022626,14
+"North America","El Salvador",SLV_A,2017,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,77.47,45.738,31.732,40.96037175680909,2
+"North America","El Salvador",SLV_A,2017,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.7198181818182,58.60827272727274,33.11154545454546,36.10075348046124,22
+"North America","El Salvador",SLV_A,2017,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,62.67620000000001,33.3404,29.335800000000006,46.80532642374618,10
+"North America","El Salvador",SLV_A,2017,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,64.75785714285715,31.976285714285716,32.78157142857143,50.621766801601574,14
+"North America","El Salvador",SLV_A,2016,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,77.352,46.529,30.823,39.847709173647736,2
+"North America","El Salvador",SLV_A,2016,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.43590909090909,60.05145454545454,31.384454545454552,34.32399246367302,22
+"North America","El Salvador",SLV_A,2016,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,61.8796,33.801,28.0786,45.37618213433829,10
+"North America","El Salvador",SLV_A,2016,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,66.41485714285713,31.761571428571433,34.6532857142857,52.17700858671896,14
+"North America","El Salvador",SLV_A,2015,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,76.846,45.981,30.865000000000002,40.16474507456472,2
+"North America","El Salvador",SLV_A,2015,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.16054545454546,59.27836363636363,31.882181818181827,34.973662848560885,22
+"North America","El Salvador",SLV_A,2015,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,61.5674,32.7736,28.793799999999997,46.767932379798395,10
+"North America","El Salvador",SLV_A,2015,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,65.76785714285714,31.511999999999997,34.25585714285714,52.08601683410264,14
+"North America","El Salvador",SLV_A,2014,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,77.54,47.025,30.515000000000008,39.353881867423276,2
+"North America","El Salvador",SLV_A,2014,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,91.7458181818182,60.05772727272727,31.688090909090924,34.53900301623855,22
+"North America","El Salvador",SLV_A,2014,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,62.50999999999999,33.8716,28.63839999999999,45.814109742441204,10
+"North America","El Salvador",SLV_A,2014,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,65.95671428571428,32.99671428571429,32.959999999999994,49.97216789366185,14
+"North America","El Salvador",SLV_A,2013,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.678,78.227,48.607,29.620000000000005,37.86416454676774,2
+"North America","El Salvador",SLV_A,2013,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.678,92.57518181818182,61.45009090909091,31.125090909090908,33.62142023141879,22
+"North America","El Salvador",SLV_A,2013,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.678,63.415200000000006,35.143,28.272200000000005,44.58268680064086,10
+"North America","El Salvador",SLV_A,2013,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.678,67.44500000000001,34.76871428571429,32.67628571428572,48.448788960316875,14
+"North America","El Salvador",SLV_A,2023,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1674.066,1272.634,401.432,23.97946078589494,2
+"North America","El Salvador",SLV_A,2023,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,436.07118181818186,349.68909090909096,86.38209090909089,19.809172105554904,22
+"North America","El Salvador",SLV_A,2023,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,461.35939999999994,328.5712,132.78819999999996,28.78194310119182,10
+"North America","El Salvador",SLV_A,2023,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,135.80614285714282,94.8577142857143,40.94842857142852,30.152118092701443,14
+"North America","El Salvador",SLV_A,2022,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1658.742,1201.719,457.0229999999999,27.55238608535866,2
+"North America","El Salvador",SLV_A,2022,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,429.41372727272733,333.7892727272727,95.62445454545463,22.268606817201736,22
+"North America","El Salvador",SLV_A,2022,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,471.6058,314.2208,157.385,33.372151063451724,10
+"North America","El Salvador",SLV_A,2022,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,127.15157142857144,82.25328571428572,44.89828571428572,35.31083824591798,14
+"North America","El Salvador",SLV_A,2021,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1614.175,1151.042,463.13300000000004,28.691622655536115,2
+"North America","El Salvador",SLV_A,2021,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,417.27763636363636,314.9502727272727,102.32736363636366,24.52260910220229,22
+"North America","El Salvador",SLV_A,2021,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,467.41720000000004,304.4996,162.91760000000005,34.85485771597623,10
+"North America","El Salvador",SLV_A,2021,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,118.035,82.3437142857143,35.6912857142857,30.23788343651095,14
+"North America","El Salvador",SLV_A,2020,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1606.45,1129.505,476.94499999999994,29.689377198169876,2
+"North America","El Salvador",SLV_A,2020,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,412.669090909091,306.63999999999993,106.02909090909105,25.693489831165657,22
+"North America","El Salvador",SLV_A,2020,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,466.56540000000007,303.1028,163.46260000000007,35.035302660677374,10
+"North America","El Salvador",SLV_A,2020,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,118.24371428571429,81.03385714285714,37.209857142857146,31.468782393748505,14
+"North America","El Salvador",SLV_A,2019,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1703.074,1205.045,498.029,29.242945403429328,2
+"North America","El Salvador",SLV_A,2019,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,435.28390909090916,328.6685454545455,106.61536363636367,24.493293092094756,22
+"North America","El Salvador",SLV_A,2019,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,492.3362,322.5864,169.7498,34.478431608319674,10
+"North America","El Salvador",SLV_A,2019,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,132.0312857142857,85.26928571428572,46.761999999999986,35.41736320071324,14
+"North America","El Salvador",SLV_A,2018,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1649.322,1164.944,484.37799999999993,29.36831012985942,2
+"North America","El Salvador",SLV_A,2018,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,421.6016363636364,317.758,103.84363636363639,24.630747939998514,22
+"North America","El Salvador",SLV_A,2018,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,479.892,314.5848,165.30720000000002,34.44675051886675,10
+"North America","El Salvador",SLV_A,2018,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,123.82585714285715,80.25685714285713,43.56900000000002,35.18570434746494,14
+"North America","El Salvador",SLV_A,2017,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1610.302,1141.792,468.51,29.094542514385502,2
+"North America","El Salvador",SLV_A,2017,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,411.8337272727273,311.7211818181818,100.11254545454551,24.308972001277667,22
+"North America","El Salvador",SLV_A,2017,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,475.576,309.1228,166.45320000000004,35.00033643413462,10
+"North America","El Salvador",SLV_A,2017,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,116.81014285714286,77.1617142857143,39.64842857142857,33.94262484544517,14
+"North America","El Salvador",SLV_A,2016,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1579.431,1147.586,431.845,27.341808537378338,2
+"North America","El Salvador",SLV_A,2016,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,399.2745454545455,314.40909090909093,84.86545454545455,21.254912318249914,22
+"North America","El Salvador",SLV_A,2016,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,467.59039999999993,312.6914,154.89899999999994,33.12707018792515,10
+"North America","El Salvador",SLV_A,2016,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,120.51342857142856,75.06214285714286,45.4512857142857,37.71470636348764,14
+"North America","El Salvador",SLV_A,2015,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1560.28,1106.752,453.528,29.067090522213963,2
+"North America","El Salvador",SLV_A,2015,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,393.0250909090909,306.03390909090916,86.99118181818176,22.13374764877374,22
+"North America","El Salvador",SLV_A,2015,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,466.58119999999997,299.3454,167.23579999999998,35.84280721126355,10
+"North America","El Salvador",SLV_A,2015,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,116.52814285714284,70.28357142857142,46.24457142857142,39.68532432999018,14
+"North America","El Salvador",SLV_A,2014,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1521.398,1122.684,398.71399999999994,26.207080592980926,2
+"North America","El Salvador",SLV_A,2014,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,388.45863636363634,309.2034545454546,79.25518181818177,20.402476454144516,22
+"North America","El Salvador",SLV_A,2014,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,455.991,307.27939999999995,148.71160000000003,32.61283665686385,10
+"North America","El Salvador",SLV_A,2014,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,106.54800000000002,70.85571428571428,35.69228571428573,33.498785255739875,14
+"North America","El Salvador",SLV_A,2013,Other,Employment,Employment,"Child (<15)","Not stated",0.678,1511.128,1118.379,392.749,25.990452165534624,2
+"North America","El Salvador",SLV_A,2013,Other,Employment,Employment,"Adults (25-54)","Not stated",0.678,378.7677272727273,308.97072727272734,69.79699999999997,18.427388337059522,22
+"North America","El Salvador",SLV_A,2013,Other,Employment,Employment,"Youth (15-24)","Not stated",0.678,462.05520000000007,305.6991999999999,156.35600000000017,33.83924691249014,10
+"North America","El Salvador",SLV_A,2013,Other,Employment,Employment,"Senior (55+)","Not stated",0.678,109.82314285714286,70.25528571428572,39.567857142857136,36.028705893371416,14
+"North America","El Salvador",SLV_A,2023,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,46.697,44.198,2.4990000000000023,5.351521511017843,2
+"North America","El Salvador",SLV_A,2023,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,11.26209090909091,10.845454545454546,0.41663636363636414,3.6994583599041073,22
+"North America","El Salvador",SLV_A,2023,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,17.2552,17.1102,0.14499999999999957,0.8403263943622767,10
+"North America","El Salvador",SLV_A,2023,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,2.75475,0.995,1.75975,63.880569924675555,6
+"North America","El Salvador",SLV_A,2022,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,47.475,40.951,6.524000000000001,13.741969457609269,2
+"North America","El Salvador",SLV_A,2022,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,11.571090909090907,9.076727272727272,2.4943636363636355,21.556858000345684,22
+"North America","El Salvador",SLV_A,2022,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,17.978,17.5796,0.3984000000000023,2.2160418289020036,10
+"North America","El Salvador",SLV_A,2022,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,1.72325,NULL,NULL,NULL,4
+"North America","El Salvador",SLV_A,2021,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,67.554,57.493,10.061,14.893270568730198,2
+"North America","El Salvador",SLV_A,2021,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,15.640818181818183,13.327181818181815,2.313636363636368,14.792297543141805,22
+"North America","El Salvador",SLV_A,2021,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,25.806,23.623199999999997,2.182800000000004,8.45849802371543,10
+"North America","El Salvador",SLV_A,2021,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,2.515857142857143,0.715,1.8008571428571432,71.58026233603998,9
+"North America","El Salvador",SLV_A,2020,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,79.498,64.745,14.753,18.557699564768924,2
+"North America","El Salvador",SLV_A,2020,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,18.416272727272723,17.051099999999998,1.365172727272725,7.4128611554010915,21
+"North America","El Salvador",SLV_A,2020,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,30.443800000000003,26.2568,4.187000000000005,13.75321083438994,10
+"North America","El Salvador",SLV_A,2020,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,2.341285714285714,0,2.341285714285714,100,8
+"North America","El Salvador",SLV_A,2019,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,71.301,55.243,16.058,22.521423261945834,2
+"North America","El Salvador",SLV_A,2019,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,16.12690909090909,13.668900000000002,2.458009090909089,15.241662720692675,21
+"North America","El Salvador",SLV_A,2019,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,28.4098,23.470399999999994,4.939400000000006,17.386254039099207,10
+"North America","El Salvador",SLV_A,2019,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,2.5144285714285712,0.4064,2.108028571428571,83.83728197261519,12
+"North America","El Salvador",SLV_A,2018,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,72.069,45.365,26.704,37.05337940029694,2
+"North America","El Salvador",SLV_A,2018,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,16.97481818181818,9.923909090909092,7.050909090909087,41.53746458658011,22
+"North America","El Salvador",SLV_A,2018,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,28.3752,19.9536,8.421599999999998,29.679438382813156,10
+"North America","El Salvador",SLV_A,2018,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,1.566857142857143,NULL,NULL,NULL,7
+"North America","El Salvador",SLV_A,2017,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,78.604,47.61,30.994,39.43056333011043,2
+"North America","El Salvador",SLV_A,2017,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,18.02318181818182,10.318363636363634,7.704818181818185,42.74948929409096,22
+"North America","El Salvador",SLV_A,2017,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,30.4512,20.985400000000002,9.465799999999998,31.08514606977721,10
+"North America","El Salvador",SLV_A,2017,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,2.613428571428571,0,2.613428571428571,100,10
+"North America","El Salvador",SLV_A,2016,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,80.117,45.941,34.176,42.65761324063557,2
+"North America","El Salvador",SLV_A,2016,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,17.349636363636368,11.03381818181818,6.315818181818187,36.4031732391562,22
+"North America","El Salvador",SLV_A,2016,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,31.9826,18.7548,13.227800000000002,41.359364154258884,10
+"North America","El Salvador",SLV_A,2016,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,3.3621428571428567,0,3.3621428571428567,100,8
+"North America","El Salvador",SLV_A,2015,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,71.305,39.773,31.532000000000004,44.22130285393731,2
+"North America","El Salvador",SLV_A,2015,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,16.128636363636364,9.678799999999999,6.449836363636365,39.98996702646338,21
+"North America","El Salvador",SLV_A,2015,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,28.0254,16.5732,11.452200000000001,40.86364512192511,10
+"North America","El Salvador",SLV_A,2015,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,2.282571428571429,1.04,1.2425714285714289,54.43735135811741,9
+"North America","El Salvador",SLV_A,2014,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,78.228,36.368,41.85999999999999,53.51025208365291,2
+"North America","El Salvador",SLV_A,2014,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,16.931636363636365,8.203545454545454,8.728090909090911,51.54900992225421,22
+"North America","El Salvador",SLV_A,2014,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,32.7566,15.633200000000002,17.123399999999997,52.27465609983941,10
+"North America","El Salvador",SLV_A,2014,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,2.1852857142857145,0,2.1852857142857145,100,11
+"North America","El Salvador",SLV_A,2013,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.678,62.287,38.532,23.755000000000003,38.137974216128576,2
+"North America","El Salvador",SLV_A,2013,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.678,13.648363636363637,8.224909090909092,5.423454545454545,39.73703141235712,22
+"North America","El Salvador",SLV_A,2013,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.678,26.176599999999997,17.4692,8.707399999999996,33.26406026756721,10
+"North America","El Salvador",SLV_A,2013,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.678,1.8544285714285713,NULL,NULL,NULL,7
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,1328.0136666666667,585.8866666666667,742.1270000000001,55.882482133090505,6
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,3444.7275,1787.804,1656.9234999999999,48.100277888454166,4
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3639.702333333333,2654.3013333333333,985.4009999999998,27.073670035470847,6
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,1203.8798333333334,1349.8655,-145.9856666666667,-12.126265647498874,12
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,484.34506666666664,213.89126666666664,270.4538,55.83907396049318,30
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,1466.368,783.7949000000001,682.5730999999998,46.54855397826466,20
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1705.545333333334,1261.4371333333331,444.1082000000008,26.039073328647998,30
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,612.2495333333333,700.9747333333329,-88.72519999999963,-14.49167294860053,60
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,0.091,0.224,-0.133,-146.15384615384616,4
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,357.7409166666667,151.97708333333335,205.76383333333334,57.51755635072029,24
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1138.464375,550.874125,587.59025,51.61252849918997,16
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1296.5685833333334,950.8221666666669,345.7464166666665,26.66626517957045,24
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,401.24719047619044,465.26438095238086,-64.01719047619042,-15.954551706696407,42
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,296.33316666666667,138.9925,157.34066666666666,53.09586788294032,24
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,411.25675,226.2665,184.99025,44.9816933095931,16
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,192.2275,116.40283333333332,75.82466666666667,39.445275346486156,24
+"South America",Colombia,COL_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,77.63466666666666,61.671250000000015,15.963416666666646,20.56222735547691,48
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,1356.986,565.6806666666666,791.3053333333335,58.313448578934,6
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,3445.2005,1760.7579999999998,1684.4425,48.89243746481519,4
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3558.2306666666664,2564.742333333333,993.4883333333332,27.92085242365775,6
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,1150.3371666666667,1300.7980000000002,-150.46083333333354,-13.079715903583647,12
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,0.433,NULL,NULL,NULL,2
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,505.9457333333332,212.95879999999997,292.98693333333324,57.908766500122674,30
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,1475.8020000000001,789.4235000000001,686.3785,46.50884739280743,20
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1668.0355333333334,1221.7827333333335,446.2528,26.753195065828532,30
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,583.0924333333332,674.1182000000002,-91.02576666666698,-15.610863983657763,60
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,0.423,0.016,0.407,96.2174940898345,4
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,367.6808333333333,147.79658333333336,219.88424999999992,59.80302209570346,24
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1145.16075,544.21175,600.949,52.47726138011628,16
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1279.4203333333332,923.6615833333334,355.75874999999985,27.80624480721868,24
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,384.22585714285714,451.8041428571428,-67.57828571428564,-17.58816707881263,42
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,0.228,NULL,NULL,NULL,2
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,291.0493333333334,125.78766666666667,165.2616666666667,56.78132458643896,24
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,398.189,203.06074999999998,195.12825000000004,49.00392778303771,16
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,176.63066666666666,104.84750000000003,71.78316666666663,40.640262544065564,24
+"South America",Colombia,COL_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,83.46772727272729,57.957499999999975,25.510227272727313,30.562982971099377,46
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,320.1123333333333,186.519,133.5933333333333,41.73326655122108,5
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4295.016,2038.8870000000002,2256.1289999999995,52.529001056107816,4
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3879.44,2679.3676666666665,1200.0723333333335,30.934164037421212,6
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,3499.867,3747.247,-247.37999999999965,-7.06826859420657,4
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,1.63,1.582,0.04799999999999982,2.944785276073609,4
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,148.96800000000005,55.27063636363636,93.69736363636369,62.89764488773674,22
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,1826.98,887.7976999999998,939.1823000000002,51.40627155196007,20
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1803.137,1265.5418000000002,537.5951999999997,29.814440056412785,30
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1714.8546000000001,1861.9262000000003,-147.07160000000022,-8.5763306113533,20
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,1.07375,0.843,0.23075,21.490104772991852,12
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,113.82944444444443,47.65225000000001,66.17719444444442,58.137149634199304,17
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1309.97675,588.6077499999999,721.3690000000001,55.067313217581926,16
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1406.5022500000002,967.117666666667,439.38458333333324,31.239522249845898,24
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,1135.21975,1260.04925,-124.82950000000005,-10.996064858808179,16
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,0.48424999999999996,1.21,-0.72575,-149.87093443469283,10
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,118.3435,51.876000000000005,66.4675,56.16489287540084,16
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,597.178,297.41375,299.76425,50.19680061891094,16
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,200.14683333333332,120.27983333333333,79.86699999999999,39.90420366381015,24
+"South America",Colombia,COL_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,198.44,148.9535,49.48650000000001,24.93776456359605,16
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,396.2943333333333,245.35199999999998,150.94233333333335,38.088440998819905,5
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4471.7625,2337.7325,2134.0299999999997,47.722346613891055,4
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3521.583666666667,2557.887,963.6966666666667,27.365434358083785,6
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,3318.659,3662.516,-343.85699999999997,-10.361323655126963,4
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,1.39,0.392,0.9979999999999999,71.79856115107913,4
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,180.2470909090909,80.5602,99.6868909090909,55.30568643649778,21
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,1906.8768999999998,1026.4207000000001,880.4561999999996,46.172681624073356,20
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1641.8279333333335,1231.1160000000002,410.71193333333326,25.01552842382711,30
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1620.0038,1823.4758000000002,-203.4720000000002,-12.559970538340725,20
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,0.5563999999999998,0.3256666666666667,0.23073333333333307,41.46896716990172,16
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,141.3238888888889,63.66275,77.66113888888889,54.952591171579854,17
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1361.429125,667.4391250000001,693.99,50.97511043771742,16
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1281.57125,894.5481666666668,387.02308333333315,30.19910780093835,24
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,1096.59075,1247.537,-150.94624999999996,-13.765048629126223,16
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,0.42299999999999993,0.36,0.06299999999999994,14.893617021276583,10
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,149.44424999999998,63.8485,85.59574999999998,57.27604106548093,16
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,612.8782499999999,330.1675,282.71074999999985,46.12837052057238,16
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,170.83699999999996,114.543,56.293999999999954,32.951878106030875,24
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,176.7735,126.899,49.87450000000001,28.213787700079486,16
+"South America",Colombia,COL_A,2019,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.788,0.148,NULL,NULL,NULL,4
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,429.7266666666667,189.567,240.15966666666668,55.886610093237564,6
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4557.558,2437.034,2120.524,46.52763607177352,4
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3370.3199999999997,2447.8089999999997,922.511,27.371614564789105,6
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,3228.194,3586.782,-358.5880000000002,-11.108006520054253,4
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,2.086,0.539,1.5469999999999997,74.16107382550334,4
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,169.58584615384618,85.10927272727272,84.47657342657345,49.81345751575126,24
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,1946.9123,1072.8941999999997,874.0181000000002,44.8925254619841,20
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1560.6928666666665,1175.8766000000003,384.81626666666625,24.65675821845449,30
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1557.8183999999997,1781.6848000000002,-223.86640000000057,-14.370506857538762,20
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,0.7758,0.3835,0.39230000000000004,50.5671564836298,14
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,152.74844444444446,65.7338888888889,87.01455555555556,56.965919274682555,18
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1403.126875,695.198375,707.9284999999999,50.453634137682656,16
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1242.6226666666669,864.6852500000001,377.93741666666676,30.414495631283085,24
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,1086.7839999999999,1236.0850000000003,-149.30100000000039,-13.737872475119289,16
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,1.709,0.539,1.17,68.4610883557636,4
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,156.87775,75.23775,81.63999999999999,52.040521998817546,16
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,607.31025,344.15074999999996,263.15950000000004,43.331970767824195,16
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,161.35416666666666,104.39166666666667,56.96249999999999,35.30277598450613,24
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,175.05999999999997,116.5675,58.49249999999998,33.41282988689591,16
+"South America",Colombia,COL_A,2018,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.788,0.3275,NULL,NULL,NULL,8
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,436.0403333333333,205.39333333333332,230.647,52.89579480797266,6
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4611.529,2541.7290000000003,2069.8,44.883161311573666,4
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3246.547666666667,2422.8993333333333,823.6483333333335,25.369975059660817,6
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,3146.012,3468.247,-322.2349999999997,-10.242650059821758,4
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,2.2,0.44,1.7600000000000002,80,4
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,186.2524166666667,95.75227272727271,90.500143939394,48.5900508348092,23
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,1973.8011,1135.6015000000002,838.1995999999997,42.46626471127206,20
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1496.0369999999998,1164.569533333333,331.4674666666667,22.156368235990605,30
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1519.8254,1707.1308000000001,-187.3054000000002,-12.3241393386372,20
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,1.0428,0.233,0.8098,77.65630993479094,16
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,156.63011111111112,71.14366666666666,85.48644444444446,54.57855059797642,18
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1427.048,726.534375,700.513625,49.08830151473531,16
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1210.8536666666666,862.5360833333334,348.31758333333323,28.766282245501166,24
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,1066.3774999999998,1218.30525,-151.92775000000006,-14.247088859245444,16
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,2.123,0.44,1.6830000000000003,79.27461139896373,4
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,157.17424999999997,76.887,80.28724999999997,51.08168163678209,16
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,603.18025,340.6515,262.52875,43.5240958237608,16
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,151.37516666666667,96.22333333333334,55.15183333333333,36.43387125365125,24
+"South America",Colombia,COL_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,160.9525,109.37900000000002,51.57349999999997,32.04268340038208,16
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,444.55,196.9706666666667,247.57933333333332,55.69212312075882,6
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4600.936,2608.9395,1991.9964999999997,43.29546205380818,4
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3188.9466666666667,2325.268666666667,863.6779999999999,27.08348838278888,6
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,3078.539,3453.275,-374.7359999999999,-12.172527292978904,4
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,4.33,1.661,2.669,61.63972286374134,4
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,192.11374999999998,83.765,108.34874999999998,56.398227612547245,24
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,1980.3407999999995,1171.2387000000003,809.1020999999992,40.85671011777364,20
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1465.2532666666668,1113.5414666666666,351.71180000000027,24.003481718905583,30
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1483.2639999999997,1695.3166,-212.05260000000044,-14.29634913272354,20
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,2.0332,0.9409999999999998,1.0922,53.71827660830218,16
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,120.09083333333335,67.50055555555556,52.590277777777786,43.792083307311366,21
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1428.8988749999999,753.2470000000001,675.6518749999998,47.284792984388055,16
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1200.9015000000002,836.8651666666668,364.03633333333335,30.31358802810499,24
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,1056.4727500000001,1219.3174999999999,-162.84474999999975,-15.41400381599996,16
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,4.111,1.482,2.6289999999999996,63.95037703721721,4
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,125.4888,59.578199999999995,65.9106,52.523093694417355,20
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,587.1302499999999,336.61325,250.51699999999994,42.66804512286668,16
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,141.48383333333334,88.92933333333332,52.55450000000002,37.14523331876553,24
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,152.3595,108.30900000000001,44.050499999999985,28.912210922193882,16
+"South America",Colombia,COL_A,2016,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.788,0.739,0.51,0.22899999999999998,30.98782138024357,8
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,442.94666666666666,205.34466666666665,237.602,53.6412209144818,6
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4740.291,2736.5615,2003.7295000000004,42.27017919364023,4
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,3102.9853333333335,2269.3063333333334,833.6790000000001,26.8669977600066,6
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,2971.637,3329.134,-357.49699999999984,-12.030305181958626,4
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,4.754,2.428,2.3259999999999996,48.927219183845175,4
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,172.82038461538463,90.33258333333333,82.4878012820513,47.730365526977394,25
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,2053.0472999999993,1244.5504,808.4968999999992,39.38033478332426,20
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1421.3971333333334,1088.5932,332.80393333333336,23.41385989381246,30
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1418.7182,1630.2815999999998,-211.56339999999977,-14.912291954808204,20
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,1.9156000000000002,1.15275,0.7628500000000003,39.82303194821466,18
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,121.0530833333333,71.47444444444444,49.57863888888886,40.956114064743396,21
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1489.862875,793.7717499999999,696.0911250000001,46.72182498674585,16
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1188.4919166666666,821.3725833333333,367.1193333333333,30.8895103269178,24
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,1032.35425,1185.75275,-153.3985,-14.859095121660031,16
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,1.4160000000000001,2.081,-0.6649999999999998,-46.96327683615817,10
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,161.967,59.85039999999999,102.11660000000002,63.047781338173834,18
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,577.78875,333.53499999999997,244.25375000000008,42.27388470267032,16
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,125.50883333333333,80.37983333333334,45.12899999999999,35.956831723663534,24
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,150.68499999999997,99.5695,51.11549999999997,33.92208912632311,16
+"South America",Colombia,COL_A,2015,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.788,0.7025,0.377,0.3255,46.33451957295374,16
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,453.8653333333334,189.36933333333332,264.4960000000001,58.276316910449225,6
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4756.6939999999995,2757.3395,1999.3544999999995,42.03243891660888,4
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,2958.909333333333,2143.1583333333333,815.7509999999997,27.569313828248422,6
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,2988.827,3327.766,-338.93899999999985,-11.340201356585705,4
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,5.198,1.41,3.7880000000000003,72.87418237783763,4
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,169.40914285714285,82.71316666666668,86.69597619047617,51.175500169777756,26
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,2067.4719,1262.4672000000003,805.0046999999997,38.936669465737346,20
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1355.7422666666669,1027.6256,328.1166666666668,24.2019943416974,30
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1427.6942,1621.6884000000002,-193.99420000000032,-13.587937809091075,20
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,2.2714000000000003,0.9377500000000002,1.33365,58.714889495465336,18
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,123.82525000000003,65.86988888888887,57.95536111111116,46.80415433129442,21
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1507.6792499999997,802.545875,705.1333749999997,46.76945543954391,16
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1135.9064999999998,780.1062499999999,355.8002499999999,31.323022625541796,24
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,1043.8315,1200.451,-156.61950000000002,-15.004289485419822,16
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,1.5415,1.323,0.21850000000000014,14.174505351929948,10
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,106.00416666666665,55.4524,50.55176666666665,47.68847136511929,22
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,562.2442499999999,326.22775,236.01649999999984,41.97757469284922,16
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,117.31500000000001,72.27733333333335,45.03766666666667,38.390373495858725,24
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,146.006,95.18799999999999,50.81800000000001,34.805418955385406,16
+"South America",Colombia,COL_A,2014,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.788,0.5830000000000001,NULL,NULL,NULL,8
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.788,461.57666666666665,207.85433333333333,253.72233333333332,54.968622041842096,6
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.788,4785.8495,2777.8755,2007.9740000000002,41.956480244520854,4
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.788,2889.3476666666666,2156.3393333333333,733.0083333333332,25.36933653882427,6
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.788,2803.525,3098.47,-294.9449999999997,-10.520505435121844,4
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.788,4.608,1.658,2.9499999999999997,64.01909722222221,4
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.788,174.93307142857142,84.94669230769229,89.98637912087914,51.44046142105401,27
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.788,2091.9152999999997,1279.8577,812.0575999999996,38.81885657607646,20
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.788,1324.5649999999996,1029.5206666666666,295.04433333333304,22.27480971740406,30
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.788,1336.5156000000002,1512.4918000000002,-175.97620000000006,-13.166789822730093,20
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.788,1.8236000000000003,0.75825,1.0653500000000005,58.42015792937049,18
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.788,126.32641666666667,72.42133333333337,53.90508333333331,42.671267622171904,21
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.788,1527.835125,816.5676249999999,711.2675000000002,46.553943443341126,16
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.788,1113.3077499999997,795.4840833333334,317.8236666666663,28.54769192675308,24
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.788,984.3734999999999,1116.7162500000002,-132.34275000000025,-13.444363343791787,16
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.788,4.366,1.54,2.8259999999999996,64.72743930371048,4
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.788,126.87220000000002,75.1715,51.700700000000026,40.750219512233585,18
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.788,545.4605,313.681,231.77950000000004,42.49244445748134,16
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.788,109.16933333333334,68.05649999999999,41.112833333333356,37.659690755645684,24
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.788,134.97,86.95950000000002,48.01049999999998,35.571238052900625,16
+"South America",Colombia,COL_A,2013,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.788,0.8719999999999999,0.211,0.6609999999999999,75.80275229357798,12
+"South America",Colombia,COL_A,2023,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,76.438,52.015,24.423000000000002,31.95138543656297,2
+"South America",Colombia,COL_A,2023,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,92.90272727272726,68.31963636363636,24.5830909090909,26.461107903672453,22
+"South America",Colombia,COL_A,2023,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,53.078599999999994,37.422999999999995,15.6556,29.4951260960161,10
+"South America",Colombia,COL_A,2023,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,62.83814285714285,30.757857142857144,32.08028571428571,51.05224988462421,14
+"South America",Colombia,COL_A,2022,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,76.203,51.102,25.101000000000006,32.939648045352556,2
+"South America",Colombia,COL_A,2022,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,92.68372727272727,67.45863636363637,25.225090909090895,27.216310404591948,22
+"South America",Colombia,COL_A,2022,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,53.052600000000005,36.7736,16.279000000000003,30.684641280540447,10
+"South America",Colombia,COL_A,2022,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,62.32171428571429,28.563285714285715,33.75842857142858,54.16800381430917,14
+"South America",Colombia,COL_A,2021,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,77.684,51.776,25.907999999999994,33.3504968848154,2
+"South America",Colombia,COL_A,2021,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,93.44227272727272,66.92336363636365,26.518909090909077,28.379991535853428,22
+"South America",Colombia,COL_A,2021,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,56.8128,39.6614,17.151400000000002,30.18932353272502,10
+"South America",Colombia,COL_A,2021,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,62.02542857142857,29.651142857142855,32.37428571428572,52.19518262095271,14
+"South America",Colombia,COL_A,2020,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,73.155,47.31,25.845,35.329095755587446,2
+"South America",Colombia,COL_A,2020,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,90.02718181818182,62.252545454545455,27.77463636363636,30.85138932786966,22
+"South America",Colombia,COL_A,2020,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,51.235800000000005,34.3196,16.916200000000003,33.016367461813815,10
+"South America",Colombia,COL_A,2020,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,58.05214285714286,27.234714285714286,30.817428571428575,53.08577264282112,14
+"South America",Colombia,COL_A,2019,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,77.015,52.575,24.439999999999998,31.734077777056413,2
+"South America",Colombia,COL_A,2019,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,93.49936363636363,68.12863636363636,25.370727272727265,27.13465235057506,22
+"South America",Colombia,COL_A,2019,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,55.38660000000001,38.8154,16.57120000000001,29.919150119342962,10
+"South America",Colombia,COL_A,2019,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,63.03428571428572,31.41071428571429,31.623571428571434,50.16884235336778,14
+"South America",Colombia,COL_A,2018,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,78.006,53.42,24.586,31.518088352178037,2
+"South America",Colombia,COL_A,2018,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,93.89736363636365,68.72536363636364,25.17200000000001,26.80799441556594,22
+"South America",Colombia,COL_A,2018,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,57.2614,39.606,17.6554,30.832986968533778,10
+"South America",Colombia,COL_A,2018,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,64.25099999999999,32.711285714285715,31.539714285714275,49.088285451921806,14
+"South America",Colombia,COL_A,2017,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,78.423,54.501,23.922000000000004,30.503806281320532,2
+"South America",Colombia,COL_A,2017,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,94.09854545454546,69.79045454545455,24.308090909090907,25.832589432355245,22
+"South America",Colombia,COL_A,2017,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,58.031000000000006,41.10600000000001,16.924999999999997,29.1654460546949,10
+"South America",Colombia,COL_A,2017,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,64.78699999999999,32.98971428571429,31.7972857142857,49.07973160400343,14
+"South America",Colombia,COL_A,2016,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,78.856,54.873,23.982999999999997,30.4136654154408,2
+"South America",Colombia,COL_A,2016,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,94.4030909090909,69.82509090909089,24.578000000000017,26.035164488065703,22
+"South America",Colombia,COL_A,2016,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,59.092999999999996,41.791999999999994,17.301000000000002,29.27757940872862,10
+"South America",Colombia,COL_A,2016,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,64.829,33.34057142857143,31.488428571428564,48.571516715402936,14
+"South America",Colombia,COL_A,2015,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,79.525,55.406,24.119000000000007,30.32882741276329,2
+"South America",Colombia,COL_A,2015,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,94.35563636363636,70.35363636363637,24.001999999999995,25.437802048728596,22
+"South America",Colombia,COL_A,2015,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,61.19259999999999,42.5034,18.689199999999992,30.54160143546768,10
+"South America",Colombia,COL_A,2015,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,64.97257142857143,33.10642857142857,31.866142857142854,49.04553130112047,14
+"South America",Colombia,COL_A,2014,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,79.734,55.155,24.578999999999994,30.82624727217999,2
+"South America",Colombia,COL_A,2014,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,94.59718181818181,69.6020909090909,24.995090909090905,26.422659141296734,22
+"South America",Colombia,COL_A,2014,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,61.48620000000001,42.663799999999995,18.822400000000016,30.612397578643684,10
+"South America",Colombia,COL_A,2014,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,64.73328571428571,32.65642857142857,32.07685714285714,49.55233893801599,14
+"South America",Colombia,COL_A,2013,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.788,80.001,55.458,24.543000000000006,30.6783665204185,2
+"South America",Colombia,COL_A,2013,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.788,94.7219090909091,69.55454545454546,25.167363636363632,26.569738593643972,22
+"South America",Colombia,COL_A,2013,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.788,62.007000000000005,43.1418,18.8652,30.424306933088204,10
+"South America",Colombia,COL_A,2013,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.788,64.62942857142858,32.83742857142857,31.79200000000001,49.1912132023006,14
+"South America",Colombia,COL_A,2023,Other,Employment,Employment,"Child (<15)","Not stated",0.788,13356.18,9432.214,3923.9660000000003,29.37940339228732,2
+"South America",Colombia,COL_A,2023,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3594.3340909090916,2668.6844545454546,925.649636363637,25.753021643280753,22
+"South America",Colombia,COL_A,2023,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3469.6846000000005,2393.8354,1075.8492000000006,31.007118053323936,10
+"South America",Colombia,COL_A,2023,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,1111.2484285714286,648.2138571428571,463.03457142857144,41.667961863741674,14
+"South America",Colombia,COL_A,2022,Other,Employment,Employment,"Child (<15)","Not stated",0.788,13039.819,8992.361,4047.4579999999987,31.039219179345963,2
+"South America",Colombia,COL_A,2022,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3516.091363636364,2564.9056363636364,951.1857272727275,27.052360957111343,22
+"South America",Colombia,COL_A,2022,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3404.5672,2283.5794,1120.9877999999999,32.92600010949997,10
+"South America",Colombia,COL_A,2022,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,1062.942857142857,585.1182857142857,477.8245714285714,44.952987662285295,14
+"South America",Colombia,COL_A,2021,Other,Employment,Employment,"Child (<15)","Not stated",0.788,12559.489,8181.718,4377.771,34.85628276755527,2
+"South America",Colombia,COL_A,2021,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3387.6725454545463,2290.4311818181814,1097.241363636365,32.38923918749475,22
+"South America",Colombia,COL_A,2021,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3364.8566,2154.9132,1209.9434,35.958245590614474,10
+"South America",Colombia,COL_A,2021,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,955.1145714285713,535.3767142857142,419.737857142857,43.94633583226066,14
+"South America",Colombia,COL_A,2020,Other,Employment,Employment,"Child (<15)","Not stated",0.788,11580.835,7468.362,4112.472999999999,35.51102316888203,2
+"South America",Colombia,COL_A,2020,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3146.076727272727,2127.5230909090915,1018.5536363636356,32.37535904747625,22
+"South America",Colombia,COL_A,2020,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3053.8817999999997,1907.3748,1146.5069999999996,37.54261216003841,10
+"South America",Colombia,COL_A,2020,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,884.883,484.1558571428572,400.72714285714284,45.28589009588192,14
+"South America",Colombia,COL_A,2019,Other,Employment,Employment,"Child (<15)","Not stated",0.788,12545.743,8764.07,3781.6730000000007,30.14307721750717,2
+"South America",Colombia,COL_A,2019,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3371.0632727272723,2470.425272727273,900.6379999999995,26.71673377614658,22
+"South America",Colombia,COL_A,2019,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3367.4528000000005,2280.6932,1086.7596000000003,32.27245234142555,10
+"South America",Colombia,COL_A,2019,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,962.848857142857,565.8792857142857,396.96957142857127,41.22864855513592,14
+"South America",Colombia,COL_A,2018,Other,Employment,Employment,"Child (<15)","Not stated",0.788,12487.377,8784.329,3703.0480000000007,29.65433012873721,2
+"South America",Colombia,COL_A,2018,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3327.0975454545464,2467.342454545455,859.7550909090915,25.84099441519777,22
+"South America",Colombia,COL_A,2018,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3396.036,2301.5878000000002,1094.4481999999998,32.227226095365296,10
+"South America",Colombia,COL_A,2018,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,964.4052857142857,570.708,393.6972857142857,40.82280463889145,14
+"South America",Colombia,COL_A,2017,Other,Employment,Employment,"Child (<15)","Not stated",0.788,12337.402,8787.752,3549.6499999999996,28.77145447639624,2
+"South America",Colombia,COL_A,2017,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3276.8908181818183,2466.024454545455,810.8663636363635,24.744991781150418,22
+"South America",Colombia,COL_A,2017,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3390.2277999999997,2328.8242,1061.4035999999996,31.307736901927353,10
+"South America",Colombia,COL_A,2017,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,938.2988571428572,553.383,384.91585714285713,41.022735369723804,14
+"South America",Colombia,COL_A,2016,Other,Employment,Employment,"Child (<15)","Not stated",0.788,12208.913,8721.95,3486.9629999999997,28.56079816442299,2
+"South America",Colombia,COL_A,2016,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3247.614272727272,2444.0204545454544,803.5938181818174,24.74412755634855,22
+"South America",Colombia,COL_A,2016,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3387.0192,2330.0271999999995,1056.9920000000006,31.207145208979053,10
+"South America",Colombia,COL_A,2016,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,901.1348571428572,540.207,360.9278571428572,40.05259082832695,14
+"South America",Colombia,COL_A,2015,Other,Employment,Employment,"Child (<15)","Not stated",0.788,12163.092,8696.892,3466.2000000000007,28.49768792343263,2
+"South America",Colombia,COL_A,2015,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3218.801636363636,2446.104,772.6976363636363,24.005755049776006,22
+"South America",Colombia,COL_A,2015,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3434.5092000000004,2340.1224,1094.3868000000002,31.86443058588983,10
+"South America",Colombia,COL_A,2015,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,879.4431428571428,519.399,360.0441428571428,40.940013664490934,14
+"South America",Colombia,COL_A,2014,Other,Employment,Employment,"Child (<15)","Not stated",0.788,11973.601,8505.792,3467.809000000001,28.962122589520067,2
+"South America",Colombia,COL_A,2014,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3181.2311818181815,2396.0767272727276,785.154454545454,24.68083611882339,22
+"South America",Colombia,COL_A,2014,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3381.4151999999995,2300.9404000000004,1080.474799999999,31.953331256096533,10
+"South America",Colombia,COL_A,2014,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,850.5441428571429,492.7517142857143,357.7924285714286,42.06629739046046,14
+"South America",Colombia,COL_A,2013,Other,Employment,Employment,"Child (<15)","Not stated",0.788,11702.805,8303.61,3399.1949999999997,29.045985129206198,2
+"South America",Colombia,COL_A,2013,Other,Employment,Employment,"Adults (25-54)","Not stated",0.788,3109.5577272727273,2339.4550000000004,770.102727272727,24.76566749407654,22
+"South America",Colombia,COL_A,2013,Other,Employment,Employment,"Youth (15-24)","Not stated",0.788,3325.2042,2254.0286000000006,1071.1755999999996,32.21382915371031,10
+"South America",Colombia,COL_A,2013,Other,Employment,Employment,"Senior (55+)","Not stated",0.788,816.8137142857142,476.7064285714286,340.10728571428564,41.638292766876724,14
+"South America",Colombia,COL_A,2023,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,1151.852,1265.692,-113.83999999999992,-9.883214162930647,2
+"South America",Colombia,COL_A,2023,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,278.54027272727274,340.797909090909,-62.257636363636266,-22.351394918247465,22
+"South America",Colombia,COL_A,2023,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,387.3688000000001,417.22259999999994,-29.853799999999865,-7.706815830288825,10
+"South America",Colombia,COL_A,2023,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,69.03857142857143,32.68371428571429,36.35485714285714,52.658762182630824,14
+"South America",Colombia,COL_A,2022,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,1229.651,1366.441,-136.78999999999996,-11.12429461692789,2
+"South America",Colombia,COL_A,2022,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,295.488,365.7447272727273,-70.25672727272729,-23.776507767735843,22
+"South America",Colombia,COL_A,2022,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,413.2894,454.2111999999999,-40.921799999999905,-9.901487916215586,10
+"South America",Colombia,COL_A,2022,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,76.44857142857143,34.498285714285714,41.95028571428571,54.87386478304742,14
+"South America",Colombia,COL_A,2021,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,1536.352,1811.62,-275.2679999999998,-17.916987773635196,2
+"South America",Colombia,COL_A,2021,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,376.4048181818182,480.7988181818182,-104.394,-27.734501514689335,22
+"South America",Colombia,COL_A,2021,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,513.6224,606.0504,-92.428,-17.995321076339348,10
+"South America",Colombia,COL_A,2021,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,85.65814285714286,46.58228571428571,39.07585714285715,45.6183800389255,14
+"South America",Colombia,COL_A,2020,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,1699.737,1812.508,-112.77099999999996,-6.634614649207491,2
+"South America",Colombia,COL_A,2020,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,430.340818181818,495.9717272727272,-65.6309090909092,-15.250914233095195,22
+"South America",Colombia,COL_A,2020,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,547.938,581.6153999999999,-33.67739999999992,-6.146206322613128,10
+"South America",Colombia,COL_A,2020,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,91.33757142857144,46.52485714285715,44.812714285714286,49.062739007418315,14
+"South America",Colombia,COL_A,2019,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,1122.886,1318.868,-195.98199999999997,-17.453419136047646,2
+"South America",Colombia,COL_A,2019,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,263,346.3798181818182,-83.37981818181822,-31.70335292084343,22
+"South America",Colombia,COL_A,2019,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,399.7138,456.9548,-57.240999999999985,-14.32049631511346,10
+"South America",Colombia,COL_A,2019,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,61.95428571428572,27.888428571428566,34.065857142857155,54.985473159933605,14
+"South America",Colombia,COL_A,2018,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,1000.532,1196.091,-195.55899999999986,-19.545501793046085,2
+"South America",Colombia,COL_A,2018,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,232.07890909090912,309.184909090909,-77.10599999999988,-33.22404448643638,22
+"South America",Colombia,COL_A,2018,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,368.84700000000004,424.8008,-55.953799999999944,-15.169921403725647,10
+"South America",Colombia,COL_A,2018,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,48.435428571428574,22.97957142857143,25.455857142857145,52.55627521766829,14
+"South America",Colombia,COL_A,2017,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,946.222,1165.103,-218.88100000000009,-23.132097964325506,2
+"South America",Colombia,COL_A,2017,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,220.0194545454545,299.8140909090909,-79.79463636363641,-36.267082167114175,22
+"South America",Colombia,COL_A,2017,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,347.9914,419.1313999999999,-71.13999999999993,-20.443033937045552,10
+"South America",Colombia,COL_A,2017,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,46.31371428571429,22.154,24.15971428571429,52.165356759491175,14
+"South America",Colombia,COL_A,2016,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,925.136,1125.284,-200.14800000000014,-21.63444077411323,2
+"South America",Colombia,COL_A,2016,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,208.50090909090912,287.4707272727273,-78.96981818181817,-37.87504741640541,22
+"South America",Colombia,COL_A,2016,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,346.9688,411.8818,-64.91300000000001,-18.708598582927344,10
+"South America",Colombia,COL_A,2016,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,49.53128571428572,19.596285714285717,29.935000000000006,60.4365494824339,14
+"South America",Colombia,COL_A,2015,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,872.488,1083.208,-210.72000000000003,-24.15162156958033,2
+"South America",Colombia,COL_A,2015,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,196.71754545454544,273.2024545454546,-76.48490909090916,-38.88057311521414,22
+"South America",Colombia,COL_A,2015,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,329.37940000000003,401.9048000000001,-72.52540000000005,-22.018802633072998,10
+"South America",Colombia,COL_A,2015,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,45.870428571428576,19.627285714285716,26.24314285714286,57.211462099765484,14
+"South America",Colombia,COL_A,2014,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,896.281,1079.515,-183.23400000000015,-20.443811706373356,2
+"South America",Colombia,COL_A,2014,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,198.13490909090908,268.6948181818182,-70.55990909090914,-35.61205312817165,22
+"South America",Colombia,COL_A,2014,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,351.5523999999999,406.524,-54.97160000000008,-15.636815450555904,10
+"South America",Colombia,COL_A,2014,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,44.15185714285714,20.827714285714283,23.324142857142856,52.82709350520768,14
+"South America",Colombia,COL_A,2013,Other,Unemployment,Unemployment,"Child (<15)","Not stated",0.788,917.563,1120.683,-203.12,-22.136899591635668,2
+"South America",Colombia,COL_A,2013,Other,Unemployment,Unemployment,"Adults (25-54)","Not stated",0.788,207.48109090909094,278.87627272727275,-71.39518181818181,-34.410452299705724,22
+"South America",Colombia,COL_A,2013,Other,Unemployment,Unemployment,"Youth (15-24)","Not stated",0.788,352.4718,424.35560000000004,-71.88380000000006,-20.39419891179949,10
+"South America",Colombia,COL_A,2013,Other,Unemployment,Unemployment,"Senior (55+)","Not stated",0.788,43.47471428571429,18.89785714285714,24.57685714285715,56.531382774223445,14
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,517.0373333333333,341.766,175.2713333333333,33.899163954633835,6
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,3130.2685,2268.35,861.9185000000002,27.534970242967983,4
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4851.623333333333,4087.581333333333,764.0419999999999,15.748172261243143,6
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,776.3642,908.9672,-132.60300000000007,-17.079999309602385,10
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,199.415,141.12,58.29499999999999,29.23300654414161,4
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,245.3302,148.6112,96.719,39.424008947940365,30
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1637.6552000000001,1183.8134000000002,453.8417999999999,27.712903180107745,20
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2539.4694666666674,2124.6199333333334,414.84953333333397,16.336070930510914,30
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,408.68036,481.2226,-72.54223999999999,-17.75036118691879,50
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,100.708,72.20240000000001,28.505599999999987,28.30519918973665,20
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,145.13633333333334,91.82416666666664,53.3121666666667,36.732474523953364,24
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,964.557875,676.4409999999999,288.11687500000005,29.87035640551896,16
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1537.4089166666665,1322.599333333333,214.80958333333342,13.972182742316393,24
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,246.44382352941176,297.7700588235293,-51.326235294117566,-20.8267484893944,34
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,61.08425000000001,39.72174999999999,21.36250000000002,34.97219004898974,16
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,60.0545,57.67366666666666,2.380833333333335,3.9644545093762087,24
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,114.34575000000001,106.994,7.35175000000001,6.429403803814317,16
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,132.80100000000002,104.1465,28.654500000000013,21.577021257370056,24
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,52.33970000000001,52.0366,0.3031000000000077,0.5791015233178786,40
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,11.5975,10.779000000000002,0.8184999999999985,7.057555507652498,16
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,512.8126666666667,333.64366666666666,179.16900000000004,34.938489558890254,6
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,3039.6839999999997,2184.2515,855.4324999999999,28.14215227635504,4
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4695.3313333333335,3912.096666666667,783.2346666666667,16.681137305610097,6
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,738.252,817.5973999999999,-79.34539999999993,-10.747739254346746,10
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,183.513,102.976,80.537,43.88626418836813,4
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,248.45406666666668,152.9892,95.46486666666667,38.42354763898679,30
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1582.1271,1151.8288000000002,430.2982999999997,27.19745461663603,20
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2456.1007999999997,2042.3946,413.7061999999996,16.84402366547821,30
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,389.65443999999997,438.3932000000001,-48.73876000000013,-12.508200856122706,50
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,95.267,52.35119999999999,42.915800000000004,45.047917956900086,20
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,143.12016666666668,88.97566666666665,54.14450000000002,37.83149591077895,24
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,938.4639999999998,642.545125,295.91887499999984,31.532256431786397,16
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1489.2671666666665,1263.9865000000002,225.28066666666632,15.126947784049918,24
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,237.91770588235295,226.64139999999998,11.276305882352972,4.739582470557678,37
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,52.02049999999999,29.759500000000003,22.26099999999999,42.792745167770384,16
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,55.27949999999999,49.23933333333334,6.04016666666665,10.926594246812382,24
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,118.10674999999999,97.72325000000002,20.38349999999997,17.25853941455503,16
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,129.48600000000002,91.70233333333334,37.783666666666676,29.17973114210546,24
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,45.43300000000001,41.15110000000001,4.2819,9.424647282812051,40
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,12.0225,7.490500000000001,4.532,37.69598669161988,16
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,508.77399999999994,352.88599999999997,155.88799999999998,30.639930499593138,6
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,3049.516,2191.7309999999998,857.7850000000003,28.12856204066482,4
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4506.129666666667,3636.727666666667,869.4019999999996,19.293763480249005,6
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,689.7422,761.4992,-71.75699999999995,-10.403452188368343,10
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,117.489,59.519,57.970000000000006,49.34078935049239,4
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,243.75280000000004,162.3970666666666,81.35573333333343,33.3763277112441,30
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1590.8804999999998,1158.5391,432.3413999999998,27.17623353859701,20
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2394.268866666666,1903.2244666666668,491.0443999999991,20.509158634453524,30
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,367.47732,407.71655999999996,-40.23923999999994,-10.95012884060435,50
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,61.280799999999985,30.689600000000002,30.591199999999983,49.91971384185583,20
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,184.13311111111113,93.35333333333331,90.77977777777782,49.30116980590131,21
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,925.8741249999998,636.8826250000001,288.99149999999975,31.21282820167372,16
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1383.613333333333,1156.7230833333333,226.8902499999997,16.39838562796926,24
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,218.2565294117647,247.87147058823533,-29.614941176470637,-13.568868366177869,34
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,35.00750000000001,17.06025,17.947250000000007,51.266871384703286,16
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,61.696666666666665,52.907833333333336,8.78883333333333,14.245232049273321,24
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,129.32574999999997,102.72425,26.601499999999973,20.56937616831913,16
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,122.69349999999999,96.21749999999999,26.476,21.578975251337685,24
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,42.239200000000004,39.1862,3.0530000000000044,7.227883103846673,40
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,11.161,3.763,7.398,66.28438311979214,12
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,543.2933333333334,360.291,183.0023333333334,33.683890838589356,6
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,2890.5095,2060.816,829.6935000000003,28.70405719130141,4
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4212.919333333334,3399.5,813.4193333333342,19.307735775936226,6
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,678.3666000000001,763.2322,-84.86559999999997,-12.510285736355527,10
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,137.885,83.077,54.80799999999999,39.74906625086122,4
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,259.26606666666663,161.29259999999996,97.97346666666667,37.788773489061825,30
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1499.9610000000002,1076.2706,423.6904000000002,28.246761082454817,20
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2229.429733333333,1783.4413999999997,445.98833333333323,20.004592504761902,30
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,362.14003999999994,410.5716,-48.43156000000005,-13.37371034696966,50
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,69.59379999999997,42.26180000000001,27.331999999999965,39.27361345407202,20
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,151.48975,127.00299999999999,24.48675,16.163964888713593,21
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,877.1091250000002,608.69525,268.4138750000002,30.60210723494641,16
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1299.1065833333334,1075.8489166666666,223.25766666666686,17.185477275761134,24
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,213.79694117647063,245.68782352941184,-31.89088235294122,-14.916435276133392,34
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,40.92025000000001,23.63575,17.28450000000001,42.2394780090542,16
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,63.53399999999999,58.346666666666664,5.187333333333328,8.164657243890403,24
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,132.54274999999998,102.9345,29.608249999999984,22.338641683532284,16
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,120.59283333333332,90.78216666666664,29.810666666666677,24.720098071057304,24
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,41.354,39.22239999999999,2.131600000000006,5.154519514436345,40
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,9.548499999999999,6.2855,3.262999999999999,34.17290673927841,16
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,687.0833333333334,461.91933333333327,225.1640000000001,32.77098847786539,6
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,3148.3714999999997,2377.684,770.6874999999995,24.478925056969917,4
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4341.688666666666,3591.77,749.918666666666,17.27251132547043,6
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,719.1537999999999,775.8532,-56.69940000000008,-7.884182771473931,10
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,191.032,87.575,103.45700000000001,54.15689517986515,4
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,325.798,213.15613333333332,112.64186666666669,34.57414307843102,30
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1623.1246,1241.3045,381.82010000000014,23.523770140628766,20
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2267.1941999999995,1867.920933333333,399.27326666666636,17.610898381209093,30
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,380.87971999999996,411.55804000000006,-30.6783200000001,-8.054595293233282,50
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,98.08299999999998,44.63359999999999,53.4494,54.49405095684268,20
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,195.52808333333334,123.14025,72.38783333333335,37.021706600543745,24
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,980.8033750000003,712.42025,268.3831250000003,27.363601292664825,16
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1384.3294166666665,1168.16375,216.16566666666654,15.615189857568215,24
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,230.81252941176467,255.3514117647059,-24.538882352941215,-10.631520921104057,34
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,54.597,24.637249999999995,29.959750000000007,54.8743520706266,16
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,79.24266666666668,66.57716666666667,12.665500000000009,15.98318246062728,24
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,131.38875000000002,109.2825,22.106250000000017,16.825070639609567,16
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,116.79466666666666,85.87349999999999,30.921166666666664,26.474810493629846,24
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,43.30590000000001,46.50988888888888,-3.2039888888888726,-7.398504335180362,38
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,13.028000000000004,6.7905,6.237500000000004,47.87764814246241,16
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,679.8473333333333,495.368,184.47933333333327,27.13540589014592,6
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,3116.2595,2362.8555,753.404,24.176548840043647,4
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4247.976333333333,3495.968666666667,752.007666666666,17.702727314315688,6
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,699.3232,743.5648,-44.24159999999995,-6.326345243515437,10
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,173.431,85.385,88.046,50.76716388650241,4
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,322.36753333333337,229.07566666666668,93.29186666666669,28.93959751529983,30
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1602.2172,1230.8099000000002,371.40729999999985,23.180833410101943,20
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2219.821266666667,1820.8552666666667,398.9660000000001,17.97288844786573,30
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,367.4769199999999,393.38307999999995,-25.906160000000057,-7.049737980823412,50
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,89.75820000000002,43.3846,46.37360000000002,51.66502893328967,20
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,192.3905,131.65066666666667,60.73983333333334,31.571118809573935,24
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,981.1748749999998,712.4352500000001,268.7396249999997,27.389574666799305,16
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1360.9195833333335,1133.2098333333336,227.70974999999999,16.732050356881846,24
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,223.8763529411765,244.4980588235294,-20.6217058823529,-9.211203242966555,34
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,49.45149999999999,25.710749999999997,23.74074999999999,48.00814939890599,16
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,79.33550000000001,71.84433333333334,7.491166666666672,9.442389178446813,24
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,126.56125,107.0585,19.502750000000006,15.409732441801898,16
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,106.74066666666666,82.90216666666667,23.838499999999982,22.33310016176276,24
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,46.338,41.551100000000005,4.786899999999996,10.330398377141861,40
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,10.924,5.175,5.749,52.62724276821677,16
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,721.7636666666667,538.163,183.6006666666667,25.43778180392382,6
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,3087.764,2293.737,794.027,25.71527487204333,4
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4154.4766666666665,3424.0046666666663,730.4720000000002,17.582768146489375,6
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,679.6526,728.0916,-48.438999999999965,-7.127023423437204,10
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,175.663,92.902,82.76100000000001,47.1135071130517,4
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,343.7297333333333,246.76459999999997,96.96513333333331,28.2097019635194,30
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1581.0866999999996,1189.5647000000001,391.5219999999995,24.762841911199406,20
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2156.7670000000003,1770.1334666666664,386.63353333333384,17.926532320521122,30
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,357.85231999999996,391.0022400000001,-33.14992000000012,-9.263575544235714,50
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,90.49759999999999,46.68480000000001,43.81279999999998,48.41321758809072,20
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,205.9335,144.8358333333333,61.0976666666667,29.66863898620996,24
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,985.33175,709.4817499999999,275.85000000000014,27.995647151327468,16
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1341.72025,1130.8364999999997,210.88375000000042,15.71741575786759,24
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,219.3221764705882,203.88124999999997,15.440926470588238,7.0402942005542775,37
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,50.16425000000001,26.453250000000004,23.711000000000006,47.26672879590546,16
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,81.13416666666667,79.30316666666667,1.831000000000003,2.256755785170657,24
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,120.576,93.63399999999999,26.942000000000007,22.3444134819533,16
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,111.48366666666665,77.26383333333332,34.21983333333333,30.69492990004515,24
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,41.98360000000001,33.955799999999996,8.027800000000013,19.12127592679049,40
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,11.888999999999998,7.732999999999999,4.155999999999999,34.95668264782572,16
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,775.1066666666667,519.8383333333333,255.26833333333343,32.93331670479763,6
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,3078.7855,2279.139,799.6464999999998,25.97279024472474,4
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,4035.34,3360.842,674.498,16.714774963200128,6
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,601.563,641.9939999999999,-40.430999999999926,-6.720991816318477,10
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,156.593,75.29,81.30299999999998,51.919945335998406,4
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,373.7482,252.9623333333333,120.78586666666669,32.31744438278678,30
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1579.0874,1182.7625,396.32489999999984,25.098351110901135,20
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,2092.4065333333333,1740.704,351.70253333333335,16.80851821720559,30
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,316.23336,339.48392,-23.250560000000007,-7.352342586500048,50
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,80.42499999999998,38.068200000000004,42.35679999999998,52.66621075536212,20
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,225.6496666666667,139.12483333333333,86.52483333333336,38.34476452435857,24
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,987.53675,707.7604999999999,279.7762500000001,28.330717818855867,16
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1304.6115833333333,1103.9416666666664,200.66991666666695,15.381583241346632,24
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,167.45704999999998,182.40204999999997,-14.944999999999993,-8.924676506602735,40
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,43.76575000000001,22.070000000000004,21.695750000000007,49.57243963601675,16
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,77.777,61.030833333333334,16.746166666666667,21.531001024295957,24
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,111.78575000000001,89.54275,22.24300000000001,19.89788501665016,16
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,109.22099999999996,77.29950000000001,31.921499999999952,29.226522372071273,24
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,35.5925,37.3981111111111,-1.805611111111098,-5.073010075468421,38
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,11.701,5.229500000000001,6.4715,55.30723869754721,16
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,802.4413333333333,560.5513333333333,241.89,30.14425976727686,6
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,2987.3325,2267.7875,719.5450000000001,24.086538743176398,4
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,3838.7946666666667,3151.9483333333337,686.846333333333,17.892239439046133,6
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,634.107,675.4251999999999,-41.31819999999993,-6.515966548232385,10
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,139.556,81.097,58.45900000000002,41.88927742268337,4
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,391.4556666666666,269.10153333333335,122.35413333333327,31.256191633450175,30
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1523.5694999999996,1175.567,348.0024999999996,22.841261918146806,20
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,1985.5436666666667,1621.0133999999998,364.5302666666669,18.359216812322277,30
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,332.53103999999985,360.00716,-27.47612000000015,-8.262723383657706,50
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,71.01540000000001,41.049,29.966400000000014,42.197044584695725,20
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,233.97016666666673,152.56050000000002,81.40966666666671,34.79489194135151,24
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,967.957125,704.949375,263.00775,27.171425593876382,16
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1255.6353333333332,1049.8969999999997,205.73833333333346,16.385197825483313,24
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,175.48240000000007,225.85835294117646,-50.37595294117639,-28.70712558135538,37
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,38.604499999999994,22.157749999999997,16.446749999999998,42.603193928169,16
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,75.41833333333334,67.31666666666666,8.101666666666674,10.742304037479844,24
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,109.156,89.03975000000001,20.116249999999994,18.42889992304591,16
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,95.65516666666667,71.887,23.768166666666673,24.847760445070925,24
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,39.897800000000004,31.755999999999993,8.14180000000001,20.40663896254934,40
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,11.790500000000002,7.089500000000001,4.7010000000000005,39.871082651287054,16
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,731.4513333333333,534.0066666666667,197.44466666666665,26.993547987243627,6
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,2841.751,2150.883,690.8680000000004,24.311348883135796,4
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,3696.168333333333,3047.9330000000004,648.2353333333326,17.5380360111665,6
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,639.4968000000001,633.7256,5.771200000000135,0.9024595588281497,10
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,118.721,83.826,34.89500000000001,29.392441101405826,4
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,358.26693333333327,253.0177333333333,105.24919999999997,29.377313451943838,30
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1442.7626000000002,1114.1057999999998,328.65680000000043,22.77968669273797,20
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,1913.8570666666665,1567.4977333333334,346.3593333333331,18.09745039824638,30
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,339.05876000000006,340.88568,-1.826919999999916,-0.5388210586270992,50
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,59.7804,43.92779999999999,15.85260000000001,26.518056085272114,20
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,210.12225000000004,142.81675,67.30550000000002,32.03159113325695,24
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,920.9362500000002,666.913375,254.02287500000023,27.58311175176351,16
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1202.0027499999999,1018.5580833333333,183.44466666666654,15.261584606746245,24
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,175.84385000000003,179.51805000000002,-3.674199999999985,-2.0894674451224673,40
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,34.93925,23.40275,11.5365,33.01873966956933,16
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,69.91266666666665,70.01733333333333,-0.10466666666667379,-0.14971059130916736,24
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,112.98875,87.8615,25.12724999999999,22.238718456483493,16
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,96.58,66.75750000000001,29.82249999999999,30.878546282874293,24
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,37.0569,26.8308,10.226099999999999,27.595670441941984,40
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,8.772,5.2055,3.5665000000000004,40.6577747378021,16
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Child (<15)","Less than basic",0.741,746.5136666666667,546.9929999999999,199.52066666666678,26.72699450467754,6
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Basic,0.741,2813.7475000000004,2147.0285,666.7190000000005,23.695054371438818,4
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Intermediate,0.741,3547.872,2933.373666666667,614.498333333333,17.32019456545594,6
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Child (<15)",Advanced,0.741,628.4434,618.7878,9.65560000000005,1.5364311249032212,10
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Child (<15)","Not stated",0.741,105.625,72.324,33.301,31.52757396449704,4
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)","Less than basic",0.741,365.2915333333333,267.99646666666666,97.29506666666663,26.634908775146343,30
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Basic,0.741,1435.1721000000002,1112.6349,322.5372000000002,22.473764644672244,20
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Intermediate,0.741,1830.5740666666672,1501.170133333333,329.4039333333342,17.994570082223063,30
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)",Advanced,0.741,333.1632400000001,331.0301599999999,2.1330800000001773,0.6402507071308878,50
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Adults (25-54)","Not stated",0.741,52.042799999999986,37.568799999999996,14.47399999999999,27.81172419623847,20
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)","Less than basic",0.741,214.48033333333333,145.83633333333333,68.644,32.004799196818354,24
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Basic,0.741,908.9753750000001,669.80275,239.17262500000015,26.312332718584386,16
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Intermediate,0.741,1167.8434166666668,997.0599166666666,170.78350000000023,14.623835487077658,24
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)",Advanced,0.741,174.09769999999995,207.84441176470588,-33.746711764705935,-19.383778053762885,37
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Youth (15-24)","Not stated",0.741,30.253749999999997,20.567000000000004,9.686749999999993,32.01834483328511,16
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Senior (55+)","Less than basic",0.741,71.812,62.109500000000004,9.702499999999993,13.510973096418416,24
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Basic,0.741,105.69525000000002,83.22575,22.46950000000001,21.258760445715403,16
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Intermediate,0.741,86.5315,57.37766666666666,29.15383333333333,33.69158437486156,24
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Senior (55+)",Advanced,0.741,35.4757,29.767777777777773,5.70792222222223,16.08966763791054,38
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Force","Labour Force","Senior (55+)","Not stated",0.741,9.7245,4.648499999999999,5.076000000000001,52.198056455344755,16
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,61.414,49.016,12.398000000000003,20.18757937929463,2
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,80.15554545454546,67.89581818181817,12.25972727272729,15.29492089811743,22
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,32.8378,27.3564,5.481400000000001,16.692348452088755,10
+Africa,"South Africa",ZAF_A,2023,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,31.687285714285714,22.38857142857143,9.298714285714283,29.345253391400778,14
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,60.344,47.071,13.273000000000003,21.995558796234924,2
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,79.0040909090909,66.14463636363638,12.859454545454525,16.2769476839519,22
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,32.24720000000001,25.851599999999998,6.395600000000009,19.833039767793817,10
+Africa,"South Africa",ZAF_A,2022,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,30.873285714285714,19.583,11.290285714285716,36.56975748798083,14
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,59.126,45.354,13.771999999999998,23.292629300138685,2
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,78.95209090909093,64.03372727272726,14.918363636363665,18.89546364711399,22
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,29.1228,23.554,5.568800000000003,19.121787740189827,10
+Africa,"South Africa",ZAF_A,2021,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,31.36785714285714,20.36528571428571,11.002571428571429,35.07594216099283,14
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,57.438,44.078,13.36,23.259862808593613,2
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,76.62054545454545,62.2109090909091,14.409636363636352,18.806491494092477,22
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,28.3024,22.4284,5.873999999999999,20.754423653117755,10
+Africa,"South Africa",ZAF_A,2020,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,32.426857142857145,21.000857142857143,11.426000000000002,35.236223941353735,14
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,62.483,48.494,13.988999999999997,22.38848966919002,2
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,82.16018181818181,67.6590909090909,14.501090909090905,17.649779477340267,22
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,32.9328,26.122200000000003,6.810599999999997,20.680294417723356,10
+Africa,"South Africa",ZAF_A,2019,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,34.97342857142857,22.491999999999997,12.481428571428573,35.6883184785184,14
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,62.346,48.423,13.922999999999995,22.331825618323542,2
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,82.07181818181817,67.57400000000001,14.497818181818161,17.6647946920103,22
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,32.9632,25.96,7.0032,21.245510144646147,10
+Africa,"South Africa",ZAF_A,2018,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,35.026428571428575,23.020142857142854,12.00628571428572,34.27779024002285,14
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,62.656,48.525,14.131,22.553306945863127,2
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,82.361,67.35345454545454,15.007545454545465,18.22166493187973,22
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,33.7588,26.8988,6.859999999999999,20.32062751045653,10
+Africa,"South Africa",ZAF_A,2017,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,35.56314285714286,22.350571428571424,13.212571428571433,37.152429079866,14
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,62.267,47.649,14.618000000000002,23.476319719915846,2
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,81.96581818181818,66.3799090909091,15.585909090909084,19.015132693894564,22
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,33.8784,26.351599999999998,7.5268000000000015,22.217105884575428,10
+Africa,"South Africa",ZAF_A,2016,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,34.44271428571429,21.298714285714286,13.144000000000002,38.161916888912856,14
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,62.044,47.637,14.406999999999996,23.220617626200756,2
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,81.67836363636364,65.98290909090909,15.695454545454552,19.216171635528276,22
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,33.98700000000001,26.536399999999997,7.450600000000012,21.921911319033775,10
+Africa,"South Africa",ZAF_A,2015,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,34.48157142857143,21.885857142857144,12.595714285714283,36.528829063972054,14
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,60.751,46.393,14.357999999999997,23.634178861253307,2
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,80.52872727272728,64.42063636363636,16.10809090909092,20.00291256875018,22
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,32.534600000000005,25.605200000000007,6.929399999999998,21.298555998844297,10
+Africa,"South Africa",ZAF_A,2014,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,34.607142857142854,21.571142857142856,13.035999999999998,37.668524251805984,14
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Participation Rate","Labour Force","Child (<15)","Not stated",0.741,60.526,46.167,14.359000000000002,23.723688993159968,2
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Participation Rate","Labour Force","Adults (25-54)","Not stated",0.741,80.40245454545456,63.94163636363637,16.46081818181819,20.47302943035435,22
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Participation Rate","Labour Force","Youth (15-24)","Not stated",0.741,32.621,26.097400000000004,6.523599999999998,19.998160694031444,10
+Africa,"South Africa",ZAF_A,2013,Other,"Labour Participation Rate","Labour Force","Senior (55+)","Not stated",0.741,34.01971428571428,20.47957142857143,13.54014285714285,39.800871763431275,14
+Africa,"South Africa",ZAF_A,2023,Other,Employment,Employment,"Child (<15)","Not stated",0.741,9327.99,7409.458,1918.5320000000002,20.56747487936844,2
+Africa,"South Africa",ZAF_A,2023,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2939.870636363636,2316.012272727273,623.8583636363633,21.22060596543873,22
+Africa,"South Africa",ZAF_A,2023,Other,Employment,Employment,"Youth (15-24)","Not stated",0.741,2131.2972,1672.9618000000003,458.3353999999997,21.50499705062249,10
+Africa,"South Africa",ZAF_A,2023,Other,Employment,Employment,"Senior (55+)","Not stated",0.741,417.2682857142857,381.33471428571426,35.93357142857144,8.611622943512193,14
+Africa,"South Africa",ZAF_A,2022,Other,Employment,Employment,"Child (<15)","Not stated",0.741,8824.098,6911.975,1912.1229999999996,21.66933096164616,2
+Africa,"South Africa",ZAF_A,2022,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2784.5577272727273,2192.0926363636368,592.4650909090906,21.276811218755633,22
+Africa,"South Africa",ZAF_A,2022,Other,Employment,Employment,"Youth (15-24)","Not stated",0.741,2016.7948000000001,1550.8328000000004,465.96199999999976,23.104085750320248,10
+Africa,"South Africa",ZAF_A,2022,Other,Employment,Employment,"Senior (55+)","Not stated",0.741,389.10128571428567,319.8985714285714,69.20271428571425,17.7852700123251,14
+Africa,"South Africa",ZAF_A,2021,Other,Employment,Employment,"Child (<15)","Not stated",0.741,8427.152,6456.415,1970.737,23.38556371120398,2
+Africa,"South Africa",ZAF_A,2021,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2680.018181818182,2045.2210000000005,634.7971818181813,23.68630131410233,22
+Africa,"South Africa",ZAF_A,2021,Other,Employment,Employment,"Youth (15-24)","Not stated",0.741,1881.1426,1419.7952,461.3473999999999,24.524849950237684,10
+Africa,"South Africa",ZAF_A,2021,Other,Employment,Employment,"Senior (55+)","Not stated",0.741,386.4244285714286,330.05657142857143,56.36785714285719,14.587032541199157,14
+Africa,"South Africa",ZAF_A,2020,Other,Employment,Employment,"Child (<15)","Not stated",0.741,8568.71,6685.16,1883.5499999999993,21.981721869452922,2
+Africa,"South Africa",ZAF_A,2020,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2714.2140909090913,2112.3985454545455,601.8155454545458,22.17273675905851,22
+Africa,"South Africa",ZAF_A,2020,Other,Employment,Employment,"Youth (15-24)","Not stated",0.741,1928.3097999999998,1481.5408,446.7689999999998,23.168943081656266,10
+Africa,"South Africa",ZAF_A,2020,Other,Employment,Employment,"Senior (55+)","Not stated",0.741,392.6884285714286,338.29585714285713,54.39257142857144,13.851330334954762,14
+Africa,"South Africa",ZAF_A,2019,Other,Employment,Employment,"Child (<15)","Not stated",0.741,9283.878,7287.102,1996.7760000000007,21.50799482716167,2
+Africa,"South Africa",ZAF_A,2019,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2912.9406363636367,2290.056090909091,622.8845454545458,21.38335871588933,22
+Africa,"South Africa",ZAF_A,2019,Other,Employment,Employment,"Youth (15-24)","Not stated",0.741,2140.1928,1646.5516000000002,493.64119999999957,23.065267764661186,10
+Africa,"South Africa",ZAF_A,2019,Other,Employment,Employment,"Senior (55+)","Not stated",0.741,417.92357142857145,357.0798571428571,60.84371428571433,14.558574448848313,14
+Africa,"South Africa",ZAF_A,2018,Other,Employment,Employment,"Child (<15)","Not stated",0.741,9305.552,7304.213,2001.339,21.50693478473926,2
+Africa,"South Africa",ZAF_A,2018,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2909.0291818181827,2290.5539999999996,618.475181818183,21.26053549698761,22
+Africa,"South Africa",ZAF_A,2018,Other,Employment,Employment,"Youth (15-24)","Not stated",0.741,2169.4706000000006,1661.0914,508.37920000000054,23.433329771788582,10
+Africa,"South Africa",ZAF_A,2018,Other,Employment,Employment,"Senior (55+)","Not stated",0.741,411.33628571428574,354.7474285714285,56.58885714285725,13.757321954855176,14
+Africa,"South Africa",ZAF_A,2017,Other,Employment,Employment,"Child (<15)","Not stated",0.741,9183.135,7180.662,2002.473,21.805984557561224,2
+Africa,"South Africa",ZAF_A,2017,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2857.2302727272727,2251.295727272727,605.9345454545455,21.207060251261133,22
+Africa,"South Africa",ZAF_A,2017,Other,Employment,Employment,"Youth (15-24)","Not stated",0.741,2160.3226000000004,1651.5158,508.8068000000005,23.5523527828668,10
+Africa,"South Africa",ZAF_A,2017,Other,Employment,Employment,"Senior (55+)","Not stated",0.741,409.6135714285714,333.00642857142856,76.60714285714283,18.7022960665017,14
+Africa,"South Africa",ZAF_A,2016,Other,Employment,Employment,"Child (<15)","Not stated",0.741,9021.826,6945.752,2076.0739999999987,23.01168300075837,2
+Africa,"South Africa",ZAF_A,2016,Other,Employment,Employment,"Adults (25-54)","Not stated",0.741,2816.8667272727275,2186.5182727272727,630.3484545454548,22.377645645868174,22

@@ -1,0 +1,56 @@
+
+---
+
+## 2️⃣ `.gitignore`
+
+```gitignore
+# --- PYTHON FILES ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# --- NOTEBOOKS ---
+.ipynb_checkpoints/
+
+# --- VIRTUAL ENVIRONMENTS ---
+.env
+.venv
+env/
+venv/
+ENV/
+
+# --- CONFIG FILES ---
+*.env
+config.json
+credentials.json
+
+# --- RAW DATASETS ---
+data/raw/
+data/tmp/
+*.xlsx
+*.zip
+*.tar.gz
+*.rar
+
+# Keep final cleaned datasets
+!data/wage_gap_enriched.csv
+!data/weighted_avg_by_gender.csv
+
+# --- TABLEAU FILES ---
+*.twb
+*.twbx
+*.hyper
+*.tds
+*.tdsx
+
+# --- LOG FILES ---
+*.log
+
+# --- OS SPECIFIC FILES ---
+.DS_Store
+Thumbs.db
+
+# --- ARCHIVES ---
+*.bak

@@ -1,0 +1,1001 @@
+continent,country_clean,ISO_A,year,sector,age_group,education_level,lpr_m,lpr_f,lpr_gap
+Oceania,Palau,PLW_A,2020,Other,"Child (<15)","Not stated",73.559,59.212,14.346999999999994
+Oceania,Palau,PLW_A,2020,Other,"Youth (15-24)","Not stated",36.4448,28.2348,8.21
+Oceania,Palau,PLW_A,2014,Other,"Child (<15)","Not stated",73.27,55.56,17.709999999999994
+Oceania,Palau,PLW_A,2014,Other,"Youth (15-24)","Not stated",37.0432,29.785199999999996,7.258000000000003
+Oceania,Palau,PLW_A,2020,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Adults (25-54)","Not stated",89.5150909090909,80.14590909090909,9.369181818181815
+Oceania,Palau,PLW_A,2020,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2020,Other,"Senior (55+)","Not stated",51.08914285714286,36.66057142857142,14.428571428571438
+Oceania,Palau,PLW_A,2014,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Adults (25-54)","Not stated",89.58263636363637,75.40254545454546,14.180090909090907
+Oceania,Palau,PLW_A,2014,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Oceania,Palau,PLW_A,2014,Other,"Senior (55+)","Not stated",45.53542857142857,29.944,15.591428571428569
+"North America","El Salvador",SLV_A,2023,Other,"Child (<15)","Not stated",78.099,48.79,29.309000000000005
+"North America","El Salvador",SLV_A,2023,Other,"Youth (15-24)","Not stated",59.25319999999999,34.4528,24.80039999999999
+"North America","El Salvador",SLV_A,2022,Other,"Child (<15)","Not stated",77.708,46.376,31.332
+"North America","El Salvador",SLV_A,2022,Other,"Youth (15-24)","Not stated",61.456,33.6372,27.818800000000003
+"North America","El Salvador",SLV_A,2021,Other,"Child (<15)","Not stated",76.808,45.409,31.399000000000008
+"North America","El Salvador",SLV_A,2021,Other,"Youth (15-24)","Not stated",61.8432,32.995200000000004,28.848
+"North America","El Salvador",SLV_A,2020,Other,"Child (<15)","Not stated",75.647,45.36,30.287000000000006
+"North America","El Salvador",SLV_A,2020,Other,"Youth (15-24)","Not stated",59.2384,33.6544,25.583999999999996
+"North America","El Salvador",SLV_A,2019,Other,"Child (<15)","Not stated",78.017,46.31,31.706999999999994
+"North America","El Salvador",SLV_A,2019,Other,"Youth (15-24)","Not stated",63.32320000000001,34.09439999999999,29.228800000000014
+"North America","El Salvador",SLV_A,2018,Other,"Child (<15)","Not stated",76.843,45.493,31.35
+"North America","El Salvador",SLV_A,2018,Other,"Youth (15-24)","Not stated",61.053599999999996,33.7062,27.347399999999993
+"North America","El Salvador",SLV_A,2017,Other,"Child (<15)","Not stated",77.47,45.738,31.732
+"North America","El Salvador",SLV_A,2017,Other,"Youth (15-24)","Not stated",62.67620000000001,33.3404,29.335800000000006
+"North America","El Salvador",SLV_A,2016,Other,"Child (<15)","Not stated",77.352,46.529,30.823
+"North America","El Salvador",SLV_A,2016,Other,"Youth (15-24)","Not stated",61.8796,33.801,28.0786
+"North America","El Salvador",SLV_A,2015,Other,"Child (<15)","Not stated",76.846,45.981,30.865000000000002
+"North America","El Salvador",SLV_A,2015,Other,"Youth (15-24)","Not stated",61.5674,32.7736,28.793799999999997
+"North America","El Salvador",SLV_A,2014,Other,"Child (<15)","Not stated",77.54,47.025,30.515000000000008
+"North America","El Salvador",SLV_A,2014,Other,"Youth (15-24)","Not stated",62.50999999999999,33.8716,28.63839999999999
+"North America","El Salvador",SLV_A,2013,Other,"Child (<15)","Not stated",78.227,48.607,29.620000000000005
+"North America","El Salvador",SLV_A,2013,Other,"Youth (15-24)","Not stated",63.415200000000006,35.143,28.272200000000005
+"North America","El Salvador",SLV_A,2023,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Adults (25-54)","Not stated",92.55436363636363,62.26745454545455,30.286909090909084
+"North America","El Salvador",SLV_A,2023,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Adults (25-54)","Not stated",92.11072727272727,59.35845454545454,32.75227272727273
+"North America","El Salvador",SLV_A,2022,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2022,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Adults (25-54)","Not stated",91.02918181818181,58.27018181818182,32.75899999999999
+"North America","El Salvador",SLV_A,2021,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2021,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Adults (25-54)","Not stated",91.53690909090909,58.68418181818181,32.85272727272728
+"North America","El Salvador",SLV_A,2020,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2020,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2019,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2018,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2017,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2016,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2015,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2014,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2013,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"North America","El Salvador",SLV_A,2023,Other,"Senior (55+)","Not stated",65.45585714285714,33.90685714285714,31.549
+"North America","El Salvador",SLV_A,2022,Other,"Senior (55+)","Not stated",63.37171428571429,30.774857142857144,32.59685714285715
+"North America","El Salvador",SLV_A,2021,Other,"Senior (55+)","Not stated",61.99685714285714,31.201285714285714,30.795571428571424
+"North America","El Salvador",SLV_A,2020,Other,"Senior (55+)","Not stated",61.85685714285715,30.705857142857138,31.151000000000014
+"North America","El Salvador",SLV_A,2019,Other,"Adults (25-54)","Not stated",91.94572727272728,59.612181818181824,32.33354545454546
+"North America","El Salvador",SLV_A,2019,Other,"Senior (55+)","Not stated",65.9327142857143,32.335,33.5977142857143
+"North America","El Salvador",SLV_A,2018,Other,"Adults (25-54)","Not stated",91.50045454545453,58.379,33.12145454545453
+"North America","El Salvador",SLV_A,2018,Other,"Senior (55+)","Not stated",64.65828571428573,31.09742857142857,33.56085714285716
+"North America","El Salvador",SLV_A,2017,Other,"Adults (25-54)","Not stated",91.7198181818182,58.60827272727274,33.11154545454546
+"North America","El Salvador",SLV_A,2017,Other,"Senior (55+)","Not stated",64.75785714285715,31.976285714285716,32.78157142857143
+"North America","El Salvador",SLV_A,2016,Other,"Adults (25-54)","Not stated",91.43590909090909,60.05145454545454,31.384454545454552
+"North America","El Salvador",SLV_A,2016,Other,"Senior (55+)","Not stated",66.41485714285713,31.761571428571433,34.6532857142857
+"North America","El Salvador",SLV_A,2015,Other,"Adults (25-54)","Not stated",91.16054545454546,59.27836363636363,31.882181818181827
+"North America","El Salvador",SLV_A,2015,Other,"Senior (55+)","Not stated",65.76785714285714,31.511999999999997,34.25585714285714
+"North America","El Salvador",SLV_A,2014,Other,"Adults (25-54)","Not stated",91.7458181818182,60.05772727272727,31.688090909090924
+"North America","El Salvador",SLV_A,2014,Other,"Senior (55+)","Not stated",65.95671428571428,32.99671428571429,32.959999999999994
+"North America","El Salvador",SLV_A,2013,Other,"Adults (25-54)","Not stated",92.57518181818182,61.45009090909091,31.125090909090908
+"North America","El Salvador",SLV_A,2013,Other,"Senior (55+)","Not stated",67.44500000000001,34.76871428571429,32.67628571428572
+"South America",Colombia,COL_A,2023,Other,"Child (<15)","Not stated",76.438,52.015,24.423000000000002
+"South America",Colombia,COL_A,2023,Other,"Youth (15-24)","Not stated",53.078599999999994,37.422999999999995,15.6556
+"South America",Colombia,COL_A,2022,Other,"Child (<15)","Not stated",76.203,51.102,25.101000000000006
+"South America",Colombia,COL_A,2022,Other,"Youth (15-24)","Not stated",53.052600000000005,36.7736,16.279000000000003
+"South America",Colombia,COL_A,2021,Other,"Child (<15)","Not stated",77.684,51.776,25.907999999999994
+"South America",Colombia,COL_A,2021,Other,"Youth (15-24)","Not stated",56.8128,39.6614,17.151400000000002
+"South America",Colombia,COL_A,2020,Other,"Child (<15)","Not stated",73.155,47.31,25.845
+"South America",Colombia,COL_A,2020,Other,"Youth (15-24)","Not stated",51.235800000000005,34.3196,16.916200000000003
+"South America",Colombia,COL_A,2019,Other,"Child (<15)","Not stated",77.015,52.575,24.439999999999998
+"South America",Colombia,COL_A,2019,Other,"Youth (15-24)","Not stated",55.38660000000001,38.8154,16.57120000000001
+"South America",Colombia,COL_A,2018,Other,"Child (<15)","Not stated",78.006,53.42,24.586
+"South America",Colombia,COL_A,2018,Other,"Youth (15-24)","Not stated",57.2614,39.606,17.6554
+"South America",Colombia,COL_A,2017,Other,"Child (<15)","Not stated",78.423,54.501,23.922000000000004
+"South America",Colombia,COL_A,2017,Other,"Youth (15-24)","Not stated",58.031000000000006,41.10600000000001,16.924999999999997
+"South America",Colombia,COL_A,2016,Other,"Child (<15)","Not stated",78.856,54.873,23.982999999999997
+"South America",Colombia,COL_A,2016,Other,"Youth (15-24)","Not stated",59.092999999999996,41.791999999999994,17.301000000000002
+"South America",Colombia,COL_A,2015,Other,"Child (<15)","Not stated",79.525,55.406,24.119000000000007
+"South America",Colombia,COL_A,2015,Other,"Youth (15-24)","Not stated",61.19259999999999,42.5034,18.689199999999992
+"South America",Colombia,COL_A,2014,Other,"Child (<15)","Not stated",79.734,55.155,24.578999999999994
+"South America",Colombia,COL_A,2014,Other,"Youth (15-24)","Not stated",61.48620000000001,42.663799999999995,18.822400000000016
+"South America",Colombia,COL_A,2013,Other,"Child (<15)","Not stated",80.001,55.458,24.543000000000006
+"South America",Colombia,COL_A,2013,Other,"Youth (15-24)","Not stated",62.007000000000005,43.1418,18.8652
+"South America",Colombia,COL_A,2023,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Adults (25-54)","Not stated",92.90272727272726,68.31963636363636,24.5830909090909
+"South America",Colombia,COL_A,2023,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2023,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Adults (25-54)","Not stated",92.68372727272727,67.45863636363637,25.225090909090895
+"South America",Colombia,COL_A,2022,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2022,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Adults (25-54)","Not stated",93.44227272727272,66.92336363636365,26.518909090909077
+"South America",Colombia,COL_A,2021,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2021,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Adults (25-54)","Not stated",93.49936363636363,68.12863636363636,25.370727272727265
+"South America",Colombia,COL_A,2019,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2019,Other,"Senior (55+)","Not stated",63.03428571428572,31.41071428571429,31.623571428571434
+"South America",Colombia,COL_A,2018,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Adults (25-54)","Not stated",93.89736363636365,68.72536363636364,25.17200000000001
+"South America",Colombia,COL_A,2018,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2018,Other,"Senior (55+)","Not stated",64.25099999999999,32.711285714285715,31.539714285714275
+"South America",Colombia,COL_A,2017,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Adults (25-54)","Not stated",94.09854545454546,69.79045454545455,24.308090909090907
+"South America",Colombia,COL_A,2017,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2017,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Adults (25-54)","Not stated",94.4030909090909,69.82509090909089,24.578000000000017
+"South America",Colombia,COL_A,2016,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2016,Other,"Senior (55+)","Not stated",64.829,33.34057142857143,31.488428571428564
+"South America",Colombia,COL_A,2015,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Adults (25-54)","Not stated",94.35563636363636,70.35363636363637,24.001999999999995
+"South America",Colombia,COL_A,2015,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2015,Other,"Senior (55+)","Not stated",64.97257142857143,33.10642857142857,31.866142857142854
+"South America",Colombia,COL_A,2014,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Adults (25-54)","Not stated",94.59718181818181,69.6020909090909,24.995090909090905
+"South America",Colombia,COL_A,2014,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2014,Other,"Senior (55+)","Not stated",64.73328571428571,32.65642857142857,32.07685714285714
+"South America",Colombia,COL_A,2013,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Child (<15)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Adults (25-54)","Not stated",94.7219090909091,69.55454545454546,25.167363636363632
+"South America",Colombia,COL_A,2013,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+"South America",Colombia,COL_A,2013,Other,"Senior (55+)","Not stated",64.62942857142858,32.83742857142857,31.79200000000001
+"South America",Colombia,COL_A,2023,Other,"Senior (55+)","Not stated",62.83814285714285,30.757857142857144,32.08028571428571
+"South America",Colombia,COL_A,2022,Other,"Senior (55+)","Not stated",62.32171428571429,28.563285714285715,33.75842857142858
+"South America",Colombia,COL_A,2021,Other,"Senior (55+)","Not stated",62.02542857142857,29.651142857142855,32.37428571428572
+"South America",Colombia,COL_A,2020,Other,"Adults (25-54)","Not stated",90.02718181818182,62.252545454545455,27.77463636363636
+"South America",Colombia,COL_A,2020,Other,"Senior (55+)","Not stated",58.05214285714286,27.234714285714286,30.817428571428575
+"South America",Colombia,COL_A,2017,Other,"Senior (55+)","Not stated",64.78699999999999,32.98971428571429,31.7972857142857
+Africa,"South Africa",ZAF_A,2023,Other,"Child (<15)","Not stated",61.414,49.016,12.398000000000003
+Africa,"South Africa",ZAF_A,2023,Other,"Youth (15-24)","Not stated",32.8378,27.3564,5.481400000000001
+Africa,"South Africa",ZAF_A,2022,Other,"Child (<15)","Not stated",60.344,47.071,13.273000000000003
+Africa,"South Africa",ZAF_A,2022,Other,"Youth (15-24)","Not stated",32.24720000000001,25.851599999999998,6.395600000000009
+Africa,"South Africa",ZAF_A,2021,Other,"Child (<15)","Not stated",59.126,45.354,13.771999999999998
+Africa,"South Africa",ZAF_A,2021,Other,"Youth (15-24)","Not stated",29.1228,23.554,5.568800000000003
+Africa,"South Africa",ZAF_A,2020,Other,"Child (<15)","Not stated",57.438,44.078,13.36
+Africa,"South Africa",ZAF_A,2020,Other,"Youth (15-24)","Not stated",28.3024,22.4284,5.873999999999999
+Africa,"South Africa",ZAF_A,2019,Other,"Child (<15)","Not stated",62.483,48.494,13.988999999999997
+Africa,"South Africa",ZAF_A,2019,Other,"Youth (15-24)","Not stated",32.9328,26.122200000000003,6.810599999999997
+Africa,"South Africa",ZAF_A,2018,Other,"Child (<15)","Not stated",62.346,48.423,13.922999999999995
+Africa,"South Africa",ZAF_A,2018,Other,"Youth (15-24)","Not stated",32.9632,25.96,7.0032
+Africa,"South Africa",ZAF_A,2017,Other,"Child (<15)","Not stated",62.656,48.525,14.131
+Africa,"South Africa",ZAF_A,2017,Other,"Youth (15-24)","Not stated",33.7588,26.8988,6.859999999999999
+Africa,"South Africa",ZAF_A,2016,Other,"Child (<15)","Not stated",62.267,47.649,14.618000000000002
+Africa,"South Africa",ZAF_A,2016,Other,"Youth (15-24)","Not stated",33.8784,26.351599999999998,7.5268000000000015
+Africa,"South Africa",ZAF_A,2015,Other,"Child (<15)","Not stated",62.044,47.637,14.406999999999996
+Africa,"South Africa",ZAF_A,2015,Other,"Youth (15-24)","Not stated",33.98700000000001,26.536399999999997,7.450600000000012
+Africa,"South Africa",ZAF_A,2014,Other,"Child (<15)","Not stated",60.751,46.393,14.357999999999997
+Africa,"South Africa",ZAF_A,2014,Other,"Youth (15-24)","Not stated",32.534600000000005,25.605200000000007,6.929399999999998
+Africa,"South Africa",ZAF_A,2013,Other,"Child (<15)","Not stated",60.526,46.167,14.359000000000002
+Africa,"South Africa",ZAF_A,2013,Other,"Youth (15-24)","Not stated",32.621,26.097400000000004,6.523599999999998
+Africa,"South Africa",ZAF_A,2023,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Adults (25-54)","Not stated",80.15554545454546,67.89581818181817,12.25972727272729
+Africa,"South Africa",ZAF_A,2023,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2023,Other,"Senior (55+)","Not stated",31.687285714285714,22.38857142857143,9.298714285714283
+Africa,"South Africa",ZAF_A,2022,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Adults (25-54)","Not stated",79.0040909090909,66.14463636363638,12.859454545454525
+Africa,"South Africa",ZAF_A,2022,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2022,Other,"Senior (55+)","Not stated",30.873285714285714,19.583,11.290285714285716
+Africa,"South Africa",ZAF_A,2021,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Adults (25-54)","Not stated",78.95209090909093,64.03372727272726,14.918363636363665
+Africa,"South Africa",ZAF_A,2021,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2021,Other,"Senior (55+)","Not stated",31.36785714285714,20.36528571428571,11.002571428571429
+Africa,"South Africa",ZAF_A,2020,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Adults (25-54)","Not stated",76.62054545454545,62.2109090909091,14.409636363636352
+Africa,"South Africa",ZAF_A,2020,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2020,Other,"Senior (55+)","Not stated",32.426857142857145,21.000857142857143,11.426000000000002
+Africa,"South Africa",ZAF_A,2019,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Adults (25-54)","Not stated",82.16018181818181,67.6590909090909,14.501090909090905
+Africa,"South Africa",ZAF_A,2019,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2019,Other,"Senior (55+)","Not stated",34.97342857142857,22.491999999999997,12.481428571428573
+Africa,"South Africa",ZAF_A,2018,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Adults (25-54)","Not stated",82.07181818181817,67.57400000000001,14.497818181818161
+Africa,"South Africa",ZAF_A,2018,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2018,Other,"Senior (55+)","Not stated",35.026428571428575,23.020142857142854,12.00628571428572
+Africa,"South Africa",ZAF_A,2017,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Adults (25-54)","Not stated",82.361,67.35345454545454,15.007545454545465
+Africa,"South Africa",ZAF_A,2017,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2017,Other,"Senior (55+)","Not stated",35.56314285714286,22.350571428571424,13.212571428571433
+Africa,"South Africa",ZAF_A,2016,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Adults (25-54)","Not stated",81.96581818181818,66.3799090909091,15.585909090909084
+Africa,"South Africa",ZAF_A,2016,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2016,Other,"Senior (55+)","Not stated",34.44271428571429,21.298714285714286,13.144000000000002
+Africa,"South Africa",ZAF_A,2015,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Adults (25-54)","Not stated",81.67836363636364,65.98290909090909,15.695454545454552
+Africa,"South Africa",ZAF_A,2015,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2015,Other,"Senior (55+)","Not stated",34.48157142857143,21.885857142857144,12.595714285714283
+Africa,"South Africa",ZAF_A,2014,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Adults (25-54)","Not stated",80.52872727272728,64.42063636363636,16.10809090909092
+Africa,"South Africa",ZAF_A,2014,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2014,Other,"Senior (55+)","Not stated",34.607142857142854,21.571142857142856,13.035999999999998
+Africa,"South Africa",ZAF_A,2013,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Adults (25-54)","Not stated",80.40245454545456,63.94163636363637,16.46081818181819
+Africa,"South Africa",ZAF_A,2013,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Africa,"South Africa",ZAF_A,2013,Other,"Senior (55+)","Not stated",34.01971428571428,20.47957142857143,13.54014285714285
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Child (<15)","Not stated",90.801,54.477,36.324000000000005
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Youth (15-24)","Not stated",58.90559999999999,28.7506,30.154999999999994
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Child (<15)","Not stated",89.451,55.315,34.135999999999996
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Youth (15-24)","Not stated",51.138999999999996,29.905800000000006,21.23319999999999
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Child (<15)","Not stated",90.276,52.567,37.708999999999996
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Youth (15-24)","Not stated",53.59839999999999,29.1792,24.41919999999999
+Asia,"United Arab Emirates",ARE_A,2020,Other,"Child (<15)","Not stated",88.94,61.826,27.113999999999997
+Asia,"United Arab Emirates",ARE_A,2020,Other,"Youth (15-24)","Not stated",47.1614,31.725800000000003,15.435599999999997
+Asia,"United Arab Emirates",ARE_A,2019,Other,"Child (<15)","Not stated",92.055,57.623,34.43200000000001
+Asia,"United Arab Emirates",ARE_A,2019,Other,"Youth (15-24)","Not stated",57.363,31.3464,26.0166
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Child (<15)","Not stated",93.081,52.753,40.328
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Youth (15-24)","Not stated",60.898,34.9084,25.989600000000003
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Child (<15)","Not stated",92.698,52.824,39.873999999999995
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Youth (15-24)","Not stated",60.083000000000006,33.071,27.012000000000008
+Asia,"United Arab Emirates",ARE_A,2016,Other,"Child (<15)","Not stated",93.22,51.21,42.01
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Adults (25-54)","Not stated",97.15590909090908,61.57936363636364,35.57654545454544
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2023,Other,"Senior (55+)","Not stated",71.01628571428571,21.892,49.12428571428572
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Adults (25-54)","Not stated",97.08372727272727,62.152,34.93172727272727
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2022,Other,"Senior (55+)","Not stated",65.07971428571429,18.455142857142857,46.62457142857143
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Adults (25-54)","Not stated",98.08281818181818,56.54981818181819,41.532999999999994
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Adults (25-54)","Not stated",97.2240909090909,58.76609090909091,38.45799999999999
+Asia,"United Arab Emirates",ARE_A,2021,Other,"Senior (55+)","Not stated",66.41885714285715,15.747857142857143,50.67100000000001
+Asia,"United Arab Emirates",ARE_A,2020,Other,"Adults (25-54)","Not stated",97.0809090909091,69.11972727272727,27.961181818181828
+Asia,"United Arab Emirates",ARE_A,2020,Other,"Senior (55+)","Not stated",70.98714285714286,22.850285714285718,48.13685714285714
+Asia,"United Arab Emirates",ARE_A,2019,Other,"Adults (25-54)","Not stated",97.77481818181819,62.89736363636364,34.87745454545455
+Asia,"United Arab Emirates",ARE_A,2019,Other,"Senior (55+)","Not stated",73.75971428571428,19.292,54.46771428571428
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Adults (25-54)","Not stated",98.19636363636363,55.571272727272714,42.625090909090915
+Asia,"United Arab Emirates",ARE_A,2018,Other,"Senior (55+)","Not stated",69.26542857142857,17.362571428571428,51.902857142857144
+Asia,"United Arab Emirates",ARE_A,2017,Other,"Senior (55+)","Not stated",66.46771428571428,16.308,50.15971428571428
+Asia,"United Arab Emirates",ARE_A,2016,Other,"Youth (15-24)","Not stated",47.163333333333334,22.376666666666665,24.78666666666667
+Asia,"United Arab Emirates",ARE_A,2016,Other,"Adults (25-54)","Not stated",98.68199999999999,55.590999999999994,43.090999999999994
+Asia,"United Arab Emirates",ARE_A,2016,Other,"Senior (55+)","Not stated",72.37,15.68857142857143,56.681428571428576
+Asia,Thailand,THA_A,2023,Other,"Child (<15)","Not stated",76.614,60.612,16.002000000000002
+Asia,Thailand,THA_A,2023,Other,"Youth (15-24)","Not stated",47.9002,35.3842,12.515999999999998
+Asia,Thailand,THA_A,2022,Other,"Child (<15)","Not stated",75.964,59.857,16.107
+Asia,Thailand,THA_A,2022,Other,"Youth (15-24)","Not stated",47.1456,34.340199999999996,12.805400000000006
+Asia,Thailand,THA_A,2021,Other,"Child (<15)","Not stated",75.222,59.226,15.995999999999995
+Asia,Thailand,THA_A,2021,Other,"Youth (15-24)","Not stated",47.6646,34.0812,13.583399999999997
+Asia,Thailand,THA_A,2020,Other,"Child (<15)","Not stated",75.427,59.188,16.239000000000004
+Asia,Thailand,THA_A,2020,Other,"Youth (15-24)","Not stated",48.5862,34.5616,14.0246
+Asia,Thailand,THA_A,2019,Other,"Child (<15)","Not stated",75.496,59.006,16.489999999999995
+Asia,Thailand,THA_A,2019,Other,"Youth (15-24)","Not stated",48.895999999999994,34.7558,14.140199999999993
+Asia,Thailand,THA_A,2018,Other,"Child (<15)","Not stated",76.526,59.653,16.872999999999998
+Asia,Thailand,THA_A,2018,Other,"Youth (15-24)","Not stated",50.6996,35.6524,15.047199999999997
+Asia,Thailand,THA_A,2017,Other,"Child (<15)","Not stated",76.185,59.388,16.797000000000004
+Asia,Thailand,THA_A,2017,Other,"Youth (15-24)","Not stated",49.92260000000001,35.4524,14.470200000000013
+Asia,Thailand,THA_A,2016,Other,"Child (<15)","Not stated",76.878,60.181,16.697000000000003
+Asia,Thailand,THA_A,2016,Other,"Youth (15-24)","Not stated",50.685199999999995,36.209599999999995,14.4756
+Asia,Thailand,THA_A,2015,Other,"Child (<15)","Not stated",77.929,61.097,16.832
+Asia,Thailand,THA_A,2015,Other,"Youth (15-24)","Not stated",51.67659999999999,36.4836,15.19299999999999
+Asia,Thailand,THA_A,2014,Other,"Child (<15)","Not stated",78.69,61.532,17.158
+Asia,Thailand,THA_A,2014,Other,"Youth (15-24)","Not stated",52.96419999999999,36.9902,15.97399999999999
+Asia,Thailand,THA_A,2013,Other,"Child (<15)","Not stated",78.964,62.066,16.897999999999996
+Asia,Thailand,THA_A,2013,Other,"Youth (15-24)","Not stated",54.7196,37.394,17.3256
+Asia,Thailand,THA_A,2023,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Adults (25-54)","Not stated",93.5759090909091,81.19727272727272,12.378636363636375
+Asia,Thailand,THA_A,2023,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2023,Other,"Senior (55+)","Not stated",61.65414285714285,43.13057142857143,18.523571428571422
+Asia,Thailand,THA_A,2022,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Adults (25-54)","Not stated",93.052,80.25754545454545,12.794454545454556
+Asia,Thailand,THA_A,2022,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2022,Other,"Senior (55+)","Not stated",60.61957142857143,41.97842857142858,18.641142857142853
+Asia,Thailand,THA_A,2021,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Adults (25-54)","Not stated",92.72545454545455,79.3931818181818,13.332272727272752
+Asia,Thailand,THA_A,2021,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2021,Other,"Senior (55+)","Not stated",60.08428571428572,41.555,18.52928571428572
+Asia,Thailand,THA_A,2020,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Adults (25-54)","Not stated",92.71527272727272,78.87063636363636,13.844636363636354
+Asia,Thailand,THA_A,2020,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2020,Other,"Senior (55+)","Not stated",59.714714285714294,40.89985714285714,18.814857142857157
+Asia,Thailand,THA_A,2019,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Adults (25-54)","Not stated",92.81745454545454,78.57236363636365,14.24509090909089
+Asia,Thailand,THA_A,2019,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2019,Other,"Senior (55+)","Not stated",58.71499999999999,39.66857142857144,19.04642857142855
+Asia,Thailand,THA_A,2018,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Adults (25-54)","Not stated",93.11372727272727,78.72518181818182,14.38854545454545
+Asia,Thailand,THA_A,2018,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2018,Other,"Senior (55+)","Not stated",60.04657142857143,40.229,19.817571428571434
+Asia,Thailand,THA_A,2017,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Adults (25-54)","Not stated",92.76981818181818,78.24536363636362,14.52445454545456
+Asia,Thailand,THA_A,2017,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2017,Other,"Senior (55+)","Not stated",59.25442857142857,39.47771428571429,19.776714285714277
+Asia,Thailand,THA_A,2016,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Adults (25-54)","Not stated",93.26781818181817,78.86745454545454,14.400363636363636
+Asia,Thailand,THA_A,2016,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2016,Other,"Senior (55+)","Not stated",59.76385714285714,39.596428571428575,20.167428571428566
+Asia,Thailand,THA_A,2015,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Adults (25-54)","Not stated",93.9019090909091,79.50527272727273,14.396636363636375
+Asia,Thailand,THA_A,2015,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2015,Other,"Senior (55+)","Not stated",61.022285714285715,40.35314285714286,20.66914285714285
+Asia,Thailand,THA_A,2014,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Child (<15)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Child (<15)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Adults (25-54)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Adults (25-54)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Adults (25-54)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Adults (25-54)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Adults (25-54)","Not stated",94.14336363636363,79.48336363636363,14.659999999999997
+Asia,Thailand,THA_A,2014,Other,"Youth (15-24)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Youth (15-24)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Youth (15-24)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Youth (15-24)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Senior (55+)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Senior (55+)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Senior (55+)",Intermediate,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Senior (55+)",Advanced,NULL,NULL,NULL
+Asia,Thailand,THA_A,2014,Other,"Senior (55+)","Not stated",61.48271428571429,40.44942857142858,21.03328571428571
+Asia,Thailand,THA_A,2013,Other,"Child (<15)","Less than basic",NULL,NULL,NULL
+Asia,Thailand,THA_A,2013,Other,"Child (<15)",Basic,NULL,NULL,NULL
+Asia,Thailand,THA_A,2013,Other,"Child (<15)",Intermediate,NULL,NULL,NULL

@@ -1,0 +1,1001 @@
+category,continent,ISO_A,country_clean,year,indicator,gender,classif_type1,classif_type2,sector,value,HDI_2023,age_group,education_level,unit,value_usd,scale,population,indicator_abbr,indicator_group
+"Top 5",Oceania,PLW_A,Palau,2020,"Unemployment Rate",M,15+,NULL,Other,0.58,0.786,"Child (<15)","Not stated",%,0.58,relative,17792,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,"Unemployment Rate",M,15-24,NULL,Other,3.067,0.786,"Youth (15-24)","Not stated",%,3.067,relative,17792,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,"Unemployment Rate",M,25+,NULL,Other,0.429,0.786,"Youth (15-24)","Not stated",%,0.429,relative,17792,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,"Unemployment Rate",F,15+,NULL,Other,1.04,0.786,"Child (<15)","Not stated",%,1.04,relative,17792,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,"Unemployment Rate",F,15-24,NULL,Other,3.54,0.786,"Youth (15-24)","Not stated",%,3.54,relative,17792,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,"Unemployment Rate",F,25+,NULL,Other,0.884,0.786,"Youth (15-24)","Not stated",%,0.884,relative,17792,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,"Unemployment Rate",M,15+,NULL,Other,1.056,0.786,"Child (<15)","Not stated",%,1.056,relative,17715,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,"Unemployment Rate",M,25+,NULL,Other,0.72,0.786,"Youth (15-24)","Not stated",%,0.72,relative,17715,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,"Unemployment Rate",F,15+,NULL,Other,1.753,0.786,"Child (<15)","Not stated",%,1.753,relative,17715,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,"Unemployment Rate",F,25+,NULL,Other,1.371,0.786,"Youth (15-24)","Not stated",%,1.371,relative,17715,UR,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (Aggregate levels): Less than basic",Other,0.269,0.786,"Child (<15)","Less than basic",thousands,0.269,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (Aggregate levels): Basic",Other,0.526,0.786,"Child (<15)",Basic,thousands,0.526,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (Aggregate levels): Intermediate",Other,3.402,0.786,"Child (<15)",Intermediate,thousands,3.402,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (Aggregate levels): Advanced",Other,1.463,0.786,"Child (<15)",Advanced,thousands,1.463,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (Aggregate levels): Level not stated",Other,0.032,0.786,"Child (<15)","Not stated",thousands,0.032,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (Aggregate levels): Less than basic",Other,0.262,0.786,"Adults (25-54)","Less than basic",thousands,0.262,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (Aggregate levels): Basic",Other,0.51,0.786,"Adults (25-54)",Basic,thousands,0.51,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (Aggregate levels): Intermediate",Other,3.304,0.786,"Adults (25-54)",Intermediate,thousands,3.304,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (Aggregate levels): Advanced",Other,1.384,0.786,"Adults (25-54)",Advanced,thousands,1.384,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Less than basic",Other,0.011,0.786,"Youth (15-24)","Less than basic",thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Basic",Other,0.04,0.786,"Youth (15-24)",Basic,thousands,0.04,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Intermediate",Other,0.204,0.786,"Youth (15-24)",Intermediate,thousands,0.204,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Advanced",Other,0.071,0.786,"Youth (15-24)",Advanced,thousands,0.071,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (Aggregate levels): Less than basic",Other,0.258,0.786,"Youth (15-24)","Less than basic",thousands,0.258,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (Aggregate levels): Basic",Other,0.486,0.786,"Youth (15-24)",Basic,thousands,0.486,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (Aggregate levels): Intermediate",Other,3.198,0.786,"Youth (15-24)",Intermediate,thousands,3.198,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (Aggregate levels): Advanced",Other,1.392,0.786,"Youth (15-24)",Advanced,thousands,1.392,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (Aggregate levels): Level not stated",Other,0.032,0.786,"Youth (15-24)","Not stated",thousands,0.032,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (Aggregate levels): Less than basic",Other,0.046,0.786,"Child (<15)","Less than basic",thousands,0.046,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (Aggregate levels): Basic",Other,0.152,0.786,"Child (<15)",Basic,thousands,0.152,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (Aggregate levels): Intermediate",Other,1.928,0.786,"Child (<15)",Intermediate,thousands,1.928,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (Aggregate levels): Advanced",Other,1.679,0.786,"Child (<15)",Advanced,thousands,1.679,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (Aggregate levels): Level not stated",Other,0.042,0.786,"Child (<15)","Not stated",thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (Aggregate levels): Less than basic",Other,0.041,0.786,"Adults (25-54)","Less than basic",thousands,0.041,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (Aggregate levels): Basic",Other,0.137,0.786,"Adults (25-54)",Basic,thousands,0.137,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (Aggregate levels): Intermediate",Other,1.88,0.786,"Adults (25-54)",Intermediate,thousands,1.88,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (Aggregate levels): Advanced",Other,1.629,0.786,"Adults (25-54)",Advanced,thousands,1.629,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (Aggregate levels): Intermediate",Other,0.134,0.786,"Youth (15-24)",Intermediate,thousands,0.134,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (Aggregate levels): Advanced",Other,0.085,0.786,"Youth (15-24)",Advanced,thousands,0.085,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (Aggregate levels): Less than basic",Other,0.043,0.786,"Youth (15-24)","Less than basic",thousands,0.043,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (Aggregate levels): Basic",Other,0.148,0.786,"Youth (15-24)",Basic,thousands,0.148,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (Aggregate levels): Intermediate",Other,1.794,0.786,"Youth (15-24)",Intermediate,thousands,1.794,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (Aggregate levels): Advanced",Other,1.594,0.786,"Youth (15-24)",Advanced,thousands,1.594,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (Aggregate levels): Level not stated",Other,0.042,0.786,"Youth (15-24)","Not stated",thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): X. No schooling",Other,0.148,0.786,"Child (<15)","Less than basic",thousands,0.148,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 0. Early childhood education",Other,0.121,0.786,"Child (<15)","Less than basic",thousands,0.121,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 1. Primary education",Other,0.101,0.786,"Child (<15)",Basic,thousands,0.101,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 2. Lower secondary education",Other,0.425,0.786,"Child (<15)",Intermediate,thousands,0.425,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 3. Upper secondary education",Other,3.038,0.786,"Child (<15)",Intermediate,thousands,3.038,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.364,0.786,"Child (<15)",Advanced,thousands,0.364,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.759,0.786,"Child (<15)",Advanced,thousands,0.759,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.568,0.786,"Child (<15)",Advanced,thousands,0.568,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.12,0.786,"Child (<15)",Advanced,thousands,0.12,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.016,0.786,"Child (<15)",Advanced,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.032,0.786,"Child (<15)","Not stated",thousands,0.032,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): X. No schooling",Other,0.144,0.786,"Adults (25-54)","Less than basic",thousands,0.144,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 0. Early childhood education",Other,0.118,0.786,"Adults (25-54)","Less than basic",thousands,0.118,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 1. Primary education",Other,0.097,0.786,"Adults (25-54)",Basic,thousands,0.097,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.413,0.786,"Adults (25-54)",Intermediate,thousands,0.413,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 3. Upper secondary education",Other,2.958,0.786,"Adults (25-54)",Intermediate,thousands,2.958,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.346,0.786,"Adults (25-54)",Advanced,thousands,0.346,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.737,0.786,"Adults (25-54)",Advanced,thousands,0.737,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.526,0.786,"Adults (25-54)",Advanced,thousands,0.526,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.111,0.786,"Adults (25-54)",Advanced,thousands,0.111,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): X. No schooling",Other,0.008,0.786,"Youth (15-24)","Less than basic",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 1. Primary education",Other,0.005,0.786,"Youth (15-24)",Basic,thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,0.035,0.786,"Youth (15-24)",Intermediate,thousands,0.035,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.19,0.786,"Youth (15-24)",Intermediate,thousands,0.19,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.014,0.786,"Youth (15-24)",Advanced,thousands,0.014,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.054,0.786,"Youth (15-24)",Advanced,thousands,0.054,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.016,0.786,"Youth (15-24)",Advanced,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): X. No schooling",Other,0.14,0.786,"Youth (15-24)","Less than basic",thousands,0.14,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 0. Early childhood education",Other,0.118,0.786,"Youth (15-24)","Less than basic",thousands,0.118,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 1. Primary education",Other,0.096,0.786,"Youth (15-24)",Basic,thousands,0.096,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 2. Lower secondary education",Other,0.39,0.786,"Youth (15-24)",Intermediate,thousands,0.39,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 3. Upper secondary education",Other,2.848,0.786,"Youth (15-24)",Intermediate,thousands,2.848,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.35,0.786,"Youth (15-24)",Advanced,thousands,0.35,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.705,0.786,"Youth (15-24)",Advanced,thousands,0.705,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.552,0.786,"Youth (15-24)",Advanced,thousands,0.552,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.119,0.786,"Youth (15-24)",Advanced,thousands,0.119,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.016,0.786,"Youth (15-24)",Advanced,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.032,0.786,"Youth (15-24)","Not stated",thousands,0.032,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): X. No schooling",Other,0.029,0.786,"Child (<15)","Less than basic",thousands,0.029,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 0. Early childhood education",Other,0.017,0.786,"Child (<15)","Less than basic",thousands,0.017,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 1. Primary education",Other,0.017,0.786,"Child (<15)",Basic,thousands,0.017,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 2. Lower secondary education",Other,0.135,0.786,"Child (<15)",Intermediate,thousands,0.135,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 3. Upper secondary education",Other,1.8,0.786,"Child (<15)",Intermediate,thousands,1.8,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.128,0.786,"Child (<15)",Advanced,thousands,0.128,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.857,0.786,"Child (<15)",Advanced,thousands,0.857,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.665,0.786,"Child (<15)",Advanced,thousands,0.665,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.145,0.786,"Child (<15)",Advanced,thousands,0.145,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.012,0.786,"Child (<15)",Advanced,thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.042,0.786,"Child (<15)","Not stated",thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): X. No schooling",Other,0.027,0.786,"Adults (25-54)","Less than basic",thousands,0.027,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 0. Early childhood education",Other,0.014,0.786,"Adults (25-54)","Less than basic",thousands,0.014,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 1. Primary education",Other,0.013,0.786,"Adults (25-54)",Basic,thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.124,0.786,"Adults (25-54)",Intermediate,thousands,0.124,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 3. Upper secondary education",Other,1.758,0.786,"Adults (25-54)",Intermediate,thousands,1.758,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.122,0.786,"Adults (25-54)",Advanced,thousands,0.122,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.845,0.786,"Adults (25-54)",Advanced,thousands,0.845,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.639,0.786,"Adults (25-54)",Advanced,thousands,0.639,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.134,0.786,"Adults (25-54)",Advanced,thousands,0.134,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.127,0.786,"Youth (15-24)",Intermediate,thousands,0.127,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.007,0.786,"Youth (15-24)",Advanced,thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.046,0.786,"Youth (15-24)",Advanced,thousands,0.046,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.038,0.786,"Youth (15-24)",Advanced,thousands,0.038,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): X. No schooling",Other,0.028,0.786,"Youth (15-24)","Less than basic",thousands,0.028,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 0. Early childhood education",Other,0.015,0.786,"Youth (15-24)","Less than basic",thousands,0.015,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 1. Primary education",Other,0.017,0.786,"Youth (15-24)",Basic,thousands,0.017,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 2. Lower secondary education",Other,0.131,0.786,"Youth (15-24)",Intermediate,thousands,0.131,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 3. Upper secondary education",Other,1.673,0.786,"Youth (15-24)",Intermediate,thousands,1.673,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.121,0.786,"Youth (15-24)",Advanced,thousands,0.121,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.811,0.786,"Youth (15-24)",Advanced,thousands,0.811,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.627,0.786,"Youth (15-24)",Advanced,thousands,0.627,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.144,0.786,"Youth (15-24)",Advanced,thousands,0.144,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.012,0.786,"Youth (15-24)",Advanced,thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.042,0.786,"Youth (15-24)","Not stated",thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Less than basic",Other,0.011,0.786,"Youth (15-24)","Less than basic",thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Basic",Other,0.04,0.786,"Youth (15-24)",Basic,thousands,0.04,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Intermediate",Other,0.204,0.786,"Youth (15-24)",Intermediate,thousands,0.204,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Advanced",Other,0.071,0.786,"Youth (15-24)",Advanced,thousands,0.071,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (Aggregate levels): Less than basic",Other,0.222,0.786,"Adults (25-54)","Less than basic",thousands,0.222,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (Aggregate levels): Basic",Other,0.381,0.786,"Adults (25-54)",Basic,thousands,0.381,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (Aggregate levels): Intermediate",Other,2.588,0.786,"Adults (25-54)",Intermediate,thousands,2.588,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (Aggregate levels): Advanced",Other,1.104,0.786,"Adults (25-54)",Advanced,thousands,1.104,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (Aggregate levels): Level not stated",Other,0.018,0.786,"Adults (25-54)","Not stated",thousands,0.018,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Less than basic",Other,0.029,0.786,"Senior (55+)","Less than basic",thousands,0.029,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Basic",Other,0.089,0.786,"Senior (55+)",Basic,thousands,0.089,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Intermediate",Other,0.512,0.786,"Senior (55+)",Intermediate,thousands,0.512,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Advanced",Other,0.209,0.786,"Senior (55+)",Advanced,thousands,0.209,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Level not stated",Other,0.008,0.786,"Senior (55+)","Not stated",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Less than basic",Other,0.007,0.786,"Senior (55+)","Less than basic",thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Basic",Other,0.016,0.786,"Senior (55+)",Basic,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Intermediate",Other,0.098,0.786,"Senior (55+)",Intermediate,thousands,0.098,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Advanced",Other,0.079,0.786,"Senior (55+)",Advanced,thousands,0.079,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Level not stated",Other,0.006,0.786,"Senior (55+)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (Aggregate levels): Intermediate",Other,0.134,0.786,"Youth (15-24)",Intermediate,thousands,0.134,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (Aggregate levels): Advanced",Other,0.085,0.786,"Youth (15-24)",Advanced,thousands,0.085,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (Aggregate levels): Less than basic",Other,0.027,0.786,"Adults (25-54)","Less than basic",thousands,0.027,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (Aggregate levels): Basic",Other,0.088,0.786,"Adults (25-54)",Basic,thousands,0.088,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (Aggregate levels): Intermediate",Other,1.446,0.786,"Adults (25-54)",Intermediate,thousands,1.446,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (Aggregate levels): Advanced",Other,1.312,0.786,"Adults (25-54)",Advanced,thousands,1.312,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (Aggregate levels): Level not stated",Other,0.026,0.786,"Adults (25-54)","Not stated",thousands,0.026,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Less than basic",Other,0.011,0.786,"Senior (55+)","Less than basic",thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Basic",Other,0.045,0.786,"Senior (55+)",Basic,thousands,0.045,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Intermediate",Other,0.3,0.786,"Senior (55+)",Intermediate,thousands,0.3,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Advanced",Other,0.232,0.786,"Senior (55+)",Advanced,thousands,0.232,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Level not stated",Other,0.013,0.786,"Senior (55+)","Not stated",thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Less than basic",Other,0.005,0.786,"Senior (55+)","Less than basic",thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Basic",Other,0.015,0.786,"Senior (55+)",Basic,thousands,0.015,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Intermediate",Other,0.048,0.786,"Senior (55+)",Intermediate,thousands,0.048,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Advanced",Other,0.05,0.786,"Senior (55+)",Advanced,thousands,0.05,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): X. No schooling",Other,0.008,0.786,"Youth (15-24)","Less than basic",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 1. Primary education",Other,0.005,0.786,"Youth (15-24)",Basic,thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,0.035,0.786,"Youth (15-24)",Intermediate,thousands,0.035,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.19,0.786,"Youth (15-24)",Intermediate,thousands,0.19,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.014,0.786,"Youth (15-24)",Advanced,thousands,0.014,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.054,0.786,"Youth (15-24)",Advanced,thousands,0.054,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.016,0.786,"Youth (15-24)",Advanced,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): X. No schooling",Other,0.123,0.786,"Adults (25-54)","Less than basic",thousands,0.123,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 0. Early childhood education",Other,0.099,0.786,"Adults (25-54)","Less than basic",thousands,0.099,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 1. Primary education",Other,0.072,0.786,"Adults (25-54)",Basic,thousands,0.072,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.309,0.786,"Adults (25-54)",Intermediate,thousands,0.309,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 3. Upper secondary education",Other,2.321,0.786,"Adults (25-54)",Intermediate,thousands,2.321,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.267,0.786,"Adults (25-54)",Advanced,thousands,0.267,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.585,0.786,"Adults (25-54)",Advanced,thousands,0.585,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.429,0.786,"Adults (25-54)",Advanced,thousands,0.429,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.082,0.786,"Adults (25-54)",Advanced,thousands,0.082,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.008,0.786,"Adults (25-54)",Advanced,thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-54,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.018,0.786,"Adults (25-54)","Not stated",thousands,0.018,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): X. No schooling",Other,0.013,0.786,"Senior (55+)","Less than basic",thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 0. Early childhood education",Other,0.016,0.786,"Senior (55+)","Less than basic",thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 1. Primary education",Other,0.02,0.786,"Senior (55+)",Basic,thousands,0.02,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.069,0.786,"Senior (55+)",Intermediate,thousands,0.069,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.447,0.786,"Senior (55+)",Intermediate,thousands,0.447,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.065,0.786,"Senior (55+)",Advanced,thousands,0.065,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.098,0.786,"Senior (55+)",Advanced,thousands,0.098,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.081,0.786,"Senior (55+)",Advanced,thousands,0.081,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.028,0.786,"Senior (55+)",Advanced,thousands,0.028,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.008,0.786,"Senior (55+)","Not stated",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 2. Lower secondary education",Other,0.012,0.786,"Senior (55+)",Intermediate,thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 3. Upper secondary education",Other,0.08,0.786,"Senior (55+)",Intermediate,thousands,0.08,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.018,0.786,"Senior (55+)",Advanced,thousands,0.018,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.022,0.786,"Senior (55+)",Advanced,thousands,0.022,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.042,0.786,"Senior (55+)",Advanced,thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.009,0.786,"Senior (55+)",Advanced,thousands,0.009,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.006,0.786,"Senior (55+)",Advanced,thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.006,0.786,"Senior (55+)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.127,0.786,"Youth (15-24)",Intermediate,thousands,0.127,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.007,0.786,"Youth (15-24)",Advanced,thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.046,0.786,"Youth (15-24)",Advanced,thousands,0.046,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.038,0.786,"Youth (15-24)",Advanced,thousands,0.038,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): X. No schooling",Other,0.018,0.786,"Adults (25-54)","Less than basic",thousands,0.018,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 0. Early childhood education",Other,0.009,0.786,"Adults (25-54)","Less than basic",thousands,0.009,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 1. Primary education",Other,0.007,0.786,"Adults (25-54)",Basic,thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.081,0.786,"Adults (25-54)",Intermediate,thousands,0.081,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 3. Upper secondary education",Other,1.356,0.786,"Adults (25-54)",Intermediate,thousands,1.356,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.09,0.786,"Adults (25-54)",Advanced,thousands,0.09,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.676,0.786,"Adults (25-54)",Advanced,thousands,0.676,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.509,0.786,"Adults (25-54)",Advanced,thousands,0.509,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.118,0.786,"Adults (25-54)",Advanced,thousands,0.118,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.009,0.786,"Adults (25-54)",Advanced,thousands,0.009,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-54,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.026,0.786,"Adults (25-54)","Not stated",thousands,0.026,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): X. No schooling",Other,0.008,0.786,"Senior (55+)","Less than basic",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 1. Primary education",Other,0.006,0.786,"Senior (55+)",Basic,thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.039,0.786,"Senior (55+)",Intermediate,thousands,0.039,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.275,0.786,"Senior (55+)",Intermediate,thousands,0.275,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.025,0.786,"Senior (55+)",Advanced,thousands,0.025,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.123,0.786,"Senior (55+)",Advanced,thousands,0.123,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.092,0.786,"Senior (55+)",Advanced,thousands,0.092,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.015,0.786,"Senior (55+)",Advanced,thousands,0.015,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.013,0.786,"Senior (55+)","Not stated",thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 2. Lower secondary education",Other,0.011,0.786,"Senior (55+)",Intermediate,thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 3. Upper secondary education",Other,0.042,0.786,"Senior (55+)",Intermediate,thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.006,0.786,"Senior (55+)",Advanced,thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.012,0.786,"Senior (55+)",Advanced,thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.026,0.786,"Senior (55+)",Advanced,thousands,0.026,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.011,0.786,"Senior (55+)",Advanced,thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Less than basic",Other,0.011,0.786,"Youth (15-24)","Less than basic",thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Basic",Other,0.04,0.786,"Youth (15-24)",Basic,thousands,0.04,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Intermediate",Other,0.204,0.786,"Youth (15-24)",Intermediate,thousands,0.204,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (Aggregate levels): Advanced",Other,0.071,0.786,"Youth (15-24)",Advanced,thousands,0.071,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (Aggregate levels): Less than basic",Other,0.087,0.786,"Adults (25-54)","Less than basic",thousands,0.087,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (Aggregate levels): Basic",Other,0.132,0.786,"Adults (25-54)",Basic,thousands,0.132,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (Aggregate levels): Intermediate",Other,0.825,0.786,"Adults (25-54)",Intermediate,thousands,0.825,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (Aggregate levels): Advanced",Other,0.349,0.786,"Adults (25-54)",Advanced,thousands,0.349,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (Aggregate levels): Level not stated",Other,0.005,0.786,"Adults (25-54)","Not stated",thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (Aggregate levels): Less than basic",Other,0.095,0.786,"Adults (25-54)","Less than basic",thousands,0.095,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (Aggregate levels): Basic",Other,0.133,0.786,"Adults (25-54)",Basic,thousands,0.133,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (Aggregate levels): Intermediate",Other,0.908,0.786,"Adults (25-54)",Intermediate,thousands,0.908,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (Aggregate levels): Advanced",Other,0.39,0.786,"Adults (25-54)",Advanced,thousands,0.39,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (Aggregate levels): Level not stated",Other,0.007,0.786,"Adults (25-54)","Not stated",thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (Aggregate levels): Less than basic",Other,0.04,0.786,"Adults (25-54)","Less than basic",thousands,0.04,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (Aggregate levels): Basic",Other,0.116,0.786,"Adults (25-54)",Basic,thousands,0.116,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (Aggregate levels): Intermediate",Other,0.855,0.786,"Adults (25-54)",Intermediate,thousands,0.855,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (Aggregate levels): Advanced",Other,0.365,0.786,"Adults (25-54)",Advanced,thousands,0.365,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (Aggregate levels): Level not stated",Other,0.006,0.786,"Adults (25-54)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Less than basic",Other,0.029,0.786,"Senior (55+)","Less than basic",thousands,0.029,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Basic",Other,0.089,0.786,"Senior (55+)",Basic,thousands,0.089,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Intermediate",Other,0.512,0.786,"Senior (55+)",Intermediate,thousands,0.512,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Advanced",Other,0.209,0.786,"Senior (55+)",Advanced,thousands,0.209,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (Aggregate levels): Level not stated",Other,0.008,0.786,"Senior (55+)","Not stated",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Less than basic",Other,0.007,0.786,"Senior (55+)","Less than basic",thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Basic",Other,0.016,0.786,"Senior (55+)",Basic,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Intermediate",Other,0.098,0.786,"Senior (55+)",Intermediate,thousands,0.098,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Advanced",Other,0.079,0.786,"Senior (55+)",Advanced,thousands,0.079,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (Aggregate levels): Level not stated",Other,0.006,0.786,"Senior (55+)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (Aggregate levels): Intermediate",Other,0.134,0.786,"Youth (15-24)",Intermediate,thousands,0.134,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (Aggregate levels): Advanced",Other,0.085,0.786,"Youth (15-24)",Advanced,thousands,0.085,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (Aggregate levels): Less than basic",Other,0.007,0.786,"Adults (25-54)","Less than basic",thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (Aggregate levels): Basic",Other,0.017,0.786,"Adults (25-54)",Basic,thousands,0.017,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (Aggregate levels): Intermediate",Other,0.435,0.786,"Adults (25-54)",Intermediate,thousands,0.435,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (Aggregate levels): Advanced",Other,0.442,0.786,"Adults (25-54)",Advanced,thousands,0.442,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (Aggregate levels): Level not stated",Other,0.006,0.786,"Adults (25-54)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (Aggregate levels): Less than basic",Other,0.007,0.786,"Adults (25-54)","Less than basic",thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (Aggregate levels): Basic",Other,0.024,0.786,"Adults (25-54)",Basic,thousands,0.024,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (Aggregate levels): Intermediate",Other,0.463,0.786,"Adults (25-54)",Intermediate,thousands,0.463,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (Aggregate levels): Advanced",Other,0.463,0.786,"Adults (25-54)",Advanced,thousands,0.463,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (Aggregate levels): Level not stated",Other,0.008,0.786,"Adults (25-54)","Not stated",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (Aggregate levels): Less than basic",Other,0.013,0.786,"Adults (25-54)","Less than basic",thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (Aggregate levels): Basic",Other,0.047,0.786,"Adults (25-54)",Basic,thousands,0.047,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (Aggregate levels): Intermediate",Other,0.548,0.786,"Adults (25-54)",Intermediate,thousands,0.548,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (Aggregate levels): Advanced",Other,0.407,0.786,"Adults (25-54)",Advanced,thousands,0.407,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (Aggregate levels): Level not stated",Other,0.012,0.786,"Adults (25-54)","Not stated",thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Less than basic",Other,0.011,0.786,"Senior (55+)","Less than basic",thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Basic",Other,0.045,0.786,"Senior (55+)",Basic,thousands,0.045,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Intermediate",Other,0.3,0.786,"Senior (55+)",Intermediate,thousands,0.3,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Advanced",Other,0.232,0.786,"Senior (55+)",Advanced,thousands,0.232,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (Aggregate levels): Level not stated",Other,0.013,0.786,"Senior (55+)","Not stated",thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Less than basic",Other,0.005,0.786,"Senior (55+)","Less than basic",thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Basic",Other,0.015,0.786,"Senior (55+)",Basic,thousands,0.015,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Intermediate",Other,0.048,0.786,"Senior (55+)",Intermediate,thousands,0.048,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (Aggregate levels): Advanced",Other,0.05,0.786,"Senior (55+)",Advanced,thousands,0.05,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): X. No schooling",Other,0.008,0.786,"Youth (15-24)","Less than basic",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 1. Primary education",Other,0.005,0.786,"Youth (15-24)",Basic,thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,0.035,0.786,"Youth (15-24)",Intermediate,thousands,0.035,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.19,0.786,"Youth (15-24)",Intermediate,thousands,0.19,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.014,0.786,"Youth (15-24)",Advanced,thousands,0.014,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.054,0.786,"Youth (15-24)",Advanced,thousands,0.054,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.016,0.786,"Youth (15-24)",Advanced,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): X. No schooling",Other,0.044,0.786,"Adults (25-54)","Less than basic",thousands,0.044,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 0. Early childhood education",Other,0.043,0.786,"Adults (25-54)","Less than basic",thousands,0.043,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 1. Primary education",Other,0.03,0.786,"Adults (25-54)",Basic,thousands,0.03,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 2. Lower secondary education",Other,0.102,0.786,"Adults (25-54)",Intermediate,thousands,0.102,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 3. Upper secondary education",Other,0.75,0.786,"Adults (25-54)",Intermediate,thousands,0.75,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.075,0.786,"Adults (25-54)",Advanced,thousands,0.075,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.195,0.786,"Adults (25-54)",Advanced,thousands,0.195,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.134,0.786,"Adults (25-54)",Advanced,thousands,0.134,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.018,0.786,"Adults (25-54)",Advanced,thousands,0.018,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,25-34,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.005,0.786,"Adults (25-54)","Not stated",thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): X. No schooling",Other,0.06,0.786,"Adults (25-54)","Less than basic",thousands,0.06,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 0. Early childhood education",Other,0.035,0.786,"Adults (25-54)","Less than basic",thousands,0.035,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 1. Primary education",Other,0.023,0.786,"Adults (25-54)",Basic,thousands,0.023,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 2. Lower secondary education",Other,0.11,0.786,"Adults (25-54)",Intermediate,thousands,0.11,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 3. Upper secondary education",Other,0.818,0.786,"Adults (25-54)",Intermediate,thousands,0.818,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.09,0.786,"Adults (25-54)",Advanced,thousands,0.09,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.195,0.786,"Adults (25-54)",Advanced,thousands,0.195,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.168,0.786,"Adults (25-54)",Advanced,thousands,0.168,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.026,0.786,"Adults (25-54)",Advanced,thousands,0.026,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,35-44,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.007,0.786,"Adults (25-54)","Not stated",thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): X. No schooling",Other,0.019,0.786,"Adults (25-54)","Less than basic",thousands,0.019,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 0. Early childhood education",Other,0.021,0.786,"Adults (25-54)","Less than basic",thousands,0.021,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 1. Primary education",Other,0.019,0.786,"Adults (25-54)",Basic,thousands,0.019,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.097,0.786,"Adults (25-54)",Intermediate,thousands,0.097,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 3. Upper secondary education",Other,0.753,0.786,"Adults (25-54)",Intermediate,thousands,0.753,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.102,0.786,"Adults (25-54)",Advanced,thousands,0.102,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.195,0.786,"Adults (25-54)",Advanced,thousands,0.195,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.127,0.786,"Adults (25-54)",Advanced,thousands,0.127,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.038,0.786,"Adults (25-54)",Advanced,thousands,0.038,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.005,0.786,"Adults (25-54)",Advanced,thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,45-54,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.006,0.786,"Adults (25-54)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): X. No schooling",Other,0.013,0.786,"Senior (55+)","Less than basic",thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 0. Early childhood education",Other,0.016,0.786,"Senior (55+)","Less than basic",thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 1. Primary education",Other,0.02,0.786,"Senior (55+)",Basic,thousands,0.02,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.069,0.786,"Senior (55+)",Intermediate,thousands,0.069,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.447,0.786,"Senior (55+)",Intermediate,thousands,0.447,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.065,0.786,"Senior (55+)",Advanced,thousands,0.065,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.098,0.786,"Senior (55+)",Advanced,thousands,0.098,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.081,0.786,"Senior (55+)",Advanced,thousands,0.081,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.028,0.786,"Senior (55+)",Advanced,thousands,0.028,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,55-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.008,0.786,"Senior (55+)","Not stated",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 2. Lower secondary education",Other,0.012,0.786,"Senior (55+)",Intermediate,thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 3. Upper secondary education",Other,0.08,0.786,"Senior (55+)",Intermediate,thousands,0.08,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.018,0.786,"Senior (55+)",Advanced,thousands,0.018,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.022,0.786,"Senior (55+)",Advanced,thousands,0.022,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.042,0.786,"Senior (55+)",Advanced,thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.009,0.786,"Senior (55+)",Advanced,thousands,0.009,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.006,0.786,"Senior (55+)",Advanced,thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",M,65+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.006,0.786,"Senior (55+)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.127,0.786,"Youth (15-24)",Intermediate,thousands,0.127,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.007,0.786,"Youth (15-24)",Advanced,thousands,0.007,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.046,0.786,"Youth (15-24)",Advanced,thousands,0.046,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.038,0.786,"Youth (15-24)",Advanced,thousands,0.038,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): X. No schooling",Other,0.006,0.786,"Adults (25-54)","Less than basic",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): 2. Lower secondary education",Other,0.016,0.786,"Adults (25-54)",Intermediate,thousands,0.016,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): 3. Upper secondary education",Other,0.402,0.786,"Adults (25-54)",Intermediate,thousands,0.402,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.033,0.786,"Adults (25-54)",Advanced,thousands,0.033,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.233,0.786,"Adults (25-54)",Advanced,thousands,0.233,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.177,0.786,"Adults (25-54)",Advanced,thousands,0.177,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.031,0.786,"Adults (25-54)",Advanced,thousands,0.031,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,25-34,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.006,0.786,"Adults (25-54)","Not stated",thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (ISCED-11): 2. Lower secondary education",Other,0.021,0.786,"Adults (25-54)",Intermediate,thousands,0.021,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (ISCED-11): 3. Upper secondary education",Other,0.437,0.786,"Adults (25-54)",Intermediate,thousands,0.437,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.026,0.786,"Adults (25-54)",Advanced,thousands,0.026,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.232,0.786,"Adults (25-54)",Advanced,thousands,0.232,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.183,0.786,"Adults (25-54)",Advanced,thousands,0.183,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.045,0.786,"Adults (25-54)",Advanced,thousands,0.045,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,35-44,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.008,0.786,"Adults (25-54)","Not stated",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): X. No schooling",Other,0.008,0.786,"Adults (25-54)","Less than basic",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 0. Early childhood education",Other,0.005,0.786,"Adults (25-54)","Less than basic",thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.044,0.786,"Adults (25-54)",Intermediate,thousands,0.044,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 3. Upper secondary education",Other,0.517,0.786,"Adults (25-54)",Intermediate,thousands,0.517,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.031,0.786,"Adults (25-54)",Advanced,thousands,0.031,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.211,0.786,"Adults (25-54)",Advanced,thousands,0.211,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.149,0.786,"Adults (25-54)",Advanced,thousands,0.149,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.042,0.786,"Adults (25-54)",Advanced,thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 8. Doctoral or equivalent level",Other,0.005,0.786,"Adults (25-54)",Advanced,thousands,0.005,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,45-54,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.012,0.786,"Adults (25-54)","Not stated",thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): X. No schooling",Other,0.008,0.786,"Senior (55+)","Less than basic",thousands,0.008,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 1. Primary education",Other,0.006,0.786,"Senior (55+)",Basic,thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.039,0.786,"Senior (55+)",Intermediate,thousands,0.039,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.275,0.786,"Senior (55+)",Intermediate,thousands,0.275,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.025,0.786,"Senior (55+)",Advanced,thousands,0.025,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.123,0.786,"Senior (55+)",Advanced,thousands,0.123,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.092,0.786,"Senior (55+)",Advanced,thousands,0.092,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.015,0.786,"Senior (55+)",Advanced,thousands,0.015,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,55-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.013,0.786,"Senior (55+)","Not stated",thousands,0.013,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 2. Lower secondary education",Other,0.011,0.786,"Senior (55+)",Intermediate,thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 3. Upper secondary education",Other,0.042,0.786,"Senior (55+)",Intermediate,thousands,0.042,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.006,0.786,"Senior (55+)",Advanced,thousands,0.006,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.012,0.786,"Senior (55+)",Advanced,thousands,0.012,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.026,0.786,"Senior (55+)",Advanced,thousands,0.026,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Force",F,65+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.011,0.786,"Senior (55+)",Advanced,thousands,0.011,absolute,17792,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (Aggregate levels): Less than basic",Other,0.145,0.786,"Child (<15)","Less than basic",thousands,0.145,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (Aggregate levels): Basic",Other,0.58,0.786,"Child (<15)",Basic,thousands,0.58,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (Aggregate levels): Intermediate",Other,2.279,0.786,"Child (<15)",Intermediate,thousands,2.279,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (Aggregate levels): Advanced",Other,2.032,0.786,"Child (<15)",Advanced,thousands,2.032,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (Aggregate levels): Level not stated",Other,0.045,0.786,"Child (<15)","Not stated",thousands,0.045,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (Aggregate levels): Basic",Other,0.564,0.786,"Adults (25-54)",Basic,thousands,0.564,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (Aggregate levels): Intermediate",Other,2.267,0.786,"Adults (25-54)",Intermediate,thousands,2.267,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (Aggregate levels): Advanced",Other,1.951,0.786,"Adults (25-54)",Advanced,thousands,1.951,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (Aggregate levels): Level not stated",Other,0.045,0.786,"Adults (25-54)","Not stated",thousands,0.045,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Basic",Other,0.064,0.786,"Youth (15-24)",Basic,thousands,0.064,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Intermediate",Other,0.137,0.786,"Youth (15-24)",Intermediate,thousands,0.137,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Advanced",Other,0.119,0.786,"Youth (15-24)",Advanced,thousands,0.119,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Level not stated",Other,0.029,0.786,"Youth (15-24)","Not stated",thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (Aggregate levels): Less than basic",Other,0.145,0.786,"Youth (15-24)","Less than basic",thousands,0.145,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (Aggregate levels): Basic",Other,0.516,0.786,"Youth (15-24)",Basic,thousands,0.516,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (Aggregate levels): Intermediate",Other,2.142,0.786,"Youth (15-24)",Intermediate,thousands,2.142,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (Aggregate levels): Advanced",Other,1.913,0.786,"Youth (15-24)",Advanced,thousands,1.913,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (Aggregate levels): Less than basic",Other,0.044,0.786,"Child (<15)","Less than basic",thousands,0.044,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (Aggregate levels): Basic",Other,0.201,0.786,"Child (<15)",Basic,thousands,0.201,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (Aggregate levels): Intermediate",Other,1.549,0.786,"Child (<15)",Intermediate,thousands,1.549,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (Aggregate levels): Advanced",Other,1.996,0.786,"Child (<15)",Advanced,thousands,1.996,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (Aggregate levels): Level not stated",Other,0.072,0.786,"Child (<15)","Not stated",thousands,0.072,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (Aggregate levels): Basic",Other,0.182,0.786,"Adults (25-54)",Basic,thousands,0.182,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (Aggregate levels): Intermediate",Other,1.519,0.786,"Adults (25-54)",Intermediate,thousands,1.519,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (Aggregate levels): Advanced",Other,1.94,0.786,"Adults (25-54)",Advanced,thousands,1.94,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (Aggregate levels): Level not stated",Other,0.072,0.786,"Adults (25-54)","Not stated",thousands,0.072,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Intermediate",Other,0.161,0.786,"Youth (15-24)",Intermediate,thousands,0.161,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Advanced",Other,0.148,0.786,"Youth (15-24)",Advanced,thousands,0.148,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Level not stated",Other,0.04,0.786,"Youth (15-24)","Not stated",thousands,0.04,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (Aggregate levels): Less than basic",Other,0.044,0.786,"Youth (15-24)","Less than basic",thousands,0.044,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (Aggregate levels): Basic",Other,0.201,0.786,"Youth (15-24)",Basic,thousands,0.201,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (Aggregate levels): Intermediate",Other,1.388,0.786,"Youth (15-24)",Intermediate,thousands,1.388,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (Aggregate levels): Advanced",Other,1.848,0.786,"Youth (15-24)",Advanced,thousands,1.848,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): X. No schooling",Other,0.024,0.786,"Child (<15)","Less than basic",thousands,0.024,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 0. Early childhood education",Other,0.121,0.786,"Child (<15)","Less than basic",thousands,0.121,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 1. Primary education",Other,0.102,0.786,"Child (<15)",Basic,thousands,0.102,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 2. Lower secondary education",Other,0.478,0.786,"Child (<15)",Intermediate,thousands,0.478,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 3. Upper secondary education",Other,1.876,0.786,"Child (<15)",Intermediate,thousands,1.876,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.403,0.786,"Child (<15)",Advanced,thousands,0.403,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.513,0.786,"Child (<15)",Advanced,thousands,1.513,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.43,0.786,"Child (<15)",Advanced,thousands,0.43,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.07,0.786,"Child (<15)",Advanced,thousands,0.07,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.045,0.786,"Child (<15)","Not stated",thousands,0.045,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.47,0.786,"Adults (25-54)",Intermediate,thousands,0.47,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (ISCED-11): 3. Upper secondary education",Other,1.864,0.786,"Adults (25-54)",Intermediate,thousands,1.864,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.403,0.786,"Adults (25-54)",Advanced,thousands,0.403,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.494,0.786,"Adults (25-54)",Advanced,thousands,1.494,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.376,0.786,"Adults (25-54)",Advanced,thousands,0.376,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.045,0.786,"Adults (25-54)","Not stated",thousands,0.045,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,0.064,0.786,"Youth (15-24)",Intermediate,thousands,0.064,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.12,0.786,"Youth (15-24)",Intermediate,thousands,0.12,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.111,0.786,"Youth (15-24)",Advanced,thousands,0.111,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.029,0.786,"Youth (15-24)","Not stated",thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): X. No schooling",Other,0.024,0.786,"Youth (15-24)","Less than basic",thousands,0.024,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 0. Early childhood education",Other,0.121,0.786,"Youth (15-24)","Less than basic",thousands,0.121,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 1. Primary education",Other,0.102,0.786,"Youth (15-24)",Basic,thousands,0.102,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 2. Lower secondary education",Other,0.414,0.786,"Youth (15-24)",Intermediate,thousands,0.414,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 3. Upper secondary education",Other,1.756,0.786,"Youth (15-24)",Intermediate,thousands,1.756,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.387,0.786,"Youth (15-24)",Advanced,thousands,0.387,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.402,0.786,"Youth (15-24)",Advanced,thousands,1.402,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.422,0.786,"Youth (15-24)",Advanced,thousands,0.422,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.07,0.786,"Youth (15-24)",Advanced,thousands,0.07,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (ISCED-11): 2. Lower secondary education",Other,0.188,0.786,"Child (<15)",Intermediate,thousands,0.188,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (ISCED-11): 3. Upper secondary education",Other,1.215,0.786,"Child (<15)",Intermediate,thousands,1.215,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.334,0.786,"Child (<15)",Advanced,thousands,0.334,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.329,0.786,"Child (<15)",Advanced,thousands,1.329,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.566,0.786,"Child (<15)",Advanced,thousands,0.566,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.094,0.786,"Child (<15)",Advanced,thousands,0.094,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15+,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.072,0.786,"Child (<15)","Not stated",thousands,0.072,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.172,0.786,"Adults (25-54)",Intermediate,thousands,0.172,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (ISCED-11): 3. Upper secondary education",Other,1.199,0.786,"Adults (25-54)",Intermediate,thousands,1.199,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.32,0.786,"Adults (25-54)",Advanced,thousands,0.32,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.302,0.786,"Adults (25-54)",Advanced,thousands,1.302,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.55,0.786,"Adults (25-54)",Advanced,thousands,0.55,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.072,0.786,"Adults (25-54)","Not stated",thousands,0.072,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.072,0.786,"Youth (15-24)",Intermediate,thousands,0.072,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.089,0.786,"Youth (15-24)",Advanced,thousands,0.089,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.123,0.786,"Youth (15-24)",Advanced,thousands,0.123,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.04,0.786,"Youth (15-24)","Not stated",thousands,0.04,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (ISCED-11): 2. Lower secondary education",Other,0.188,0.786,"Youth (15-24)",Intermediate,thousands,0.188,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (ISCED-11): 3. Upper secondary education",Other,1.143,0.786,"Youth (15-24)",Intermediate,thousands,1.143,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.245,0.786,"Youth (15-24)",Advanced,thousands,0.245,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.205,0.786,"Youth (15-24)",Advanced,thousands,1.205,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.54,0.786,"Youth (15-24)",Advanced,thousands,0.54,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25+,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.094,0.786,"Youth (15-24)",Advanced,thousands,0.094,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Basic",Other,0.064,0.786,"Youth (15-24)",Basic,thousands,0.064,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Intermediate",Other,0.137,0.786,"Youth (15-24)",Intermediate,thousands,0.137,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Advanced",Other,0.119,0.786,"Youth (15-24)",Advanced,thousands,0.119,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Level not stated",Other,0.029,0.786,"Youth (15-24)","Not stated",thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (Aggregate levels): Less than basic",Other,0.113,0.786,"Adults (25-54)","Less than basic",thousands,0.113,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (Aggregate levels): Basic",Other,0.421,0.786,"Adults (25-54)",Basic,thousands,0.421,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (Aggregate levels): Intermediate",Other,1.808,0.786,"Adults (25-54)",Intermediate,thousands,1.808,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (Aggregate levels): Advanced",Other,1.628,0.786,"Adults (25-54)",Advanced,thousands,1.628,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (Aggregate levels): Basic",Other,0.079,0.786,"Senior (55+)",Basic,thousands,0.079,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (Aggregate levels): Intermediate",Other,0.322,0.786,"Senior (55+)",Intermediate,thousands,0.322,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (Aggregate levels): Advanced",Other,0.205,0.786,"Senior (55+)",Advanced,thousands,0.205,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,65+,"Education (Aggregate levels): Advanced",Other,0.081,0.786,"Senior (55+)",Advanced,thousands,0.081,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Intermediate",Other,0.161,0.786,"Youth (15-24)",Intermediate,thousands,0.161,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Advanced",Other,0.148,0.786,"Youth (15-24)",Advanced,thousands,0.148,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Level not stated",Other,0.04,0.786,"Youth (15-24)","Not stated",thousands,0.04,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (Aggregate levels): Basic",Other,0.152,0.786,"Adults (25-54)",Basic,thousands,0.152,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (Aggregate levels): Intermediate",Other,1.205,0.786,"Adults (25-54)",Intermediate,thousands,1.205,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (Aggregate levels): Advanced",Other,1.613,0.786,"Adults (25-54)",Advanced,thousands,1.613,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (Aggregate levels): Basic",Other,0.029,0.786,"Senior (55+)",Basic,thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (Aggregate levels): Intermediate",Other,0.153,0.786,"Senior (55+)",Intermediate,thousands,0.153,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (Aggregate levels): Advanced",Other,0.18,0.786,"Senior (55+)",Advanced,thousands,0.18,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,65+,"Education (Aggregate levels): Intermediate",Other,0.029,0.786,"Senior (55+)",Intermediate,thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,65+,"Education (Aggregate levels): Advanced",Other,0.056,0.786,"Senior (55+)",Advanced,thousands,0.056,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,0.064,0.786,"Youth (15-24)",Intermediate,thousands,0.064,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.12,0.786,"Youth (15-24)",Intermediate,thousands,0.12,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.111,0.786,"Youth (15-24)",Advanced,thousands,0.111,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.029,0.786,"Youth (15-24)","Not stated",thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): X. No schooling",Other,0.024,0.786,"Adults (25-54)","Less than basic",thousands,0.024,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 0. Early childhood education",Other,0.089,0.786,"Adults (25-54)","Less than basic",thousands,0.089,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 1. Primary education",Other,0.091,0.786,"Adults (25-54)",Basic,thousands,0.091,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.33,0.786,"Adults (25-54)",Intermediate,thousands,0.33,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 3. Upper secondary education",Other,1.457,0.786,"Adults (25-54)",Intermediate,thousands,1.457,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.352,0.786,"Adults (25-54)",Advanced,thousands,0.352,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.238,0.786,"Adults (25-54)",Advanced,thousands,1.238,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.33,0.786,"Adults (25-54)",Advanced,thousands,0.33,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-54,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.056,0.786,"Adults (25-54)",Advanced,thousands,0.056,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.076,0.786,"Senior (55+)",Intermediate,thousands,0.076,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.286,0.786,"Senior (55+)",Intermediate,thousands,0.286,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.035,0.786,"Senior (55+)",Advanced,thousands,0.035,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.146,0.786,"Senior (55+)",Advanced,thousands,0.146,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.038,0.786,"Senior (55+)",Advanced,thousands,0.038,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,65+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.054,0.786,"Senior (55+)",Advanced,thousands,0.054,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.072,0.786,"Youth (15-24)",Intermediate,thousands,0.072,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.089,0.786,"Youth (15-24)",Advanced,thousands,0.089,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.123,0.786,"Youth (15-24)",Advanced,thousands,0.123,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.04,0.786,"Youth (15-24)","Not stated",thousands,0.04,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.142,0.786,"Adults (25-54)",Intermediate,thousands,0.142,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (ISCED-11): 3. Upper secondary education",Other,0.974,0.786,"Adults (25-54)",Intermediate,thousands,0.974,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.231,0.786,"Adults (25-54)",Advanced,thousands,0.231,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,1.064,0.786,"Adults (25-54)",Advanced,thousands,1.064,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.476,0.786,"Adults (25-54)",Advanced,thousands,0.476,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-54,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.065,0.786,"Adults (25-54)",Advanced,thousands,0.065,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.029,0.786,"Senior (55+)",Intermediate,thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.153,0.786,"Senior (55+)",Intermediate,thousands,0.153,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.115,0.786,"Senior (55+)",Advanced,thousands,0.115,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.049,0.786,"Senior (55+)",Advanced,thousands,0.049,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Basic",Other,0.064,0.786,"Youth (15-24)",Basic,thousands,0.064,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Intermediate",Other,0.137,0.786,"Youth (15-24)",Intermediate,thousands,0.137,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Advanced",Other,0.119,0.786,"Youth (15-24)",Advanced,thousands,0.119,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (Aggregate levels): Level not stated",Other,0.029,0.786,"Youth (15-24)","Not stated",thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (Aggregate levels): Less than basic",Other,0.042,0.786,"Adults (25-54)","Less than basic",thousands,0.042,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (Aggregate levels): Basic",Other,0.124,0.786,"Adults (25-54)",Basic,thousands,0.124,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (Aggregate levels): Intermediate",Other,0.472,0.786,"Adults (25-54)",Intermediate,thousands,0.472,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (Aggregate levels): Advanced",Other,0.419,0.786,"Adults (25-54)",Advanced,thousands,0.419,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (Aggregate levels): Less than basic",Other,0.039,0.786,"Adults (25-54)","Less than basic",thousands,0.039,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (Aggregate levels): Basic",Other,0.148,0.786,"Adults (25-54)",Basic,thousands,0.148,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (Aggregate levels): Intermediate",Other,0.684,0.786,"Adults (25-54)",Intermediate,thousands,0.684,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (Aggregate levels): Advanced",Other,0.692,0.786,"Adults (25-54)",Advanced,thousands,0.692,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (Aggregate levels): Basic",Other,0.149,0.786,"Adults (25-54)",Basic,thousands,0.149,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (Aggregate levels): Intermediate",Other,0.652,0.786,"Adults (25-54)",Intermediate,thousands,0.652,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (Aggregate levels): Advanced",Other,0.517,0.786,"Adults (25-54)",Advanced,thousands,0.517,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (Aggregate levels): Basic",Other,0.079,0.786,"Senior (55+)",Basic,thousands,0.079,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (Aggregate levels): Intermediate",Other,0.322,0.786,"Senior (55+)",Intermediate,thousands,0.322,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (Aggregate levels): Advanced",Other,0.205,0.786,"Senior (55+)",Advanced,thousands,0.205,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,65+,"Education (Aggregate levels): Advanced",Other,0.081,0.786,"Senior (55+)",Advanced,thousands,0.081,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Intermediate",Other,0.161,0.786,"Youth (15-24)",Intermediate,thousands,0.161,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Advanced",Other,0.148,0.786,"Youth (15-24)",Advanced,thousands,0.148,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (Aggregate levels): Level not stated",Other,0.04,0.786,"Youth (15-24)","Not stated",thousands,0.04,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (Aggregate levels): Basic",Other,0.037,0.786,"Adults (25-54)",Basic,thousands,0.037,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (Aggregate levels): Intermediate",Other,0.29,0.786,"Adults (25-54)",Intermediate,thousands,0.29,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (Aggregate levels): Advanced",Other,0.503,0.786,"Adults (25-54)",Advanced,thousands,0.503,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (Aggregate levels): Basic",Other,0.049,0.786,"Adults (25-54)",Basic,thousands,0.049,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (Aggregate levels): Intermediate",Other,0.438,0.786,"Adults (25-54)",Intermediate,thousands,0.438,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (Aggregate levels): Advanced",Other,0.562,0.786,"Adults (25-54)",Advanced,thousands,0.562,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (Aggregate levels): Basic",Other,0.066,0.786,"Adults (25-54)",Basic,thousands,0.066,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (Aggregate levels): Intermediate",Other,0.477,0.786,"Adults (25-54)",Intermediate,thousands,0.477,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (Aggregate levels): Advanced",Other,0.548,0.786,"Adults (25-54)",Advanced,thousands,0.548,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (Aggregate levels): Basic",Other,0.029,0.786,"Senior (55+)",Basic,thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (Aggregate levels): Intermediate",Other,0.153,0.786,"Senior (55+)",Intermediate,thousands,0.153,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (Aggregate levels): Advanced",Other,0.18,0.786,"Senior (55+)",Advanced,thousands,0.18,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,65+,"Education (Aggregate levels): Intermediate",Other,0.029,0.786,"Senior (55+)",Intermediate,thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,65+,"Education (Aggregate levels): Advanced",Other,0.056,0.786,"Senior (55+)",Advanced,thousands,0.056,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,0.064,0.786,"Youth (15-24)",Intermediate,thousands,0.064,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.12,0.786,"Youth (15-24)",Intermediate,thousands,0.12,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.111,0.786,"Youth (15-24)",Advanced,thousands,0.111,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.029,0.786,"Youth (15-24)","Not stated",thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (ISCED-11): 2. Lower secondary education",Other,0.093,0.786,"Adults (25-54)",Intermediate,thousands,0.093,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (ISCED-11): 3. Upper secondary education",Other,0.356,0.786,"Adults (25-54)",Intermediate,thousands,0.356,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.116,0.786,"Adults (25-54)",Advanced,thousands,0.116,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.376,0.786,"Adults (25-54)",Advanced,thousands,0.376,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,25-34,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.043,0.786,"Adults (25-54)",Advanced,thousands,0.043,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (ISCED-11): 0. Early childhood education",Other,0.03,0.786,"Adults (25-54)","Less than basic",thousands,0.03,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (ISCED-11): 2. Lower secondary education",Other,0.118,0.786,"Adults (25-54)",Intermediate,thousands,0.118,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (ISCED-11): 3. Upper secondary education",Other,0.54,0.786,"Adults (25-54)",Intermediate,thousands,0.54,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.144,0.786,"Adults (25-54)",Advanced,thousands,0.144,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.521,0.786,"Adults (25-54)",Advanced,thousands,0.521,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,35-44,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.147,0.786,"Adults (25-54)",Advanced,thousands,0.147,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (ISCED-11): 1. Primary education",Other,0.03,0.786,"Adults (25-54)",Basic,thousands,0.03,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.118,0.786,"Adults (25-54)",Intermediate,thousands,0.118,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (ISCED-11): 3. Upper secondary education",Other,0.561,0.786,"Adults (25-54)",Intermediate,thousands,0.561,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.091,0.786,"Adults (25-54)",Advanced,thousands,0.091,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.342,0.786,"Adults (25-54)",Advanced,thousands,0.342,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.141,0.786,"Adults (25-54)",Advanced,thousands,0.141,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,45-54,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.032,0.786,"Adults (25-54)",Advanced,thousands,0.032,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.076,0.786,"Senior (55+)",Intermediate,thousands,0.076,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.286,0.786,"Senior (55+)",Intermediate,thousands,0.286,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.035,0.786,"Senior (55+)",Advanced,thousands,0.035,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.146,0.786,"Senior (55+)",Advanced,thousands,0.146,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.038,0.786,"Senior (55+)",Advanced,thousands,0.038,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",M,65+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.054,0.786,"Senior (55+)",Advanced,thousands,0.054,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,0.072,0.786,"Youth (15-24)",Intermediate,thousands,0.072,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.089,0.786,"Youth (15-24)",Advanced,thousands,0.089,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.123,0.786,"Youth (15-24)",Advanced,thousands,0.123,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,0.04,0.786,"Youth (15-24)","Not stated",thousands,0.04,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (ISCED-11): 2. Lower secondary education",Other,0.037,0.786,"Adults (25-54)",Intermediate,thousands,0.037,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (ISCED-11): 3. Upper secondary education",Other,0.202,0.786,"Adults (25-54)",Intermediate,thousands,0.202,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.088,0.786,"Adults (25-54)",Advanced,thousands,0.088,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.332,0.786,"Adults (25-54)",Advanced,thousands,0.332,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,25-34,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.16,0.786,"Adults (25-54)",Advanced,thousands,0.16,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (ISCED-11): 2. Lower secondary education",Other,0.049,0.786,"Adults (25-54)",Intermediate,thousands,0.049,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (ISCED-11): 3. Upper secondary education",Other,0.387,0.786,"Adults (25-54)",Intermediate,thousands,0.387,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.051,0.786,"Adults (25-54)",Advanced,thousands,0.051,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.428,0.786,"Adults (25-54)",Advanced,thousands,0.428,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.088,0.786,"Adults (25-54)",Advanced,thousands,0.088,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,35-44,"Education (ISCED-11): 7. Master's or equivalent level",Other,0.037,0.786,"Adults (25-54)",Advanced,thousands,0.037,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (ISCED-11): 2. Lower secondary education",Other,0.056,0.786,"Adults (25-54)",Intermediate,thousands,0.056,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (ISCED-11): 3. Upper secondary education",Other,0.385,0.786,"Adults (25-54)",Intermediate,thousands,0.385,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (ISCED-11): 4. Post-secondary non-tertiary education",Other,0.092,0.786,"Adults (25-54)",Advanced,thousands,0.092,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.304,0.786,"Adults (25-54)",Advanced,thousands,0.304,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,45-54,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.228,0.786,"Adults (25-54)",Advanced,thousands,0.228,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 2. Lower secondary education",Other,0.029,0.786,"Senior (55+)",Intermediate,thousands,0.029,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 3. Upper secondary education",Other,0.153,0.786,"Senior (55+)",Intermediate,thousands,0.153,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,0.115,0.786,"Senior (55+)",Advanced,thousands,0.115,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Force",F,55-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,0.049,0.786,"Senior (55+)",Advanced,thousands,0.049,absolute,17715,LF,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,15+,NULL,Other,73.559,0.786,"Child (<15)","Not stated",%,73.559,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,15-64,NULL,Other,78.574,0.786,"Adults (25-54)","Not stated",%,78.574,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,15-24,NULL,Other,32.15,0.786,"Youth (15-24)","Not stated",%,32.15,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,25+,NULL,Other,79.804,0.786,"Youth (15-24)","Not stated",%,79.804,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,15+,NULL,Other,59.212,0.786,"Child (<15)","Not stated",%,59.212,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,15-64,NULL,Other,66.75,0.786,"Adults (25-54)","Not stated",%,66.75,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,15-24,NULL,Other,24.406,0.786,"Youth (15-24)","Not stated",%,24.406,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,25+,NULL,Other,64.997,0.786,"Youth (15-24)","Not stated",%,64.997,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,15-24,NULL,Other,32.15,0.786,"Youth (15-24)","Not stated",%,32.15,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,25-54,NULL,Other,90.666,0.786,"Adults (25-54)","Not stated",%,90.666,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,55-64,NULL,Other,69.942,0.786,"Senior (55+)","Not stated",%,69.942,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,65+,NULL,Other,27.249,0.786,"Senior (55+)","Not stated",%,27.249,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,15-24,NULL,Other,24.406,0.786,"Youth (15-24)","Not stated",%,24.406,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,25-54,NULL,Other,81.387,0.786,"Adults (25-54)","Not stated",%,81.387,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,55-64,NULL,Other,54.936,0.786,"Senior (55+)","Not stated",%,54.936,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,65+,NULL,Other,13.224,0.786,"Senior (55+)","Not stated",%,13.224,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,15-24,NULL,Other,32.15,0.786,"Youth (15-24)","Not stated",%,32.15,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,25-34,NULL,Other,87.924,0.786,"Adults (25-54)","Not stated",%,87.924,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,35-44,NULL,Other,93.192,0.786,"Adults (25-54)","Not stated",%,93.192,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,45-54,NULL,Other,90.802,0.786,"Adults (25-54)","Not stated",%,90.802,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,55-64,NULL,Other,69.942,0.786,"Senior (55+)","Not stated",%,69.942,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,65+,NULL,Other,27.249,0.786,"Senior (55+)","Not stated",%,27.249,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,15-24,NULL,Other,24.406,0.786,"Youth (15-24)","Not stated",%,24.406,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,25-34,NULL,Other,82.007,0.786,"Adults (25-54)","Not stated",%,82.007,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,35-44,NULL,Other,83.478,0.786,"Adults (25-54)","Not stated",%,83.478,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,45-54,NULL,Other,79,0.786,"Adults (25-54)","Not stated",%,79,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,55-64,NULL,Other,54.936,0.786,"Senior (55+)","Not stated",%,54.936,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,65+,NULL,Other,13.224,0.786,"Senior (55+)","Not stated",%,13.224,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,15-19,NULL,Other,5.97,0.786,"Youth (15-24)","Not stated",%,5.97,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,25-29,NULL,Other,86.683,0.786,"Adults (25-54)","Not stated",%,86.683,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,30-34,NULL,Other,89.169,0.786,"Adults (25-54)","Not stated",%,89.169,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,35-39,NULL,Other,94.376,0.786,"Adults (25-54)","Not stated",%,94.376,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,40-44,NULL,Other,92.019,0.786,"Adults (25-54)","Not stated",%,92.019,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,45-49,NULL,Other,92.909,0.786,"Adults (25-54)","Not stated",%,92.909,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,50-54,NULL,Other,88.352,0.786,"Adults (25-54)","Not stated",%,88.352,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,55-59,NULL,Other,86.547,0.786,"Senior (55+)","Not stated",%,86.547,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,60-64,NULL,Other,49.446,0.786,"Senior (55+)","Not stated",%,49.446,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",M,65+,NULL,Other,27.249,0.786,"Senior (55+)","Not stated",%,27.249,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,15-19,NULL,Other,2.959,0.786,"Youth (15-24)","Not stated",%,2.959,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,25-29,NULL,Other,77.963,0.786,"Adults (25-54)","Not stated",%,77.963,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,30-34,NULL,Other,85.866,0.786,"Adults (25-54)","Not stated",%,85.866,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,35-39,NULL,Other,83.666,0.786,"Adults (25-54)","Not stated",%,83.666,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,40-44,NULL,Other,83.306,0.786,"Adults (25-54)","Not stated",%,83.306,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,45-49,NULL,Other,81.659,0.786,"Adults (25-54)","Not stated",%,81.659,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,50-54,NULL,Other,76.523,0.786,"Adults (25-54)","Not stated",%,76.523,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,55-59,NULL,Other,69.128,0.786,"Senior (55+)","Not stated",%,69.128,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,60-64,NULL,Other,37.952,0.786,"Senior (55+)","Not stated",%,37.952,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,"Labour Participation Rate",F,65+,NULL,Other,13.224,0.786,"Senior (55+)","Not stated",%,13.224,relative,17792,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,15+,NULL,Other,73.27,0.786,"Child (<15)","Not stated",%,73.27,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,15-64,NULL,Other,77.53,0.786,"Adults (25-54)","Not stated",%,77.53,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,15-24,NULL,Other,32.574,0.786,"Youth (15-24)","Not stated",%,32.574,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,25+,NULL,Other,80.685,0.786,"Youth (15-24)","Not stated",%,80.685,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,15+,NULL,Other,55.56,0.786,"Child (<15)","Not stated",%,55.56,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,15-64,NULL,Other,60.952,0.786,"Adults (25-54)","Not stated",%,60.952,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,15-24,NULL,Other,26.747,0.786,"Youth (15-24)","Not stated",%,26.747,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,25+,NULL,Other,62.226,0.786,"Youth (15-24)","Not stated",%,62.226,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,15-24,NULL,Other,32.574,0.786,"Youth (15-24)","Not stated",%,32.574,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,25-54,NULL,Other,91.016,0.786,"Adults (25-54)","Not stated",%,91.016,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,55-64,NULL,Other,65.992,0.786,"Senior (55+)","Not stated",%,65.992,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,65+,NULL,Other,22.012,0.786,"Senior (55+)","Not stated",%,22.012,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,15-24,NULL,Other,26.747,0.786,"Youth (15-24)","Not stated",%,26.747,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,25-54,NULL,Other,76.936,0.786,"Adults (25-54)","Not stated",%,76.936,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,55-64,NULL,Other,42.16,0.786,"Senior (55+)","Not stated",%,42.16,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,65+,NULL,Other,13.777,0.786,"Senior (55+)","Not stated",%,13.777,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,15-24,NULL,Other,32.574,0.786,"Youth (15-24)","Not stated",%,32.574,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,25-34,NULL,Other,88.212,0.786,"Adults (25-54)","Not stated",%,88.212,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,35-44,NULL,Other,90.095,0.786,"Adults (25-54)","Not stated",%,90.095,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,45-54,NULL,Other,94.513,0.786,"Adults (25-54)","Not stated",%,94.513,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,55-64,NULL,Other,65.992,0.786,"Senior (55+)","Not stated",%,65.992,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,65+,NULL,Other,22.012,0.786,"Senior (55+)","Not stated",%,22.012,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,15-24,NULL,Other,26.747,0.786,"Youth (15-24)","Not stated",%,26.747,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,25-34,NULL,Other,77.424,0.786,"Adults (25-54)","Not stated",%,77.424,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,35-44,NULL,Other,77.397,0.786,"Adults (25-54)","Not stated",%,77.397,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,45-54,NULL,Other,76.138,0.786,"Adults (25-54)","Not stated",%,76.138,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,55-64,NULL,Other,42.16,0.786,"Senior (55+)","Not stated",%,42.16,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,65+,NULL,Other,13.777,0.786,"Senior (55+)","Not stated",%,13.777,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,15-19,NULL,Other,6.809,0.786,"Youth (15-24)","Not stated",%,6.809,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,25-29,NULL,Other,85.063,0.786,"Adults (25-54)","Not stated",%,85.063,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,30-34,NULL,Other,90.934,0.786,"Adults (25-54)","Not stated",%,90.934,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,35-39,NULL,Other,91.316,0.786,"Adults (25-54)","Not stated",%,91.316,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,40-44,NULL,Other,88.844,0.786,"Adults (25-54)","Not stated",%,88.844,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,45-49,NULL,Other,98.604,0.786,"Adults (25-54)","Not stated",%,98.604,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,50-54,NULL,Other,89.282,0.786,"Adults (25-54)","Not stated",%,89.282,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,55-59,NULL,Other,84.746,0.786,"Senior (55+)","Not stated",%,84.746,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,60-64,NULL,Other,35.982,0.786,"Senior (55+)","Not stated",%,35.982,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",M,65+,NULL,Other,22.012,0.786,"Senior (55+)","Not stated",%,22.012,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,15-19,NULL,Other,6.459,0.786,"Youth (15-24)","Not stated",%,6.459,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,25-29,NULL,Other,74.802,0.786,"Adults (25-54)","Not stated",%,74.802,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,30-34,NULL,Other,80.043,0.786,"Adults (25-54)","Not stated",%,80.043,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,35-39,NULL,Other,76.676,0.786,"Adults (25-54)","Not stated",%,76.676,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,40-44,NULL,Other,78.126,0.786,"Adults (25-54)","Not stated",%,78.126,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,45-49,NULL,Other,78.813,0.786,"Adults (25-54)","Not stated",%,78.813,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,50-54,NULL,Other,72.121,0.786,"Adults (25-54)","Not stated",%,72.121,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,55-59,NULL,Other,52.015,0.786,"Senior (55+)","Not stated",%,52.015,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,60-64,NULL,Other,31.942,0.786,"Senior (55+)","Not stated",%,31.942,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2014,"Labour Participation Rate",F,65+,NULL,Other,13.777,0.786,"Senior (55+)","Not stated",%,13.777,relative,17715,LFP,"Labour Force"
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,15+,NULL,Other,5.659,0.786,"Child (<15)","Not stated",thousands,5.659,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,15-64,NULL,Other,5.453,0.786,"Adults (25-54)","Not stated",thousands,5.453,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,15-24,NULL,Other,0.316,0.786,"Youth (15-24)","Not stated",thousands,0.316,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,25+,NULL,Other,5.343,0.786,"Youth (15-24)","Not stated",thousands,5.343,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,15+,NULL,Other,3.807,0.786,"Child (<15)","Not stated",thousands,3.807,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,15-64,NULL,Other,3.686,0.786,"Adults (25-54)","Not stated",thousands,3.686,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,15-24,NULL,Other,0.218,0.786,"Youth (15-24)","Not stated",thousands,0.218,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,25+,NULL,Other,3.589,0.786,"Youth (15-24)","Not stated",thousands,3.589,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,15-24,NULL,Other,0.316,0.786,"Youth (15-24)","Not stated",thousands,0.316,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,25-54,NULL,Other,4.292,0.786,"Adults (25-54)","Not stated",thousands,4.292,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,55-64,NULL,Other,0.845,0.786,"Senior (55+)","Not stated",thousands,0.845,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,65+,NULL,Other,0.206,0.786,"Senior (55+)","Not stated",thousands,0.206,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,15-24,NULL,Other,0.218,0.786,"Youth (15-24)","Not stated",thousands,0.218,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,25-54,NULL,Other,2.871,0.786,"Adults (25-54)","Not stated",thousands,2.871,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,55-64,NULL,Other,0.597,0.786,"Senior (55+)","Not stated",thousands,0.597,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,65+,NULL,Other,0.121,0.786,"Senior (55+)","Not stated",thousands,0.121,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,15-24,NULL,Other,0.316,0.786,"Youth (15-24)","Not stated",thousands,0.316,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,25-34,NULL,Other,1.394,0.786,"Adults (25-54)","Not stated",thousands,1.394,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,35-44,NULL,Other,1.522,0.786,"Adults (25-54)","Not stated",thousands,1.522,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,45-54,NULL,Other,1.376,0.786,"Adults (25-54)","Not stated",thousands,1.376,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,55-64,NULL,Other,0.845,0.786,"Senior (55+)","Not stated",thousands,0.845,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,65+,NULL,Other,0.206,0.786,"Senior (55+)","Not stated",thousands,0.206,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,15-24,NULL,Other,0.218,0.786,"Youth (15-24)","Not stated",thousands,0.218,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,25-34,NULL,Other,0.895,0.786,"Adults (25-54)","Not stated",thousands,0.895,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,35-44,NULL,Other,0.953,0.786,"Adults (25-54)","Not stated",thousands,0.953,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,45-54,NULL,Other,1.023,0.786,"Adults (25-54)","Not stated",thousands,1.023,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,55-64,NULL,Other,0.597,0.786,"Senior (55+)","Not stated",thousands,0.597,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,65+,NULL,Other,0.121,0.786,"Senior (55+)","Not stated",thousands,0.121,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,15-19,NULL,Other,0.028,0.786,"Youth (15-24)","Not stated",thousands,0.028,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,25-29,NULL,Other,0.687,0.786,"Adults (25-54)","Not stated",thousands,0.687,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,30-34,NULL,Other,0.707,0.786,"Adults (25-54)","Not stated",thousands,0.707,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,35-39,NULL,Other,0.77,0.786,"Adults (25-54)","Not stated",thousands,0.77,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,40-44,NULL,Other,0.752,0.786,"Adults (25-54)","Not stated",thousands,0.752,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,45-49,NULL,Other,0.755,0.786,"Adults (25-54)","Not stated",thousands,0.755,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,50-54,NULL,Other,0.621,0.786,"Adults (25-54)","Not stated",thousands,0.621,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,55-59,NULL,Other,0.579,0.786,"Senior (55+)","Not stated",thousands,0.579,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,60-64,NULL,Other,0.266,0.786,"Senior (55+)","Not stated",thousands,0.266,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,M,65+,NULL,Other,0.206,0.786,"Senior (55+)","Not stated",thousands,0.206,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,15-19,NULL,Other,0.013,0.786,"Youth (15-24)","Not stated",thousands,0.013,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,25-29,NULL,Other,0.412,0.786,"Adults (25-54)","Not stated",thousands,0.412,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,30-34,NULL,Other,0.483,0.786,"Adults (25-54)","Not stated",thousands,0.483,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,35-39,NULL,Other,0.457,0.786,"Adults (25-54)","Not stated",thousands,0.457,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,40-44,NULL,Other,0.496,0.786,"Adults (25-54)","Not stated",thousands,0.496,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,45-49,NULL,Other,0.509,0.786,"Adults (25-54)","Not stated",thousands,0.509,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,50-54,NULL,Other,0.514,0.786,"Adults (25-54)","Not stated",thousands,0.514,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,55-59,NULL,Other,0.408,0.786,"Senior (55+)","Not stated",thousands,0.408,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,60-64,NULL,Other,0.189,0.786,"Senior (55+)","Not stated",thousands,0.189,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Employment,F,65+,NULL,Other,0.121,0.786,"Senior (55+)","Not stated",thousands,0.121,absolute,17792,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,15+,NULL,Other,5.027,0.786,"Child (<15)","Not stated",thousands,5.027,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,15-64,NULL,Other,4.91,0.786,"Adults (25-54)","Not stated",thousands,4.91,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,15-24,NULL,Other,0.329,0.786,"Youth (15-24)","Not stated",thousands,0.329,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,25+,NULL,Other,4.698,0.786,"Youth (15-24)","Not stated",thousands,4.698,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,15+,NULL,Other,3.795,0.786,"Child (<15)","Not stated",thousands,3.795,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,15-64,NULL,Other,3.693,0.786,"Adults (25-54)","Not stated",thousands,3.693,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,15-24,NULL,Other,0.33,0.786,"Youth (15-24)","Not stated",thousands,0.33,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,25+,NULL,Other,3.465,0.786,"Youth (15-24)","Not stated",thousands,3.465,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,15-24,NULL,Other,0.329,0.786,"Youth (15-24)","Not stated",thousands,0.329,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,25-54,NULL,Other,3.954,0.786,"Adults (25-54)","Not stated",thousands,3.954,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,55-64,NULL,Other,0.627,0.786,"Senior (55+)","Not stated",thousands,0.627,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,65+,NULL,Other,0.117,0.786,"Senior (55+)","Not stated",thousands,0.117,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,15-24,NULL,Other,0.33,0.786,"Youth (15-24)","Not stated",thousands,0.33,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,25-54,NULL,Other,2.981,0.786,"Adults (25-54)","Not stated",thousands,2.981,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,55-64,NULL,Other,0.382,0.786,"Senior (55+)","Not stated",thousands,0.382,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,65+,NULL,Other,0.101,0.786,"Senior (55+)","Not stated",thousands,0.101,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,15-24,NULL,Other,0.329,0.786,"Youth (15-24)","Not stated",thousands,0.329,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,25-34,NULL,Other,1.047,0.786,"Adults (25-54)","Not stated",thousands,1.047,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,35-44,NULL,Other,1.568,0.786,"Adults (25-54)","Not stated",thousands,1.568,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,45-54,NULL,Other,1.339,0.786,"Adults (25-54)","Not stated",thousands,1.339,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,55-64,NULL,Other,0.627,0.786,"Senior (55+)","Not stated",thousands,0.627,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,65+,NULL,Other,0.117,0.786,"Senior (55+)","Not stated",thousands,0.117,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,15-24,NULL,Other,0.33,0.786,"Youth (15-24)","Not stated",thousands,0.33,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,25-34,NULL,Other,0.831,0.786,"Adults (25-54)","Not stated",thousands,0.831,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,35-44,NULL,Other,1.045,0.786,"Adults (25-54)","Not stated",thousands,1.045,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,45-54,NULL,Other,1.105,0.786,"Adults (25-54)","Not stated",thousands,1.105,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,55-64,NULL,Other,0.382,0.786,"Senior (55+)","Not stated",thousands,0.382,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,65+,NULL,Other,0.101,0.786,"Senior (55+)","Not stated",thousands,0.101,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,15-19,NULL,Other,0.032,0.786,"Youth (15-24)","Not stated",thousands,0.032,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,25-29,NULL,Other,0.458,0.786,"Adults (25-54)","Not stated",thousands,0.458,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,30-34,NULL,Other,0.589,0.786,"Adults (25-54)","Not stated",thousands,0.589,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,35-39,NULL,Other,0.806,0.786,"Adults (25-54)","Not stated",thousands,0.806,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,40-44,NULL,Other,0.762,0.786,"Adults (25-54)","Not stated",thousands,0.762,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,45-49,NULL,Other,0.79,0.786,"Adults (25-54)","Not stated",thousands,0.79,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,50-54,NULL,Other,0.549,0.786,"Adults (25-54)","Not stated",thousands,0.549,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,55-59,NULL,Other,0.498,0.786,"Senior (55+)","Not stated",thousands,0.498,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,60-64,NULL,Other,0.13,0.786,"Senior (55+)","Not stated",thousands,0.13,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,M,65+,NULL,Other,0.117,0.786,"Senior (55+)","Not stated",thousands,0.117,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,15-19,NULL,Other,0.037,0.786,"Youth (15-24)","Not stated",thousands,0.037,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,25-29,NULL,Other,0.405,0.786,"Adults (25-54)","Not stated",thousands,0.405,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,30-34,NULL,Other,0.426,0.786,"Adults (25-54)","Not stated",thousands,0.426,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,35-39,NULL,Other,0.521,0.786,"Adults (25-54)","Not stated",thousands,0.521,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,40-44,NULL,Other,0.525,0.786,"Adults (25-54)","Not stated",thousands,0.525,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,45-49,NULL,Other,0.687,0.786,"Adults (25-54)","Not stated",thousands,0.687,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,50-54,NULL,Other,0.418,0.786,"Adults (25-54)","Not stated",thousands,0.418,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,55-59,NULL,Other,0.242,0.786,"Senior (55+)","Not stated",thousands,0.242,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,60-64,NULL,Other,0.14,0.786,"Senior (55+)","Not stated",thousands,0.14,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2014,Employment,F,65+,NULL,Other,0.101,0.786,"Senior (55+)","Not stated",thousands,0.101,absolute,17715,EMP,Employment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,15+,NULL,Other,0.033,0.786,"Child (<15)","Not stated",thousands,0.033,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,15-64,NULL,Other,0.033,0.786,"Adults (25-54)","Not stated",thousands,0.033,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,15-24,NULL,Other,0.01,0.786,"Youth (15-24)","Not stated",thousands,0.01,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,25+,NULL,Other,0.023,0.786,"Youth (15-24)","Not stated",thousands,0.023,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,15+,NULL,Other,0.04,0.786,"Child (<15)","Not stated",thousands,0.04,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,15-64,NULL,Other,0.04,0.786,"Adults (25-54)","Not stated",thousands,0.04,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,15-24,NULL,Other,0.008,0.786,"Youth (15-24)","Not stated",thousands,0.008,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,25+,NULL,Other,0.032,0.786,"Youth (15-24)","Not stated",thousands,0.032,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,15-24,NULL,Other,0.01,0.786,"Youth (15-24)","Not stated",thousands,0.01,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,25-54,NULL,Other,0.021,0.786,"Adults (25-54)","Not stated",thousands,0.021,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,15-24,NULL,Other,0.008,0.786,"Youth (15-24)","Not stated",thousands,0.008,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,25-54,NULL,Other,0.028,0.786,"Adults (25-54)","Not stated",thousands,0.028,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,15-24,NULL,Other,0.01,0.786,"Youth (15-24)","Not stated",thousands,0.01,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,35-44,NULL,Other,0.011,0.786,"Adults (25-54)","Not stated",thousands,0.011,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,45-54,NULL,Other,0.006,0.786,"Adults (25-54)","Not stated",thousands,0.006,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,15-24,NULL,Other,0.008,0.786,"Youth (15-24)","Not stated",thousands,0.008,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,25-34,NULL,Other,0.012,0.786,"Adults (25-54)","Not stated",thousands,0.012,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,35-44,NULL,Other,0.012,0.786,"Adults (25-54)","Not stated",thousands,0.012,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,40-44,NULL,Other,0.009,0.786,"Adults (25-54)","Not stated",thousands,0.009,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,M,45-49,NULL,Other,0.005,0.786,"Adults (25-54)","Not stated",thousands,0.005,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,25-29,NULL,Other,0.009,0.786,"Adults (25-54)","Not stated",thousands,0.009,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2020,Unemployment,F,40-44,NULL,Other,0.008,0.786,"Adults (25-54)","Not stated",thousands,0.008,absolute,17792,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,Unemployment,M,15+,NULL,Other,0.054,0.786,"Child (<15)","Not stated",thousands,0.054,absolute,17715,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,Unemployment,M,15-64,NULL,Other,0.054,0.786,"Adults (25-54)","Not stated",thousands,0.054,absolute,17715,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,Unemployment,M,25+,NULL,Other,0.034,0.786,"Youth (15-24)","Not stated",thousands,0.034,absolute,17715,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,Unemployment,F,15+,NULL,Other,0.068,0.786,"Child (<15)","Not stated",thousands,0.068,absolute,17715,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,Unemployment,F,15-64,NULL,Other,0.06,0.786,"Adults (25-54)","Not stated",thousands,0.06,absolute,17715,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,Unemployment,F,25+,NULL,Other,0.048,0.786,"Youth (15-24)","Not stated",thousands,0.048,absolute,17715,UNEMP,Unemployment
+"Top 5",Oceania,PLW_A,Palau,2014,Unemployment,M,25-54,NULL,Other,0.032,0.786,"Adults (25-54)","Not stated",thousands,0.032,absolute,17715,UNEMP,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Unemployment Rate",M,15+,NULL,Other,2.714,0.678,"Child (<15)","Not stated",%,2.714,relative,6309624,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Unemployment Rate",M,15-24,NULL,Other,5.65,0.678,"Youth (15-24)","Not stated",%,5.65,relative,6309624,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Unemployment Rate",M,25+,NULL,Other,2.115,0.678,"Youth (15-24)","Not stated",%,2.115,relative,6309624,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Unemployment Rate",F,15+,NULL,Other,3.356,0.678,"Child (<15)","Not stated",%,3.356,relative,6309624,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Unemployment Rate",F,15-24,NULL,Other,9.711,0.678,"Youth (15-24)","Not stated",%,9.711,relative,6309624,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Unemployment Rate",F,25+,NULL,Other,2.312,0.678,"Youth (15-24)","Not stated",%,2.312,relative,6309624,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2022,"Unemployment Rate",M,15+,NULL,Other,2.783,0.678,"Child (<15)","Not stated",%,2.783,relative,6280319,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2022,"Unemployment Rate",M,15-24,NULL,Other,5.673,0.678,"Youth (15-24)","Not stated",%,5.673,relative,6280319,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2022,"Unemployment Rate",M,25+,NULL,Other,2.109,0.678,"Youth (15-24)","Not stated",%,2.109,relative,6280319,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2022,"Unemployment Rate",F,15+,NULL,Other,3.295,0.678,"Child (<15)","Not stated",%,3.295,relative,6280319,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2022,"Unemployment Rate",F,15-24,NULL,Other,11.194,0.678,"Youth (15-24)","Not stated",%,11.194,relative,6280319,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2022,"Unemployment Rate",F,25+,NULL,Other,1.896,0.678,"Youth (15-24)","Not stated",%,1.896,relative,6280319,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2021,"Unemployment Rate",M,15+,NULL,Other,4.017,0.678,"Child (<15)","Not stated",%,4.017,relative,6255782,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2021,"Unemployment Rate",M,15-24,NULL,Other,7.76,0.678,"Youth (15-24)","Not stated",%,7.76,relative,6255782,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2021,"Unemployment Rate",M,25+,NULL,Other,3.077,0.678,"Youth (15-24)","Not stated",%,3.077,relative,6255782,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2021,"Unemployment Rate",F,15+,NULL,Other,4.757,0.678,"Child (<15)","Not stated",%,4.757,relative,6255782,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2021,"Unemployment Rate",F,15-24,NULL,Other,13.891,0.678,"Youth (15-24)","Not stated",%,13.891,relative,6255782,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2021,"Unemployment Rate",F,25+,NULL,Other,3.025,0.678,"Youth (15-24)","Not stated",%,3.025,relative,6255782,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2020,"Unemployment Rate",M,15+,NULL,Other,4.715,0.678,"Child (<15)","Not stated",%,4.715,relative,6234673,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2020,"Unemployment Rate",M,15-24,NULL,Other,9.378,0.678,"Youth (15-24)","Not stated",%,9.378,relative,6234673,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2020,"Unemployment Rate",M,25+,NULL,Other,3.506,0.678,"Youth (15-24)","Not stated",%,3.506,relative,6234673,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2020,"Unemployment Rate",F,15+,NULL,Other,5.421,0.678,"Child (<15)","Not stated",%,5.421,relative,6234673,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2020,"Unemployment Rate",F,15-24,NULL,Other,14.504,0.678,"Youth (15-24)","Not stated",%,14.504,relative,6234673,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2020,"Unemployment Rate",F,25+,NULL,Other,3.609,0.678,"Youth (15-24)","Not stated",%,3.609,relative,6234673,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2019,"Unemployment Rate",M,15+,NULL,Other,4.018,0.678,"Child (<15)","Not stated",%,4.018,relative,6222318,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2019,"Unemployment Rate",M,15-24,NULL,Other,8.28,0.678,"Youth (15-24)","Not stated",%,8.28,relative,6222318,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2019,"Unemployment Rate",M,25+,NULL,Other,2.947,0.678,"Youth (15-24)","Not stated",%,2.947,relative,6222318,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2019,"Unemployment Rate",F,15+,NULL,Other,4.383,0.678,"Child (<15)","Not stated",%,4.383,relative,6222318,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2019,"Unemployment Rate",F,15-24,NULL,Other,12.82,0.678,"Youth (15-24)","Not stated",%,12.82,relative,6222318,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2019,"Unemployment Rate",F,25+,NULL,Other,2.717,0.678,"Youth (15-24)","Not stated",%,2.717,relative,6222318,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2018,"Unemployment Rate",M,15+,NULL,Other,4.187,0.678,"Child (<15)","Not stated",%,4.187,relative,6219807,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2018,"Unemployment Rate",M,15-24,NULL,Other,8.411,0.678,"Youth (15-24)","Not stated",%,8.411,relative,6219807,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2018,"Unemployment Rate",M,25+,NULL,Other,3.092,0.678,"Youth (15-24)","Not stated",%,3.092,relative,6219807,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2018,"Unemployment Rate",F,15+,NULL,Other,3.748,0.678,"Child (<15)","Not stated",%,3.748,relative,6219807,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2018,"Unemployment Rate",F,15-24,NULL,Other,11.676,0.678,"Youth (15-24)","Not stated",%,11.676,relative,6219807,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2018,"Unemployment Rate",F,25+,NULL,Other,2.138,0.678,"Youth (15-24)","Not stated",%,2.138,relative,6219807,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2017,"Unemployment Rate",M,15+,NULL,Other,4.654,0.678,"Child (<15)","Not stated",%,4.654,relative,6213533,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2017,"Unemployment Rate",M,15-24,NULL,Other,8.846,0.678,"Youth (15-24)","Not stated",%,8.846,relative,6213533,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2017,"Unemployment Rate",M,25+,NULL,Other,3.514,0.678,"Youth (15-24)","Not stated",%,3.514,relative,6213533,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2017,"Unemployment Rate",F,15+,NULL,Other,4.003,0.678,"Child (<15)","Not stated",%,4.003,relative,6213533,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2017,"Unemployment Rate",F,15-24,NULL,Other,12.224,0.678,"Youth (15-24)","Not stated",%,12.224,relative,6213533,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2017,"Unemployment Rate",F,25+,NULL,Other,2.305,0.678,"Youth (15-24)","Not stated",%,2.305,relative,6213533,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2016,"Unemployment Rate",M,15+,NULL,Other,4.828,0.678,"Child (<15)","Not stated",%,4.828,relative,6200800,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2016,"Unemployment Rate",M,15-24,NULL,Other,9.647,0.678,"Youth (15-24)","Not stated",%,9.647,relative,6200800,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2016,"Unemployment Rate",M,25+,NULL,Other,3.499,0.678,"Youth (15-24)","Not stated",%,3.499,relative,6200800,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2016,"Unemployment Rate",F,15+,NULL,Other,3.849,0.678,"Child (<15)","Not stated",%,3.849,relative,6200800,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2016,"Unemployment Rate",F,15-24,NULL,Other,10.065,0.678,"Youth (15-24)","Not stated",%,10.065,relative,6200800,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2016,"Unemployment Rate",F,25+,NULL,Other,2.58,0.678,"Youth (15-24)","Not stated",%,2.58,relative,6200800,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2015,"Unemployment Rate",M,15+,NULL,Other,4.37,0.678,"Child (<15)","Not stated",%,4.37,relative,6183676,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2015,"Unemployment Rate",M,15-24,NULL,Other,8.298,0.678,"Youth (15-24)","Not stated",%,8.298,relative,6183676,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2015,"Unemployment Rate",M,25+,NULL,Other,3.261,0.678,"Youth (15-24)","Not stated",%,3.261,relative,6183676,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2015,"Unemployment Rate",F,15+,NULL,Other,3.469,0.678,"Child (<15)","Not stated",%,3.469,relative,6183676,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2015,"Unemployment Rate",F,15-24,NULL,Other,10.109,0.678,"Youth (15-24)","Not stated",%,10.109,relative,6183676,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2015,"Unemployment Rate",F,25+,NULL,Other,2.151,0.678,"Youth (15-24)","Not stated",%,2.151,relative,6183676,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2014,"Unemployment Rate",M,15+,NULL,Other,4.89,0.678,"Child (<15)","Not stated",%,4.89,relative,6162955,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2014,"Unemployment Rate",M,15-24,NULL,Other,10.235,0.678,"Youth (15-24)","Not stated",%,10.235,relative,6162955,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2014,"Unemployment Rate",M,25+,NULL,Other,3.348,0.678,"Youth (15-24)","Not stated",%,3.348,relative,6162955,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2014,"Unemployment Rate",F,15+,NULL,Other,3.138,0.678,"Child (<15)","Not stated",%,3.138,relative,6162955,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2014,"Unemployment Rate",F,15-24,NULL,Other,9.274,0.678,"Youth (15-24)","Not stated",%,9.274,relative,6162955,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2014,"Unemployment Rate",F,25+,NULL,Other,1.875,0.678,"Youth (15-24)","Not stated",%,1.875,relative,6162955,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2013,"Unemployment Rate",M,15+,NULL,Other,3.959,0.678,"Child (<15)","Not stated",%,3.959,relative,6138839,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2013,"Unemployment Rate",M,15-24,NULL,Other,7.747,0.678,"Youth (15-24)","Not stated",%,7.747,relative,6138839,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2013,"Unemployment Rate",M,25+,NULL,Other,2.818,0.678,"Youth (15-24)","Not stated",%,2.818,relative,6138839,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2013,"Unemployment Rate",F,15+,NULL,Other,3.331,0.678,"Child (<15)","Not stated",%,3.331,relative,6138839,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2013,"Unemployment Rate",F,15-24,NULL,Other,10.457,0.678,"Youth (15-24)","Not stated",%,10.457,relative,6138839,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2013,"Unemployment Rate",F,25+,NULL,Other,1.857,0.678,"Youth (15-24)","Not stated",%,1.857,relative,6138839,UR,Unemployment
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (Aggregate levels): Less than basic",Other,432.288,0.678,"Child (<15)","Less than basic",thousands,432.288,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (Aggregate levels): Basic",Other,567.277,0.678,"Child (<15)",Basic,thousands,567.277,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (Aggregate levels): Intermediate",Other,252.892,0.678,"Child (<15)",Intermediate,thousands,252.892,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (Aggregate levels): Advanced",Other,451.954,0.678,"Child (<15)",Advanced,thousands,451.954,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (Aggregate levels): Level not stated",Other,16.352,0.678,"Child (<15)","Not stated",thousands,16.352,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (Aggregate levels): Less than basic",Other,359.504,0.678,"Adults (25-54)","Less than basic",thousands,359.504,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (Aggregate levels): Basic",Other,536.359,0.678,"Adults (25-54)",Basic,thousands,536.359,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (Aggregate levels): Intermediate",Other,249.656,0.678,"Adults (25-54)",Intermediate,thousands,249.656,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (Aggregate levels): Advanced",Other,434.94,0.678,"Adults (25-54)",Advanced,thousands,434.94,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (Aggregate levels): Level not stated",Other,16.352,0.678,"Adults (25-54)","Not stated",thousands,16.352,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (Aggregate levels): Less than basic",Other,37.684,0.678,"Youth (15-24)","Less than basic",thousands,37.684,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (Aggregate levels): Basic",Other,122.499,0.678,"Youth (15-24)",Basic,thousands,122.499,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (Aggregate levels): Intermediate",Other,67.442,0.678,"Youth (15-24)",Intermediate,thousands,67.442,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (Aggregate levels): Advanced",Other,59.462,0.678,"Youth (15-24)",Advanced,thousands,59.462,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (Aggregate levels): Level not stated",Other,4.557,0.678,"Youth (15-24)","Not stated",thousands,4.557,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (Aggregate levels): Less than basic",Other,394.604,0.678,"Youth (15-24)","Less than basic",thousands,394.604,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (Aggregate levels): Basic",Other,444.779,0.678,"Youth (15-24)",Basic,thousands,444.779,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (Aggregate levels): Intermediate",Other,185.45,0.678,"Youth (15-24)",Intermediate,thousands,185.45,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (Aggregate levels): Advanced",Other,392.492,0.678,"Youth (15-24)",Advanced,thousands,392.492,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (Aggregate levels): Level not stated",Other,11.794,0.678,"Youth (15-24)","Not stated",thousands,11.794,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (Aggregate levels): Less than basic",Other,329.395,0.678,"Child (<15)","Less than basic",thousands,329.395,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (Aggregate levels): Basic",Other,361.628,0.678,"Child (<15)",Basic,thousands,361.628,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (Aggregate levels): Intermediate",Other,200.194,0.678,"Child (<15)",Intermediate,thousands,200.194,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (Aggregate levels): Advanced",Other,407.143,0.678,"Child (<15)",Advanced,thousands,407.143,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (Aggregate levels): Level not stated",Other,18.472,0.678,"Child (<15)","Not stated",thousands,18.472,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (Aggregate levels): Less than basic",Other,280.702,0.678,"Adults (25-54)","Less than basic",thousands,280.702,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (Aggregate levels): Basic",Other,343.373,0.678,"Adults (25-54)",Basic,thousands,343.373,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (Aggregate levels): Intermediate",Other,199.065,0.678,"Adults (25-54)",Intermediate,thousands,199.065,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (Aggregate levels): Advanced",Other,398.549,0.678,"Adults (25-54)",Advanced,thousands,398.549,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (Aggregate levels): Level not stated",Other,18.472,0.678,"Adults (25-54)","Not stated",thousands,18.472,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (Aggregate levels): Less than basic",Other,12.533,0.678,"Youth (15-24)","Less than basic",thousands,12.533,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (Aggregate levels): Basic",Other,62.442,0.678,"Youth (15-24)",Basic,thousands,62.442,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (Aggregate levels): Intermediate",Other,59.276,0.678,"Youth (15-24)",Intermediate,thousands,59.276,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (Aggregate levels): Advanced",Other,43.403,0.678,"Youth (15-24)",Advanced,thousands,43.403,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (Aggregate levels): Level not stated",Other,8.183,0.678,"Youth (15-24)","Not stated",thousands,8.183,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (Aggregate levels): Less than basic",Other,316.862,0.678,"Youth (15-24)","Less than basic",thousands,316.862,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (Aggregate levels): Basic",Other,299.186,0.678,"Youth (15-24)",Basic,thousands,299.186,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (Aggregate levels): Intermediate",Other,140.918,0.678,"Youth (15-24)",Intermediate,thousands,140.918,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (Aggregate levels): Advanced",Other,363.74,0.678,"Youth (15-24)",Advanced,thousands,363.74,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (Aggregate levels): Level not stated",Other,10.289,0.678,"Youth (15-24)","Not stated",thousands,10.289,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): X. No schooling",Other,123.479,0.678,"Child (<15)","Less than basic",thousands,123.479,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 0. Early childhood education",Other,308.809,0.678,"Child (<15)","Less than basic",thousands,308.809,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 1. Primary education",Other,279.232,0.678,"Child (<15)",Basic,thousands,279.232,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 2. Lower secondary education",Other,288.045,0.678,"Child (<15)",Intermediate,thousands,288.045,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 3. Upper secondary education",Other,252.892,0.678,"Child (<15)",Intermediate,thousands,252.892,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,324.691,0.678,"Child (<15)",Advanced,thousands,324.691,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,122.378,0.678,"Child (<15)",Advanced,thousands,122.378,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 7. Master's or equivalent level",Other,4.885,0.678,"Child (<15)",Advanced,thousands,4.885,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15+,"Education (ISCED-11): 9. Not elsewhere classified",Other,16.352,0.678,"Child (<15)","Not stated",thousands,16.352,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): X. No schooling",Other,92.632,0.678,"Adults (25-54)","Less than basic",thousands,92.632,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 0. Early childhood education",Other,266.872,0.678,"Adults (25-54)","Less than basic",thousands,266.872,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 1. Primary education",Other,257.804,0.678,"Adults (25-54)",Basic,thousands,257.804,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 2. Lower secondary education",Other,278.556,0.678,"Adults (25-54)",Intermediate,thousands,278.556,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 3. Upper secondary education",Other,249.656,0.678,"Adults (25-54)",Intermediate,thousands,249.656,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,313.659,0.678,"Adults (25-54)",Advanced,thousands,313.659,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,116.439,0.678,"Adults (25-54)",Advanced,thousands,116.439,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,4.842,0.678,"Adults (25-54)",Advanced,thousands,4.842,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,16.352,0.678,"Adults (25-54)","Not stated",thousands,16.352,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): X. No schooling",Other,4.925,0.678,"Youth (15-24)","Less than basic",thousands,4.925,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): 0. Early childhood education",Other,32.759,0.678,"Youth (15-24)","Less than basic",thousands,32.759,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): 1. Primary education",Other,55.59,0.678,"Youth (15-24)",Basic,thousands,55.59,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,66.908,0.678,"Youth (15-24)",Intermediate,thousands,66.908,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,67.442,0.678,"Youth (15-24)",Intermediate,thousands,67.442,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,55.207,0.678,"Youth (15-24)",Advanced,thousands,55.207,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,4.233,0.678,"Youth (15-24)",Advanced,thousands,4.233,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,4.557,0.678,"Youth (15-24)","Not stated",thousands,4.557,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): X. No schooling",Other,118.554,0.678,"Youth (15-24)","Less than basic",thousands,118.554,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 0. Early childhood education",Other,276.05,0.678,"Youth (15-24)","Less than basic",thousands,276.05,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 1. Primary education",Other,223.643,0.678,"Youth (15-24)",Basic,thousands,223.643,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 2. Lower secondary education",Other,221.136,0.678,"Youth (15-24)",Intermediate,thousands,221.136,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 3. Upper secondary education",Other,185.45,0.678,"Youth (15-24)",Intermediate,thousands,185.45,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,269.485,0.678,"Youth (15-24)",Advanced,thousands,269.485,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,118.146,0.678,"Youth (15-24)",Advanced,thousands,118.146,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 7. Master's or equivalent level",Other,4.862,0.678,"Youth (15-24)",Advanced,thousands,4.862,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,25+,"Education (ISCED-11): 9. Not elsewhere classified",Other,11.794,0.678,"Youth (15-24)","Not stated",thousands,11.794,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): X. No schooling",Other,99.702,0.678,"Child (<15)","Less than basic",thousands,99.702,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 0. Early childhood education",Other,229.692,0.678,"Child (<15)","Less than basic",thousands,229.692,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 1. Primary education",Other,185.893,0.678,"Child (<15)",Basic,thousands,185.893,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 2. Lower secondary education",Other,175.735,0.678,"Child (<15)",Intermediate,thousands,175.735,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 3. Upper secondary education",Other,200.194,0.678,"Child (<15)",Intermediate,thousands,200.194,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,250.175,0.678,"Child (<15)",Advanced,thousands,250.175,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,153.04,0.678,"Child (<15)",Advanced,thousands,153.04,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 7. Master's or equivalent level",Other,3.928,0.678,"Child (<15)",Advanced,thousands,3.928,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15+,"Education (ISCED-11): 9. Not elsewhere classified",Other,18.472,0.678,"Child (<15)","Not stated",thousands,18.472,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): X. No schooling",Other,75.825,0.678,"Adults (25-54)","Less than basic",thousands,75.825,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 0. Early childhood education",Other,204.877,0.678,"Adults (25-54)","Less than basic",thousands,204.877,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 1. Primary education",Other,172.612,0.678,"Adults (25-54)",Basic,thousands,172.612,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 2. Lower secondary education",Other,170.761,0.678,"Adults (25-54)",Intermediate,thousands,170.761,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 3. Upper secondary education",Other,199.065,0.678,"Adults (25-54)",Intermediate,thousands,199.065,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,244.344,0.678,"Adults (25-54)",Advanced,thousands,244.344,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,150.664,0.678,"Adults (25-54)",Advanced,thousands,150.664,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 7. Master's or equivalent level",Other,3.542,0.678,"Adults (25-54)",Advanced,thousands,3.542,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-64,"Education (ISCED-11): 9. Not elsewhere classified",Other,18.472,0.678,"Adults (25-54)","Not stated",thousands,18.472,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): X. No schooling",Other,1.314,0.678,"Youth (15-24)","Less than basic",thousands,1.314,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): 0. Early childhood education",Other,11.219,0.678,"Youth (15-24)","Less than basic",thousands,11.219,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): 1. Primary education",Other,27.682,0.678,"Youth (15-24)",Basic,thousands,27.682,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): 2. Lower secondary education",Other,34.76,0.678,"Youth (15-24)",Intermediate,thousands,34.76,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): 3. Upper secondary education",Other,59.276,0.678,"Youth (15-24)",Intermediate,thousands,59.276,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,37.945,0.678,"Youth (15-24)",Advanced,thousands,37.945,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,5.439,0.678,"Youth (15-24)",Advanced,thousands,5.439,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,15-24,"Education (ISCED-11): 9. Not elsewhere classified",Other,8.183,0.678,"Youth (15-24)","Not stated",thousands,8.183,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): X. No schooling",Other,98.388,0.678,"Youth (15-24)","Less than basic",thousands,98.388,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 0. Early childhood education",Other,218.473,0.678,"Youth (15-24)","Less than basic",thousands,218.473,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 1. Primary education",Other,158.211,0.678,"Youth (15-24)",Basic,thousands,158.211,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 2. Lower secondary education",Other,140.975,0.678,"Youth (15-24)",Intermediate,thousands,140.975,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 3. Upper secondary education",Other,140.918,0.678,"Youth (15-24)",Intermediate,thousands,140.918,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 5. Short-cycle tertiary education",Other,212.23,0.678,"Youth (15-24)",Advanced,thousands,212.23,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 6. Bachelor's or equivalent level",Other,147.601,0.678,"Youth (15-24)",Advanced,thousands,147.601,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 7. Master's or equivalent level",Other,3.909,0.678,"Youth (15-24)",Advanced,thousands,3.909,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",F,25+,"Education (ISCED-11): 9. Not elsewhere classified",Other,10.289,0.678,"Youth (15-24)","Not stated",thousands,10.289,absolute,6309624,LF,"Labour Force"
+"Bottom 5","North America",SLV_A,"El Salvador",2023,"Labour Force",M,15-24,"Education (Aggregate levels): Less than basic",Other,37.684,0.678,"Youth (15-24)","Less than basic",thousands,37.684,absolute,6309624,LF,"Labour Force"

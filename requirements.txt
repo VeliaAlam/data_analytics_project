@@ -1,0 +1,23 @@
+# Data analysis
+pandas==2.2.2
+numpy==1.26.4
+
+# SQL connections
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.31
+pymysql==1.1.1
+
+# Visualization
+matplotlib==3.9.0
+
+# Jupyter notebooks
+jupyter==1.0.0
+notebook==7.2.0
+ipykernel==6.29.5
+
+# Excel and file handling
+openpyxl==3.1.5
+python-dotenv==1.0.1
+
+# APIs and requests
+requests==2.32.3
